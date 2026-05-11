@@ -1,0 +1,18 @@
+{
+  "name": "好市多優惠助手",
+  "short_name": "Costco助手",
+  "description": "即時抓取好市多官網優惠，快速勾選並分享購物清單。",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#e31837",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3759/3759546.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
