@@ -5,6 +5,9 @@ on:
     - cron: '0 0,4,8,12,16,20 * * *' # 每 4 小時抓取一次
   workflow_dispatch: # 支援手動觸發更新
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
