@@ -76,9 +76,6 @@
 
     <script>
         const COSTCO_URL = 'https://www.costco.com.tw/c/hot-buys';
-        // 使用 allorigins 代理
-        const PROXY_URL = `https://api.allorigins.win/get?url=${encodeURIComponent(COSTCO_URL)}`;
-        
         let selectedItems = new Set();
 
         async function fetchData() {
@@ -89,66 +86,105 @@
             refreshBtn.disabled = true;
             app.classList.add('opacity-40');
             status.style.display = 'flex';
+            status.innerHTML = `
+                <div class="w-12 h-12 border-4 border-slate-200 border-t-red-600 rounded-full animate-spin"></div>
+                <p class="text-slate-500 font-medium">正在透過代理抓取資料...</p>
+            `;
 
-            try {
-                const response = await fetch(PROXY_URL + `&_=${Date.now()}`); // 加個 timestamp 避免 cache
-                const data = await response.json();
-                const html = data.contents;
-                
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(html, 'text/html');
-                const products = doc.querySelectorAll('.product-list-item');
+            // 備用代理伺服器清單
+            const proxies = [
+                `https://api.allorigins.win/get?url=${encodeURIComponent(COSTCO_URL)}`,
+                `https://corsproxy.io/?${encodeURIComponent(COSTCO_URL)}`,
+                `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(COSTCO_URL)}`
+            ];
 
-                if (products.length === 0) throw new Error('好市多目前可能無優惠資料');
+            let success = false;
+            let lastError = '';
 
-                status.style.display = 'none';
-                app.classList.remove('opacity-40');
-                app.innerHTML = '';
+            for (let proxyUrl of proxies) {
+                try {
+                    console.log('正在嘗試代理:', proxyUrl);
+                    const response = await fetch(proxyUrl + (proxyUrl.includes('?') ? '&' : '?') + `_=${Date.now()}`);
+                    if (!response.ok) throw new Error(`HTTP 錯誤: ${response.status}`);
 
-                products.forEach((item, idx) => {
-                    const name = item.querySelector('.description')?.innerText.trim() || '未知名稱';
-                    const price = item.querySelector('.price')?.innerText.trim() || '價格點入確認';
-                    const img = item.querySelector('img')?.src || '';
+                    let html = '';
+                    if (proxyUrl.includes('allorigins')) {
+                        const data = await response.json();
+                        html = data.contents;
+                    } else {
+                        html = await response.text();
+                    }
 
-                    const card = document.createElement('div');
-                    card.className = 'bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent flex flex-col transition-all active:scale-95 cursor-pointer hover:shadow-xl hover:shadow-slate-200 group';
-                    card.innerHTML = `
-                        <div class="relative overflow-hidden rounded-2xl mb-3">
-                            <img src="${img}" class="product-img w-full transition-transform duration-500 group-hover:scale-110">
-                        </div>
-                        <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${name}</div>
-                        <div class="mt-auto">
-                            <div class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">會員優惠價</div>
-                            <div class="text-lg font-black text-red-600">${price}</div>
-                        </div>
-                    `;
+                    if (!html || html.length < 500) throw new Error('回傳內容過短或異常');
 
-                    card.onclick = () => {
-                        const itemKey = `${name} (${price})`;
-                        if (selectedItems.has(itemKey)) {
-                            selectedItems.delete(itemKey);
-                            card.classList.remove('selected');
-                        } else {
-                            selectedItems.add(itemKey);
-                            card.classList.add('selected');
-                            // 震動回饋 (如果手機支援)
-                            if (window.navigator.vibrate) window.navigator.vibrate(20);
-                        }
-                        updateShareBar();
-                    };
-                    app.appendChild(card);
-                });
-            } catch (err) {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    const products = doc.querySelectorAll('.product-list-item');
+
+                    if (products.length === 0) throw new Error('找不到商品清單 (可能 DOM 結構不符)');
+
+                    renderProducts(products);
+                    success = true;
+                    status.style.display = 'none';
+                    break;
+                } catch (err) {
+                    console.error(`代理服務 ${proxyUrl} 失敗:`, err.message);
+                    lastError = err.message;
+                }
+            }
+
+            if (!success) {
                 status.innerHTML = `
-                    <div class="text-red-500 bg-red-50 p-6 rounded-2xl text-center">
+                    <div class="text-red-500 bg-red-50 p-6 rounded-2xl text-center max-w-xs mx-auto">
                         <p class="font-bold mb-2">抓取失敗</p>
-                        <p class="text-xs opacity-70">${err.message}</p>
-                        <button onclick="location.reload()" class="mt-4 text-xs font-bold underline">再試一次</button>
+                        <p class="text-[10px] opacity-70 mb-4">${lastError}</p>
+                        <button onclick="fetchData()" class="bg-red-600 text-white px-6 py-2 rounded-full text-xs font-bold shadow-lg">重試</button>
                     </div>
                 `;
-            } finally {
-                refreshBtn.disabled = false;
             }
+
+            refreshBtn.disabled = false;
+            app.classList.remove('opacity-40');
+        }
+
+        function renderProducts(products) {
+            const app = document.getElementById('app');
+            app.innerHTML = '';
+            
+            products.forEach((item) => {
+                const name = item.querySelector('.description')?.innerText.trim() || '未知名稱';
+                const price = item.querySelector('.price')?.innerText.trim() || '點入確認價格';
+                const img = item.querySelector('img')?.src || '';
+
+                const card = document.createElement('div');
+                card.className = 'bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent flex flex-col transition-all active:scale-95 cursor-pointer hover:shadow-xl hover:shadow-slate-200 group';
+                card.innerHTML = `
+                    <div class="relative overflow-hidden rounded-2xl mb-3">
+                        <img src="${img}" class="product-img w-full transition-transform duration-500 group-hover:scale-110">
+                    </div>
+                    <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${name}</div>
+                    <div class="mt-auto">
+                        <div class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">優惠價</div>
+                        <div class="text-lg font-black text-red-600">${price}</div>
+                    </div>
+                `;
+
+                const itemKey = `${name} (${price})`;
+                if (selectedItems.has(itemKey)) card.classList.add('selected');
+
+                card.onclick = () => {
+                    if (selectedItems.has(itemKey)) {
+                        selectedItems.delete(itemKey);
+                        card.classList.remove('selected');
+                    } else {
+                        selectedItems.add(itemKey);
+                        card.classList.add('selected');
+                        if (window.navigator.vibrate) window.navigator.vibrate(20);
+                    }
+                    updateShareBar();
+                };
+                app.appendChild(card);
+            });
         }
 
         function updateShareBar() {
@@ -174,9 +210,9 @@
             } else {
                 try {
                     await navigator.clipboard.writeText(text);
-                    alert('已複製清單到剪貼簿，可直接貼到 LINE！');
+                    alert('已複製清單！');
                 } catch (err) {
-                    alert('分享失敗，請手動複製。');
+                    alert('分享失敗');
                 }
             }
         };
