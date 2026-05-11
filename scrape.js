@@ -42,14 +42,30 @@ async function scrape() {
         }
 
         const products = data.products.map(item => {
-            // 尋找主圖片 (通常是第一張 PRIMARY 或 DEFAULT)
+            // 尋找主圖片
             const primaryImage = item.images && item.images.find(img => img.format === 'product' || img.imageType === 'PRIMARY');
             const imgUrl = primaryImage ? (primaryImage.url.startsWith('http') ? primaryImage.url : 'https://www.costco.com.tw' + primaryImage.url) : '';
+
+            // 嘗試從 summary 提取折扣金額 (例如: <span style="color:red">$800</span>)
+            let discount = 0;
+            let discountText = '';
+            if (item.summary) {
+                const discountMatch = item.summary.match(/color:red[^>]*>\$([\d,]+)/);
+                if (discountMatch) {
+                    discountText = discountMatch[1];
+                    discount = parseInt(discountText.replace(/,/g, ''), 10);
+                }
+            }
+
+            const currentPriceValue = item.price ? item.price.value : 0;
+            const originalPriceValue = currentPriceValue + discount;
 
             return {
                 code: item.code,
                 name: item.name,
                 price: item.price ? item.price.formattedValue : '點入確認價格',
+                original_price: discount > 0 ? `$${originalPriceValue.toLocaleString()}` : null,
+                discount: discount > 0 ? `$${discount.toLocaleString()}` : null,
                 img: imgUrl
             };
         });

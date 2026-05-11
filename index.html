@@ -11,6 +11,7 @@
         
         body {
             font-family: 'Noto+Sans+TC', sans-serif;
+            -webkit-tap-highlight-color: transparent;
         }
         
         .selected { 
@@ -25,49 +26,57 @@
             mix-blend-mode: multiply;
         }
 
-        /* 骨架屏動畫 */
-        @keyframes shimmer {
-            0% { background-position: -200% 0; }
-            100% { background-position: 200% 0; }
-        }
-        .skeleton {
-            background: linear-gradient(90deg, #f3f4f6 25%, #e5e7eb 50%, #f3f4f6 75%);
-            background-size: 200% 100%;
-            animation: shimmer 1.5s infinite;
-        }
+        /* 隱藏捲軸但保留功能 */
+        .no-scrollbar::-webkit-scrollbar { display: none; }
+        .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+        .tab-active { color: #e31837; border-bottom: 4px solid #e31837; }
     </style>
 </head>
-<body class="bg-slate-50 min-h-screen pb-24">
+<body class="bg-slate-50 min-h-screen pb-32">
     <header class="bg-[#e31837] text-white p-4 sticky top-0 z-50 shadow-lg">
         <div class="flex justify-between items-center max-w-md mx-auto">
             <div class="flex items-center gap-2">
                 <div class="bg-white p-1 rounded-md">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="#e31837"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>
                 </div>
-                <h1 class="font-black text-xl tracking-tight">COSTCO 優惠助手</h1>
+                <h1 class="font-black text-xl tracking-tight">COSTCO 助手</h1>
             </div>
-            <button id="refreshBtn" class="bg-white/20 hover:bg-white/30 backdrop-blur-sm p-2 rounded-full transition-all active:rotate-180">
+            <button id="refreshBtn" class="bg-white/20 hover:bg-white/30 p-2 rounded-full transition-all active:rotate-180">
                 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
             </button>
         </div>
+        <!-- 分頁切換 -->
+        <div class="flex max-w-md mx-auto mt-4 font-bold text-sm bg-white/10 rounded-xl overflow-hidden p-1">
+            <button id="tabOffers" class="flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all">當前優惠</button>
+            <button id="tabFavs" class="flex-1 py-2 rounded-lg transition-all">我的常購</button>
+        </div>
     </header>
 
-    <!-- 狀態顯示 -->
-    <div id="status" class="flex flex-col items-center justify-center p-20 gap-4">
-        <div class="w-12 h-12 border-4 border-slate-200 border-t-red-600 rounded-full animate-spin"></div>
-        <p class="text-slate-500 font-medium">正在連線至好市多官網...</p>
-    </div>
-    
-    <main id="app" class="p-4 grid grid-cols-2 gap-4 max-w-md mx-auto"></main>
+    <!-- 當前優惠分頁 -->
+    <section id="viewOffers" class="p-4 max-w-md mx-auto">
+        <div id="status" class="flex flex-col items-center justify-center p-20 gap-4">
+            <div class="w-12 h-12 border-4 border-slate-200 border-t-red-600 rounded-full animate-spin"></div>
+            <p class="text-slate-500 font-medium">載入中...</p>
+        </div>
+        <div id="offersList" class="grid grid-cols-2 gap-4"></div>
+    </section>
+
+    <!-- 常購清單分頁 -->
+    <section id="viewFavs" class="hidden p-4 max-w-md mx-auto">
+        <div id="favsList" class="space-y-8">
+            <!-- 由 JS 動態生成 -->
+        </div>
+    </section>
 
     <!-- 底部懸浮分享按鈕 -->
-    <div id="shareBar" class="fixed bottom-0 left-0 right-0 p-5 bg-white/80 backdrop-blur-md border-t border-slate-100 shadow-[0_-10px_30px_rgba(0,0,0,0.05)] transform translate-y-full transition-all duration-500 ease-out z-50 rounded-t-3xl">
+    <div id="shareBar" class="fixed bottom-0 left-0 right-0 p-5 bg-white/90 backdrop-blur-md border-t border-slate-100 shadow-[0_-10px_30px_rgba(0,0,0,0.1)] transform translate-y-full transition-all duration-500 ease-out z-50 rounded-t-3xl">
         <div class="max-w-md mx-auto flex justify-between items-center">
             <div class="flex flex-col">
                 <span id="selectedCount" class="font-black text-2xl text-red-600">0</span>
                 <span class="text-xs text-slate-400 font-bold uppercase tracking-widest">已選擇項目</span>
             </div>
-            <button id="shareBtn" class="bg-green-500 hover:bg-green-600 text-white px-10 py-3 rounded-2xl font-black shadow-lg shadow-green-200 transition-all active:scale-95 flex items-center gap-2">
+            <button id="shareBtn" class="bg-green-500 hover:bg-green-600 text-white px-10 py-3 rounded-2xl font-black shadow-lg transition-all active:scale-95 flex items-center gap-2">
                 <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/></svg>
                 傳送清單
             </button>
@@ -75,129 +84,161 @@
     </div>
 
     <script>
+        const FAVORITES_DATA = [
+            { category: "🥩 生鮮食品", items: ["空運新鮮鮭魚切片", "台灣去骨清雞腿真空包", "冷凍金目鱸魚 1KG", "KS養殖超大生蝦仁", "全佑雞蛋L30CT", "非基因改造板豆腐", "非基因改造細豆腐", "美國特選牛腱真空包", "台灣土雞 (骨腿切、切塊)", "老協珍豬肉米漢堡"] },
+            { category: "🥦 蔬果乾貨", items: ["好菇道有機綜合菇", "有機木耳 600G", "紐西蘭陽光金圓頭 (奇異果)", "亞細亞智利藍莓", "日本山藥 950G", "履歷地瓜 2.8KG", "龍口有機粉絲", "五木寬捲麵", "曾拌麵 12 入", "青花椒香麻拌麵", "有機穀典有機黃豆"] },
+            { category: "🥛 乳品飲料", items: ["科克蘭全脂鮮乳", "科克蘭希臘優格", "福樂低脂優格 10PK", "KS衣索匹亞咖啡豆", "KS MOSCATO D'ASTI (氣泡酒)", "美國伏特加 1.75L"] },
+            { category: "🥨 零食烘焙", items: ["美式辣雞翅", "肉桂葡萄貝果麵包", "無鹽奶油 1.81KG", "原味高鈣起司球", "美製瑞士風味乾酪"] },
+            { category: "🧻 生活用品", items: ["幫寶適拉拉褲 XL", "好奇嬰兒濕巾", "SCOOP AWAY 貓砂", "五月花妙用衛生紙", "NAUTICA 漁夫帽", "MOOMIN 小餐盤 8PC", "WATERPIK 沖牙機組", "TRESEMME 洗髮精", "AVEENO 嬰兒沐浴露", "VIT C/D/鋅發泡錠 (力度伸)", "KS 冷凍保鮮袋 (大)", "USII 蔬果夾鏈袋", "ALPHAMIC 烹調紙"] }
+        ];
+
         let selectedItems = new Set();
+        let currentTab = 'offers';
 
-        async function fetchData() {
-            const status = document.getElementById('status');
-            const app = document.getElementById('app');
-            const refreshBtn = document.getElementById('refreshBtn');
-            
-            refreshBtn.disabled = true;
-            app.classList.add('opacity-40');
-            status.style.display = 'flex';
-            status.innerHTML = `
-                <div class="w-12 h-12 border-4 border-slate-200 border-t-red-600 rounded-full animate-spin"></div>
-                <p class="text-slate-500 font-medium">正在讀取優惠資料...</p>
-            `;
+        // Tab 切換邏輯
+        document.getElementById('tabOffers').onclick = () => switchTab('offers');
+        document.getElementById('tabFavs').onclick = () => switchTab('favs');
 
-            try {
-                // 直接讀取倉庫內的 data.json (由 GitHub Actions 定期產出)
-                const response = await fetch(`./data.json?_=${Date.now()}`);
-                if (!response.ok) throw new Error('資料檔案尚未生成或讀取失敗');
+        function switchTab(tab) {
+            currentTab = tab;
+            const btnOffers = document.getElementById('tabOffers');
+            const btnFavs = document.getElementById('tabFavs');
+            const viewOffers = document.getElementById('viewOffers');
+            const viewFavs = document.getElementById('viewFavs');
 
-                const data = await response.json();
-                const products = data.items || [];
-
-                if (products.length === 0) throw new Error('目前無優惠資料');
-
-                // 顯示最後更新時間
-                console.log('資料更新時間:', data.updated_at);
-                
-                renderProducts(products);
-                status.style.display = 'none';
-            } catch (err) {
-                console.error('讀取失敗:', err.message);
-                status.innerHTML = `
-                    <div class="text-red-500 bg-red-50 p-6 rounded-2xl text-center max-w-xs mx-auto">
-                        <p class="font-bold mb-2">資料讀取失敗</p>
-                        <p class="text-[10px] opacity-70 mb-4">${err.message}</p>
-                        <p class="text-[10px] mb-4">請確保已推送代碼至 GitHub 並等待 Actions 首次執行完畢。</p>
-                        <button onclick="fetchData()" class="bg-red-600 text-white px-6 py-2 rounded-full text-xs font-bold shadow-lg">重試</button>
-                    </div>
-                `;
-            } finally {
-                refreshBtn.disabled = false;
-                app.classList.remove('opacity-40');
+            if (tab === 'offers') {
+                btnOffers.className = "flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all";
+                btnFavs.className = "flex-1 py-2 rounded-lg transition-all";
+                viewOffers.classList.remove('hidden');
+                viewFavs.classList.add('hidden');
+            } else {
+                btnFavs.className = "flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all";
+                btnOffers.className = "flex-1 py-2 rounded-lg transition-all";
+                viewFavs.classList.remove('hidden');
+                viewOffers.classList.add('hidden');
+                renderFavorites();
             }
         }
 
-        function renderProducts(products) {
-            const app = document.getElementById('app');
-            app.innerHTML = '';
+        async function fetchData() {
+            const status = document.getElementById('status');
+            const offersList = document.getElementById('offersList');
+            const refreshBtn = document.getElementById('refreshBtn');
             
-            products.forEach((item) => {
-                const name = item.name || '未知名稱';
-                const price = item.price || '點入確認價格';
-                const img = item.img || '';
+            refreshBtn.disabled = true;
+            offersList.classList.add('opacity-40');
+            status.style.display = 'flex';
 
+            try {
+                const response = await fetch(`./data.json?_=${Date.now()}`);
+                if (!response.ok) throw new Error('資料未更新');
+                const data = await response.json();
+                renderOffers(data.items || []);
+                status.style.display = 'none';
+            } catch (err) {
+                status.innerHTML = `<p class="text-red-500 text-xs">資料載入失敗，請稍後再試</p>`;
+            } finally {
+                refreshBtn.disabled = false;
+                offersList.classList.remove('opacity-40');
+            }
+        }
+
+        function renderOffers(items) {
+            const list = document.getElementById('offersList');
+            list.innerHTML = '';
+            items.forEach(item => {
                 const card = document.createElement('div');
-                card.className = 'bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent flex flex-col transition-all active:scale-95 cursor-pointer hover:shadow-xl hover:shadow-slate-200 group';
+                card.className = `bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent transition-all active:scale-95 cursor-pointer flex flex-col ${selectedItems.has(item.name) ? 'selected' : ''}`;
                 card.innerHTML = `
-                    <div class="relative overflow-hidden rounded-2xl mb-3">
-                        <img src="${img}" class="product-img w-full transition-transform duration-500 group-hover:scale-110">
+                    <div class="relative mb-3 overflow-hidden rounded-2xl">
+                        <img src="${item.img}" class="product-img w-full">
+                        ${item.discount ? `<div class="absolute top-2 left-2 bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded-lg shadow-md">省 ${item.discount}</div>` : ''}
                     </div>
-                    <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${name}</div>
+                    <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${item.name}</div>
                     <div class="mt-auto">
-                        <div class="text-[10px] text-slate-400 font-bold uppercase tracking-wider">優惠價</div>
-                        <div class="text-lg font-black text-red-600">${price}</div>
+                        <div class="flex items-baseline gap-1">
+                            <div class="text-lg font-black text-red-600">${item.price}</div>
+                            ${item.original_price ? `<div class="text-[10px] text-slate-300 line-through">${item.original_price}</div>` : ''}
+                        </div>
                     </div>
                 `;
-
-                const itemKey = `${name} (${price})`;
-                if (selectedItems.has(itemKey)) card.classList.add('selected');
-
-                card.onclick = () => {
-                    if (selectedItems.has(itemKey)) {
-                        selectedItems.delete(itemKey);
-                        card.classList.remove('selected');
-                    } else {
-                        selectedItems.add(itemKey);
-                        card.classList.add('selected');
-                        if (window.navigator.vibrate) window.navigator.vibrate(20);
-                    }
-                    updateShareBar();
-                };
-                app.appendChild(card);
+                card.onclick = () => toggleItem(item.name, card);
+                list.appendChild(card);
             });
+        }
+
+        function renderFavorites() {
+            const list = document.getElementById('favsList');
+            if (list.innerHTML !== '') return; // 避免重複生成
+
+            FAVORITES_DATA.forEach(cat => {
+                const section = document.createElement('div');
+                section.innerHTML = `
+                    <h3 class="font-black text-lg text-slate-800 mb-4 flex items-center gap-2">
+                        <span class="w-1 h-6 bg-red-600 rounded-full"></span> ${cat.category}
+                    </h3>
+                    <div class="grid grid-cols-1 gap-3">
+                        ${cat.items.map(name => `
+                            <div class="fav-item bg-white p-4 rounded-2xl shadow-sm border-2 border-transparent flex justify-between items-center transition-all active:scale-[0.98] cursor-pointer ${selectedItems.has(name) ? 'selected' : ''}" data-name="${name}">
+                                <span class="font-bold text-slate-600">${name}</span>
+                                <div class="check-icon ${selectedItems.has(name) ? 'text-red-600' : 'text-slate-200'}">
+                                    <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                                </div>
+                            </div>
+                        `).join('')}
+                    </div>
+                `;
+                list.appendChild(section);
+            });
+
+            // 為常購項目綁定點擊事件
+            document.querySelectorAll('.fav-item').forEach(el => {
+                el.onclick = () => {
+                    const name = el.getAttribute('data-name');
+                    toggleItem(name, el);
+                    const icon = el.querySelector('.check-icon');
+                    if (selectedItems.has(name)) {
+                        icon.classList.replace('text-slate-200', 'text-red-600');
+                    } else {
+                        icon.classList.replace('text-red-600', 'text-slate-200');
+                    }
+                };
+            });
+        }
+
+        function toggleItem(name, element) {
+            if (selectedItems.has(name)) {
+                selectedItems.delete(name);
+                element.classList.remove('selected');
+            } else {
+                selectedItems.add(name);
+                element.classList.add('selected');
+                if (window.navigator.vibrate) window.navigator.vibrate(20);
+            }
+            updateShareBar();
         }
 
         function updateShareBar() {
             const bar = document.getElementById('shareBar');
             const countLabel = document.getElementById('selectedCount');
             countLabel.innerText = selectedItems.size;
-            
-            if (selectedItems.size > 0) {
-                bar.classList.remove('translate-y-full');
-            } else {
-                bar.classList.add('translate-y-full');
-            }
+            if (selectedItems.size > 0) bar.classList.remove('translate-y-full');
+            else bar.classList.add('translate-y-full');
         }
 
         document.getElementById('shareBtn').onclick = async () => {
             const list = Array.from(selectedItems).map((item, i) => `${i+1}. ${item}`).join('\n');
-            const text = "🛒 好市多優惠挑選清單：\n------------------\n" + list + "\n------------------\n產生時間：" + new Date().toLocaleString();
-            
+            const text = "🛒 好市多購物清單：\n------------------\n" + list + "\n------------------\n產生時間：" + new Date().toLocaleString();
             if (navigator.share) {
-                try {
-                    await navigator.share({ title: 'Costco 購物清單', text: text });
-                } catch (e) { console.log('分享取消'); }
+                try { await navigator.share({ title: 'Costco 購物清單', text: text }); } catch (e) {}
             } else {
-                try {
-                    await navigator.clipboard.writeText(text);
-                    alert('已複製清單！');
-                } catch (err) {
-                    alert('分享失敗');
-                }
+                try { await navigator.clipboard.writeText(text); alert('已複製清單！'); } catch (err) {}
             }
         };
 
         document.getElementById('refreshBtn').onclick = fetchData;
-
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('sw.js');
-        }
-
         fetchData();
+        if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
     </script>
 </body>
 </html>
