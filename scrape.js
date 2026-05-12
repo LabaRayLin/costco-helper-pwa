@@ -1,8 +1,8 @@
 const fs = require('fs');
 const https = require('https');
 
-// 直接使用好市多內部的 REST API 介面
-const API_URL = 'https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions)&query=:relevance:allCategories:hot-buys&pageSize=100&lang=zh_TW&curr=TWD';
+// 好市多內部的 REST API 基礎 URL (不帶分頁參數)
+const BASE_API_URL = 'https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination(totalPages,totalResults,number)&pageSize=100&lang=zh_TW&curr=TWD';
 
 function fetchJSON(url) {
     return new Promise((resolve, reject) => {
@@ -10,7 +10,7 @@ function fetchJSON(url) {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',
                 'Accept': 'application/json',
-                'Referer': 'https://www.costco.com.tw/c/hot-buys'
+                'Referer': 'https://www.costco.com.tw/'
             }
         }, (res) => {
             if (res.statusCode === 301 || res.statusCode === 302) {
@@ -33,53 +33,70 @@ function fetchJSON(url) {
 }
 
 async function scrape() {
-    console.log('正在透過 API 抓取好市多優惠資料...');
+    console.log('正在準備抓取好市多全站商品資料...');
+    let allProducts = [];
+    let currentPage = 0;
+    let totalPages = 1;
+
     try {
-        const data = await fetchJSON(API_URL);
+        // 第一波抓取：所有商品的總覽 (不限 hot-buys)
+        // query = :relevance (這是預設的全域搜尋)
+        const initialUrl = `${BASE_API_URL}&query=:relevance&currentPage=0`;
+        const firstPage = await fetchJSON(initialUrl);
         
-        if (!data.products || !Array.isArray(data.products)) {
-            throw new Error('API 回傳格式不符，找不到 products 陣列');
+        if (firstPage.pagination) {
+            totalPages = firstPage.pagination.totalPages;
+            console.log(`總共有 ${totalPages} 頁，共 ${firstPage.pagination.totalResults} 項商品。`);
         }
 
-        const products = data.products.map(item => {
-            // 尋找主圖片
-            const primaryImage = item.images && item.images.find(img => img.format === 'product' || img.imageType === 'PRIMARY');
-            const imgUrl = primaryImage ? (primaryImage.url.startsWith('http') ? primaryImage.url : 'https://www.costco.com.tw' + primaryImage.url) : '';
+        // 開始循環抓取每一頁 (限制最大抓取頁數避免 Action 超時，通常全站商品約 5000-8000 項，100頁內可完成)
+        const MAX_PAGES = 100; 
+        const pagesToFetch = Math.min(totalPages, MAX_PAGES);
 
-            // 嘗試從 summary 提取折扣金額 (例如: <span style="color:red">$800</span>)
-            let discount = 0;
-            let discountText = '';
-            if (item.summary) {
-                const discountMatch = item.summary.match(/color:red[^>]*>\$([\d,]+)/);
-                if (discountMatch) {
-                    discountText = discountMatch[1];
-                    discount = parseInt(discountText.replace(/,/g, ''), 10);
-                }
+        for (currentPage = 0; currentPage < pagesToFetch; currentPage++) {
+            console.log(`正在抓取第 ${currentPage + 1}/${pagesToFetch} 頁...`);
+            const url = `${BASE_API_URL}&query=:relevance&currentPage=${currentPage}`;
+            const data = await fetchJSON(url);
+
+            if (data.products && Array.isArray(data.products)) {
+                const pageProducts = data.products.map(item => {
+                    const primaryImage = item.images && item.images.find(img => img.format === 'product' || img.imageType === 'PRIMARY');
+                    const imgUrl = primaryImage ? (primaryImage.url.startsWith('http') ? primaryImage.url : 'https://www.costco.com.tw' + primaryImage.url) : '';
+
+                    let discount = 0;
+                    if (item.summary) {
+                        const discountMatch = item.summary.match(/color:red[^>]*>\$([\d,]+)/);
+                        if (discountMatch) {
+                            discount = parseInt(discountMatch[1].replace(/,/g, ''), 10);
+                        }
+                    }
+
+                    const currentPriceValue = item.price ? item.price.value : 0;
+                    const originalPriceValue = currentPriceValue + discount;
+
+                    return {
+                        code: item.code,
+                        name: item.name,
+                        price: item.price ? item.price.formattedValue : '點入確認價格',
+                        original_price: discount > 0 ? `$${originalPriceValue.toLocaleString()}` : null,
+                        discount: discount > 0 ? `$${discount.toLocaleString()}` : null,
+                        img: imgUrl
+                    };
+                });
+                allProducts = allProducts.concat(pageProducts);
             }
-
-            const currentPriceValue = item.price ? item.price.value : 0;
-            const originalPriceValue = currentPriceValue + discount;
-
-            return {
-                code: item.code,
-                name: item.name,
-                price: item.price ? item.price.formattedValue : '點入確認價格',
-                original_price: discount > 0 ? `$${originalPriceValue.toLocaleString()}` : null,
-                discount: discount > 0 ? `$${discount.toLocaleString()}` : null,
-                img: imgUrl
-            };
-        });
-
-        if (products.length === 0) throw new Error('目前 API 回傳 0 項商品');
+            // 稍作停頓避免被鎖 IP
+            await new Promise(r => setTimeout(r, 500));
+        }
 
         const output = {
             updated_at: new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' }),
-            count: products.length,
-            items: products
+            count: allProducts.length,
+            items: allProducts
         };
 
         fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
-        console.log(`✅ 成功抓取 ${products.length} 項商品！資料已更新。`);
+        console.log(`✅ 成功抓取全站共 ${allProducts.length} 項商品！`);
     } catch (err) {
         console.error('❌ 抓取失敗:', err.message);
         process.exit(1);

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'costco-helper-v2';
+const CACHE_NAME = 'costco-helper-v3';
 const ASSETS = [
   './',
   'index.html',

@@ -46,10 +46,23 @@
                 <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
             </button>
         </div>
+
+        <!-- 搜尋欄 -->
+        <div class="max-w-md mx-auto mt-4 relative">
+            <input type="text" id="searchInput" placeholder="搜尋商品名稱或代碼..." 
+                   class="w-full bg-white/20 border-none rounded-xl py-3 px-11 text-white placeholder-white/60 focus:bg-white/30 focus:ring-2 focus:ring-white/50 transition-all outline-none">
+            <svg class="absolute left-4 top-3.5 text-white/60" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24">
+                <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+            <button id="clearSearch" class="absolute right-3 top-3 bg-white/10 hover:bg-white/20 p-1 rounded-md text-white/60 hidden">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12"></path></svg>
+            </button>
+        </div>
+
         <!-- 分頁切換 -->
         <div class="flex max-w-md mx-auto mt-4 font-bold text-sm bg-white/10 rounded-xl overflow-hidden p-1">
             <button id="tabOffers" class="flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all">當前優惠</button>
-            <button id="tabFavs" class="flex-1 py-2 rounded-lg transition-all">我的常購</button>
+            <button id="tabFavs" class="flex-1 py-2 rounded-lg transition-all text-white/80 hover:bg-white/10">我的常購</button>
         </div>
     </header>
 
@@ -59,14 +72,18 @@
             <div class="w-12 h-12 border-4 border-slate-200 border-t-red-600 rounded-full animate-spin"></div>
             <p class="text-slate-500 font-medium">載入中...</p>
         </div>
+        <div id="searchExternalTip" class="hidden mb-6 p-5 bg-gradient-to-br from-red-50 to-white rounded-3xl border border-red-100 shadow-sm">
+            <p class="text-sm text-slate-600 font-bold mb-3">找不到優惠商品？</p>
+            <button id="searchOnlineBtn" class="w-full bg-[#e31837] text-white py-3 rounded-2xl font-black shadow-lg shadow-red-200 active:scale-95 transition-all flex items-center justify-center gap-2">
+                <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                在好市多線上搜尋 「<span id="searchKeywordText"></span>」
+            </button>
+        </div>
         <div id="offersList" class="grid grid-cols-2 gap-4"></div>
     </section>
 
-    <!-- 常購清單分頁 -->
     <section id="viewFavs" class="hidden p-4 max-w-md mx-auto">
-        <div id="favsList" class="space-y-8">
-            <!-- 由 JS 動態生成 -->
-        </div>
+        <div id="favsList" class="space-y-8"></div>
     </section>
 
     <!-- 底部懸浮分享按鈕 -->
@@ -94,6 +111,8 @@
 
         let selectedItems = new Set();
         let currentTab = 'offers';
+        let allOffers = [];
+        let searchQuery = '';
 
         // Tab 切換邏輯
         document.getElementById('tabOffers').onclick = () => switchTab('offers');
@@ -108,14 +127,16 @@
 
             if (tab === 'offers') {
                 btnOffers.className = "flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all";
-                btnFavs.className = "flex-1 py-2 rounded-lg transition-all";
+                btnFavs.className = "flex-1 py-2 rounded-lg transition-all text-white/80 hover:bg-white/10";
                 viewOffers.classList.remove('hidden');
                 viewFavs.classList.add('hidden');
+                document.getElementById('searchExternalTip').classList.toggle('hidden', searchQuery === '');
             } else {
                 btnFavs.className = "flex-1 py-2 rounded-lg bg-white text-[#e31837] shadow-sm transition-all";
-                btnOffers.className = "flex-1 py-2 rounded-lg transition-all";
+                btnOffers.className = "flex-1 py-2 rounded-lg transition-all text-white/80 hover:bg-white/10";
                 viewFavs.classList.remove('hidden');
                 viewOffers.classList.add('hidden');
+                document.getElementById('searchExternalTip').classList.add('hidden');
                 renderFavorites();
             }
         }
@@ -133,7 +154,8 @@
                 const response = await fetch(`./data.json?_=${Date.now()}`);
                 if (!response.ok) throw new Error('資料未更新');
                 const data = await response.json();
-                renderOffers(data.items || []);
+                allOffers = data.items || [];
+                renderOffers();
                 status.style.display = 'none';
             } catch (err) {
                 status.innerHTML = `<p class="text-red-500 text-xs">資料載入失敗，請稍後再試</p>`;
@@ -143,15 +165,35 @@
             }
         }
 
-        function renderOffers(items) {
+        function renderOffers() {
             const list = document.getElementById('offersList');
+            const tip = document.getElementById('searchExternalTip');
+            const keywordText = document.getElementById('searchKeywordText');
+            
+            const filtered = allOffers.filter(item => 
+                item.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                (item.code && item.code.includes(searchQuery))
+            );
+
             list.innerHTML = '';
-            items.forEach(item => {
+            
+            if (searchQuery && filtered.length === 0) {
+                tip.classList.remove('hidden');
+                keywordText.innerText = searchQuery;
+            } else {
+                tip.classList.add('hidden');
+            }
+
+            // 限制渲染數量以提升效能
+            const DISPLAY_LIMIT = 50;
+            const itemsToRender = filtered.slice(0, DISPLAY_LIMIT);
+
+            itemsToRender.forEach(item => {
                 const card = document.createElement('div');
                 card.className = `bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent transition-all active:scale-95 cursor-pointer flex flex-col ${selectedItems.has(item.name) ? 'selected' : ''}`;
                 card.innerHTML = `
-                    <div class="relative mb-3 overflow-hidden rounded-2xl">
-                        <img src="${item.img}" class="product-img w-full">
+                    <div class="relative mb-3 overflow-hidden rounded-2xl bg-slate-50">
+                        <img src="${item.img}" class="product-img w-full" loading="lazy">
                         ${item.discount ? `<div class="absolute top-2 left-2 bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded-lg shadow-md">省 ${item.discount}</div>` : ''}
                     </div>
                     <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${item.name}</div>
@@ -165,20 +207,33 @@
                 card.onclick = () => toggleItem(item.name, card);
                 list.appendChild(card);
             });
+
+            if (filtered.length > DISPLAY_LIMIT) {
+                const moreLabel = document.createElement('div');
+                moreLabel.className = "col-span-2 text-center py-8 text-slate-400 text-sm font-medium";
+                moreLabel.innerText = `還有 ${filtered.length - DISPLAY_LIMIT} 項商品，請縮小搜尋範圍...`;
+                list.appendChild(moreLabel);
+            }
         }
 
         function renderFavorites() {
             const list = document.getElementById('favsList');
-            if (list.innerHTML !== '') return; // 避免重複生成
+            list.innerHTML = ''; 
 
             FAVORITES_DATA.forEach(cat => {
+                const filteredItems = cat.items.filter(name => 
+                    name.toLowerCase().includes(searchQuery.toLowerCase())
+                );
+
+                if (searchQuery && filteredItems.length === 0) return;
+
                 const section = document.createElement('div');
                 section.innerHTML = `
                     <h3 class="font-black text-lg text-slate-800 mb-4 flex items-center gap-2">
                         <span class="w-1 h-6 bg-red-600 rounded-full"></span> ${cat.category}
                     </h3>
                     <div class="grid grid-cols-1 gap-3">
-                        ${cat.items.map(name => `
+                        ${filteredItems.map(name => `
                             <div class="fav-item bg-white p-4 rounded-2xl shadow-sm border-2 border-transparent flex justify-between items-center transition-all active:scale-[0.98] cursor-pointer ${selectedItems.has(name) ? 'selected' : ''}" data-name="${name}">
                                 <span class="font-bold text-slate-600">${name}</span>
                                 <div class="check-icon ${selectedItems.has(name) ? 'text-red-600' : 'text-slate-200'}">
@@ -205,6 +260,31 @@
                 };
             });
         }
+
+        // 搜尋邏輯
+        const searchInput = document.getElementById('searchInput');
+        const clearBtn = document.getElementById('clearSearch');
+
+        searchInput.oninput = (e) => {
+            searchQuery = e.target.value.trim();
+            clearBtn.classList.toggle('hidden', searchQuery === '');
+            
+            if (currentTab === 'offers') renderOffers();
+            else renderFavorites();
+        };
+
+        clearBtn.onclick = () => {
+            searchInput.value = '';
+            searchQuery = '';
+            clearBtn.classList.add('hidden');
+            if (currentTab === 'offers') renderOffers();
+            else renderFavorites();
+        };
+
+        document.getElementById('searchOnlineBtn').onclick = () => {
+            const url = `https://www.costco.com.tw/search?text=${encodeURIComponent(searchQuery)}`;
+            window.open(url, '_blank');
+        };
 
         function toggleItem(name, element) {
             if (selectedItems.has(name)) {
