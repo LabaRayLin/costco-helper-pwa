@@ -55,7 +55,10 @@ async function scrape() {
     }
 
     console.log('🔍 正在掃描全站分類結構...');
-    const rootCategories = ['1', '2', '3', '4', '5', 'hot-buys', 'last-chance', 'treasure-hunt', 'new-items'];
+    const rootCategories = [
+        'Warehouse-Only', 'Online-Only', 'hot-buys', 'last-chance', 'treasure-hunt', 'new-items',
+        '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16'
+    ];
     let allCategoryIds = [];
     for (const root of rootCategories) {
         const ids = await getAllCategoryIds(root);
