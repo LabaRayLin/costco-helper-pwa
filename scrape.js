@@ -1,35 +1,22 @@
+const axios = require('axios');
 const fs = require('fs');
-const https = require('https');
+const path = require('path');
 
-// 好市多內部的 REST API 基礎 URL (不帶分頁參數)
-const BASE_API_URL = 'https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination(totalPages,totalResults,number)&pageSize=100&lang=zh_TW&curr=TWD';
+const OUTPUT_FILE = path.join(__dirname, 'data.json');
 
-function fetchJSON(url) {
-    return new Promise((resolve, reject) => {
-        https.get(url, {
+async function fetchJSON(url) {
+    try {
+        const response = await axios.get(url, {
             headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36',
-                'Accept': 'application/json',
-                'Referer': 'https://www.costco.com.tw/p/search'
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'application/json, text/plain, */*',
+                'Referer': 'https://www.costco.com.tw/'
             }
-        }, (res) => {
-            if (res.statusCode === 301 || res.statusCode === 302) {
-                return fetchJSON(res.headers.location).then(resolve).catch(reject);
-            }
-            if (res.statusCode !== 200) {
-                return reject(new Error(`API 請求失敗，狀態碼: ${res.statusCode}`));
-            }
-            let data = '';
-            res.on('data', chunk => data += chunk);
-            res.on('end', () => {
-                try {
-                    resolve(JSON.parse(data));
-                } catch (e) {
-                    reject(new Error('JSON 解析失敗: ' + e.message));
-                }
-            });
-        }).on('error', reject);
-    });
+        });
+        return response.data;
+    } catch (err) {
+        throw new Error(`Fetch failed: ${err.message}`);
+    }
 }
 
 async function scrape() {
@@ -74,8 +61,8 @@ async function scrape() {
             const firstUrl = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),basePrice(FULL),discountPrice(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=0`;
             const firstData = await fetchJSON(firstUrl);
             
-            if (firstData.pagination && firstData.pagination.totalPages) {
-                const totalPages = firstData.pagination.totalPages;
+            if (firstData.products && firstData.pagination) {
+                const totalPages = firstData.pagination.totalPages || 1;
                 
                 for (let page = 0; page < totalPages; page++) {
                     if (page > 0) console.log(`   -> 抓取 ${catId} 第 ${page + 1}/${totalPages} 頁...`);
@@ -115,27 +102,26 @@ async function scrape() {
                     }
                     if (page < totalPages - 1) await new Promise(r => setTimeout(r, 500));
                 }
-            } catch (catErr) {
-                console.error(`   ❌ 分類 ${catId} 抓取中斷:`, catErr.message);
             }
-            // 分類間隔
-            await new Promise(r => setTimeout(r, 1000));
+        } catch (catErr) {
+            console.error(`   ❌ 分類 ${catId} 抓取中斷:`, catErr.message);
         }
-
-        const finalProducts = Array.from(allProductsMap.values());
-        const output = {
-            updated_at: new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' }),
-            count: finalProducts.length,
-            items: finalProducts
-        };
-
-        fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
-        console.log(`\n🎉 任務達成！全站共抓取 ${finalProducts.length} 項不重複商品。`);
-    } catch (err) {
-        console.error('\n❌ 抓取程式發生嚴重錯誤:');
-        console.error(err.message);
-        process.exit(1);
+        // 分類間隔
+        await new Promise(r => setTimeout(r, 1000));
     }
+
+    const finalProducts = Array.from(allProductsMap.values());
+    const output = {
+        updated_at: new Date().toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' }),
+        count: finalProducts.length,
+        items: finalProducts
+    };
+
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(output, null, 2));
+    console.log(`\n🎉 抓取完成！共收集 ${finalProducts.length} 項商品。`);
 }
 
-scrape();
+scrape().catch(err => {
+    console.error('致命錯誤:', err);
+    process.exit(1);
+});
