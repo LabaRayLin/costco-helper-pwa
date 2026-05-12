@@ -27,24 +27,26 @@ async function scrape() {
     async function getAllCategoryIds(catId) {
         let ids = [catId];
         try {
-            const url = `https://www.costco.com.tw/rest/v2/taiwan/catalogs/taiwanProductCatalog/Online/categories/${catId}/subcategories`;
+            // 使用正確的 API 獲取分類詳情 (包含子類)
+            const url = `https://www.costco.com.tw/rest/v2/taiwan/catalogs/taiwanProductCatalog/Online/categories/${catId}?fields=FULL`;
             const data = await fetchJSON(url);
-            if (data.categories && Array.isArray(data.categories)) {
-                for (const sub of data.categories) {
+            if (data.subcategories && Array.isArray(data.subcategories)) {
+                for (const sub of data.subcategories) {
                     const subIds = await getAllCategoryIds(sub.id);
                     ids = ids.concat(subIds);
                 }
             }
         } catch (err) {
-            console.error(`   ⚠️ 分類 ${catId} 子類獲取失敗:`, err.message);
+            console.error(`   ⚠️ 分類 ${catId} 詳情獲取失敗:`, err.message);
         }
         return [...new Set(ids)];
     }
 
     console.log('🔍 正在掃描全站分類結構...');
     const rootCategories = [
-        'Warehouse-Only', 'Online-Only', 'hot-buys', 'last-chance', 'treasure-hunt', 'new-items',
-        '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16'
+        '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16',
+        'WH08', 'WH12', 'WH06', 'WH03', 'WH07', 'WH02', // 賣場獨家根分類
+        'hot-buys', 'last-chance', 'treasure-hunt', 'new-items'
     ];
     let allCategoryIds = [];
     for (const root of rootCategories) {
