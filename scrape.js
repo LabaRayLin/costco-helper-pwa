@@ -45,7 +45,7 @@ async function scrape() {
     console.log('🔍 正在掃描全站分類結構...');
     const rootCategories = [
         '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16',
-        'WH08', 'WH12', 'WH06', 'WH03', 'WH07', 'WH02', // 賣場獨家根分類
+        'WH01', 'WH02', 'WH03', 'WH06', 'WH07', 'WH08', 'WH10', 'WH11', 'WH12', 'WH13', 'WH15', 'WH16', 'WH17', 'WH19',
         'hot-buys', 'last-chance', 'treasure-hunt', 'new-items'
     ];
     let allCategoryIds = [];

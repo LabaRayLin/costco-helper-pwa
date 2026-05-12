@@ -37,10 +37,16 @@
                 <svg width="36" height="36" fill="white" viewBox="0 0 24 24"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>
                 COSTCO 助手
             </h1>
-            <button id="refreshBtn" class="bg-white/20 hover:bg-white/30 text-white p-3 rounded-2xl backdrop-blur-md transition-all active:rotate-180 duration-500 shadow-inner">
-                <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
-            </button>
+            <div class="flex flex-col items-end gap-1">
+                <button id="refreshBtn" class="bg-white/20 hover:bg-white/30 text-white p-3 rounded-2xl backdrop-blur-md transition-all active:rotate-180 duration-500 shadow-inner group">
+                    <svg id="refreshIcon" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+                </button>
+                <span id="updatedTime" class="text-[10px] text-white/50 font-bold">尚未更新</span>
+            </div>
         </div>
+
+        <!-- 更新提示 -->
+        <div id="toast" class="fixed top-24 left-1/2 -translate-x-1/2 bg-slate-800 text-white px-6 py-2 rounded-full text-xs font-bold shadow-2xl opacity-0 transition-all z-50 pointer-events-none">更新成功！</div>
 
         <!-- 搜尋欄 -->
         <div class="max-w-md mx-auto mt-4 relative">
@@ -124,6 +130,10 @@
             "139234", "87901", "150879", "200762", "1881606", "122672", "111887"
         ];
 
+        // 自動清理：將舊有的帶 0 編號統一轉換為去 0 版本
+        favoriteKeys = favoriteKeys.map(k => (typeof k === 'string' && /^\d+$/.test(k)) ? k.replace(/^0+/, '') : k);
+        favoriteKeys = [...new Set(favoriteKeys)]; // 去重
+
         function saveFavs() {
             localStorage.setItem('costco_favs_keys', JSON.stringify(favoriteKeys));
         }
@@ -165,8 +175,12 @@
             const status = document.getElementById('status');
             const offersList = document.getElementById('offersList');
             const refreshBtn = document.getElementById('refreshBtn');
+            const refreshIcon = document.getElementById('refreshIcon');
+            const updatedTime = document.getElementById('updatedTime');
+            const toast = document.getElementById('toast');
             
             refreshBtn.disabled = true;
+            refreshIcon.classList.add('animate-spin');
             offersList.classList.add('opacity-40');
             status.style.display = 'flex';
 
@@ -187,11 +201,23 @@
                 });
                 
                 renderOffers();
+                
+                // 更新時間顯示
+                if (data.updated_at) {
+                    updatedTime.innerText = `最後更新: ${data.updated_at}`;
+                }
+                
                 status.style.display = 'none';
+
+                // 顯示成功提示
+                toast.classList.replace('opacity-0', 'opacity-100');
+                setTimeout(() => toast.classList.replace('opacity-100', 'opacity-0'), 2000);
+
             } catch (err) {
                 status.innerHTML = `<p class="text-red-500 text-xs">資料載入失敗，請稍後再試</p>`;
             } finally {
                 refreshBtn.disabled = false;
+                refreshIcon.classList.remove('animate-spin');
                 offersList.classList.remove('opacity-40');
             }
         }
