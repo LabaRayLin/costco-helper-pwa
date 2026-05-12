@@ -74,23 +74,28 @@ async function scrape() {
                             const primaryImage = item.images && item.images.find(img => img.format === 'product' || img.imageType === 'PRIMARY');
                             const imgUrl = primaryImage ? (primaryImage.url.startsWith('http') ? primaryImage.url : 'https://www.costco.com.tw' + primaryImage.url) : '';
 
-                            let discount = 0;
-                            if (item.summary) {
+                            // 優先從 API 直接提供的欄位獲取折價資訊
+                            const discountPrice = item.discountPrice?.value || 0;
+                            const basePrice = item.basePrice?.value || 0;
+                            
+                            let discount = discountPrice;
+                            let originalPrice = basePrice;
+
+                            // 如果 API 沒給，嘗試從 summary 解析 (備援方案)
+                            if (discount === 0 && item.summary) {
                                 const discountMatch = item.summary.match(/color:red[^>]*>\$([\d,]+)/);
                                 if (discountMatch) {
                                     discount = parseInt(discountMatch[1].replace(/,/g, ''), 10);
+                                    originalPrice = (item.price?.value || 0) + discount;
                                 }
                             }
-
-                            const currentPriceValue = item.price ? item.price.value : 0;
-                            const originalPriceValue = currentPriceValue + discount;
 
                             allProductsMap.set(item.code, {
                                 code: item.code,
                                 name: item.name,
                                 price: item.price ? item.price.formattedValue : '點入確認價格',
-                                original_price: discount > 0 ? `$${originalPriceValue.toLocaleString()}` : null,
-                                discount: discount > 0 ? `$${discount.toLocaleString()}` : null,
+                                original_price: discount > 0 ? (item.basePrice?.formattedValue || `$${originalPrice.toLocaleString()}`) : null,
+                                discount: discount > 0 ? (item.discountPrice?.formattedValue || `$${discount.toLocaleString()}`) : null,
                                 img: imgUrl
                             });
                         });
