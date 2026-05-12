@@ -66,7 +66,7 @@ async function scrape() {
                 // 第二步：抓取該分類下的所有頁面
                 for (let page = 0; page < totalPages; page++) {
                     if (page > 0) console.log(`   -> 抓取第 ${page + 1}/${totalPages} 頁...`);
-                    const url = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=${page}`;
+                    const url = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),basePrice(FULL),discountPrice(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=${page}`;
                     
                     const data = await fetchJSON(url);
                     if (data.products && Array.isArray(data.products)) {
