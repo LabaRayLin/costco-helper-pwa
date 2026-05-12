@@ -36,36 +36,46 @@ async function scrape() {
     console.log('🚀 開始全站商品分類掃描...');
     let allProductsMap = new Map(); // 使用 Map 避免重複商品
     
-    // 好市多主要的大分類 ID (1-16) 以及特殊分類
-    const CATEGORIES = [
-        'hot-buys', 'new-items', 'only-online', 'treasure-hunt', 'last-chance',
-        '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16'
-    ];
-
-    try {
-        for (const catId of CATEGORIES) {
-            console.log(`\n📂 正在處理分類: ${catId}`);
-            let totalPages = 1;
-            
-            // 第一步：獲取該分類的分頁資訊
-            const initialUrl = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=0`;
-            
-            try {
-                const firstPage = await fetchJSON(initialUrl);
-                if (!firstPage || !firstPage.products) {
-                    console.log(`   ⚠️ 分類 ${catId} 無資料，跳過。`);
-                    continue;
+    // 第一步：遞歸獲取所有子分類 ID
+    async function getAllCategoryIds(catId) {
+        let ids = [catId];
+        try {
+            const url = `https://www.costco.com.tw/rest/v2/taiwan/catalogs/taiwanProductCatalog/Online/categories/${catId}/subcategories`;
+            const data = await fetchJSON(url);
+            if (data.categories && Array.isArray(data.categories)) {
+                for (const sub of data.categories) {
+                    const subIds = await getAllCategoryIds(sub.id);
+                    ids = ids.concat(subIds);
                 }
+            }
+        } catch (err) {
+            console.error(`   ⚠️ 分類 ${catId} 子類獲取失敗:`, err.message);
+        }
+        return [...new Set(ids)];
+    }
 
-                if (firstPage.pagination) {
-                    totalPages = firstPage.pagination.totalPages;
-                }
+    console.log('🔍 正在掃描全站分類結構...');
+    const rootCategories = ['1', '2', '3', '4', '5', 'hot-buys', 'last-chance', 'treasure-hunt', 'new-items'];
+    let allCategoryIds = [];
+    for (const root of rootCategories) {
+        const ids = await getAllCategoryIds(root);
+        allCategoryIds = allCategoryIds.concat(ids);
+    }
+    allCategoryIds = [...new Set(allCategoryIds)];
+    console.log(`✅ 掃描完成，共發現 ${allCategoryIds.length} 個分類`);
+
+    for (const catId of allCategoryIds) {
+        console.log(`📦 正在處理分類: ${catId}...`);
+        try {
+            // 先拿第一頁確定總頁數
+            const firstUrl = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),basePrice(FULL),discountPrice(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=0`;
+            const firstData = await fetchJSON(firstUrl);
+            
+            if (firstData.pagination && firstData.pagination.totalPages) {
+                const totalPages = firstData.pagination.totalPages;
                 
-                console.log(`   ✅ 發現 ${firstPage.pagination ? firstPage.pagination.totalResults : firstPage.products.length} 項商品，共 ${totalPages} 頁。`);
-
-                // 第二步：抓取該分類下的所有頁面
                 for (let page = 0; page < totalPages; page++) {
-                    if (page > 0) console.log(`   -> 抓取第 ${page + 1}/${totalPages} 頁...`);
+                    if (page > 0) console.log(`   -> 抓取 ${catId} 第 ${page + 1}/${totalPages} 頁...`);
                     const url = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),basePrice(FULL),discountPrice(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories:${catId}&pageSize=100&lang=zh_TW&curr=TWD&currentPage=${page}`;
                     
                     const data = await fetchJSON(url);
