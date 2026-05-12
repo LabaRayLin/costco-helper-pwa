@@ -39,8 +39,8 @@ async function scrape() {
     let totalPages = 1;
 
     try {
-        // 絕對安全模式：使用原始確定的 hot-buys 查詢
-        const initialUrl = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions)&query=:relevance:allCategories:hot-buys&pageSize=100&lang=zh_TW&curr=TWD&currentPage=0`;
+        // 擴張模式：試圖抓取全站分類，並保留分頁資訊
+        const initialUrl = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories&pageSize=100&lang=zh_TW&curr=TWD&currentPage=0`;
         console.log(`正在發送初始請求: ${initialUrl}`);
         const firstPage = await fetchJSON(initialUrl);
         
@@ -62,7 +62,7 @@ async function scrape() {
 
         for (currentPage = 0; currentPage < pagesToFetch; currentPage++) {
             console.log(`[${currentPage + 1}/${pagesToFetch}] 正在抓取商品...`);
-            const url = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions)&query=:relevance:allCategories:hot-buys&pageSize=100&lang=zh_TW&curr=TWD&currentPage=${currentPage}`;
+            const url = `https://www.costco.com.tw/rest/v2/taiwan/products/search?fields=products(code,name,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,variantOptions),pagination&query=:relevance:allCategories&pageSize=100&lang=zh_TW&curr=TWD&currentPage=${currentPage}`;
             
             try {
                 const data = await fetchJSON(url);
