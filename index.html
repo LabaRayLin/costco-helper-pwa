@@ -201,10 +201,17 @@
             const tip = document.getElementById('searchExternalTip');
             const keywordText = document.getElementById('searchKeywordText');
             
-            const filtered = allOffers.filter(item => 
-                item.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
-                (item.code && item.code.includes(searchQuery))
-            );
+            // 篩選並排序：將有折價的商品排到最前面
+            const filtered = allOffers
+                .filter(item => 
+                    item.name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                    (item.code && item.code.includes(searchQuery))
+                )
+                .sort((a, b) => {
+                    const hasA = a.discount && a.original_price ? 1 : 0;
+                    const hasB = b.discount && b.original_price ? 1 : 0;
+                    return hasB - hasA; // 有折價的在前
+                });
 
             if (!isAppend) {
                 list.innerHTML = '';
