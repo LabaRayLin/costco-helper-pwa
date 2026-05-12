@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026/5/12 下午4:53:04",
-  "count": 8934,
+  "updated_at": "2026/5/12 下午5:59:15",
+  "count": 9122,
   "items": [
     {
       "code": "157488",
@@ -1185,14 +1185,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h50/hbe/450045302243358.jpg"
-    },
-    {
-      "code": "158673",
-      "name": "EPSON L4360 三合一連續供墨印表機 附三黑三彩墨水",
-      "price": "$7,099",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h77/h45/438875974205470.jpg"
     },
     {
       "code": "158590",
@@ -3649,6 +3641,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h11/h58/33416283357214.jpg"
+    },
+    {
+      "code": "158673",
+      "name": "EPSON L4360 三合一連續供墨印表機 附三黑三彩墨水",
+      "price": "$7,099",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h77/h45/438875974205470.jpg"
     },
     {
       "code": "157296-B",
@@ -12803,28 +12803,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/h3a/433249478246430.jpg"
     },
     {
-      "code": "157778",
-      "name": "開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
-      "price": "$55,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/h95/327562464788510.jpg"
-    },
-    {
       "code": "157776",
       "name": "開利 7-9坪 5.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
       "price": "$39,499",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hef/hbd/327562464428062.jpg"
-    },
-    {
-      "code": "157775",
-      "name": "開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
-      "price": "$32,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/h25/327562464460830.jpg"
     },
     {
       "code": "157774",
@@ -15691,14 +15675,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1c/hd6/190409350938654.jpg"
     },
     {
-      "code": "142479",
-      "name": "惠而浦 17公斤/10公斤滾筒洗脫烘衣機 8TWFC6820LC",
-      "price": "$40,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h6f/188147689553950.jpg"
-    },
-    {
       "code": "142425",
       "name": "CORKCICLE 不鏽鋼三層真空咖啡杯 475毫升 X 2件組",
       "price": "$1,279",
@@ -17619,6 +17595,22 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h7f/450418104860702.jpg"
     },
     {
+      "code": "157778",
+      "name": "開利 10-12坪 7.4kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$55,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/h95/327562464788510.jpg"
+    },
+    {
+      "code": "157775",
+      "name": "開利 6-8坪 4.1kW 智冷系列3D環繞變頻冷暖一對一分離式冷氣 含運費及基本安裝",
+      "price": "$32,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/h25/327562464460830.jpg"
+    },
+    {
       "code": "157217",
       "name": "海爾 330公升 一級效能 直立單門無霜冷凍冷藏櫃 HUF-330",
       "price": "$22,229",
@@ -17705,6 +17697,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h9c/239741827678238.jpg"
+    },
+    {
+      "code": "142479",
+      "name": "惠而浦 17公斤/10公斤滾筒洗脫烘衣機 8TWFC6820LC",
+      "price": "$40,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h6f/188147689553950.jpg"
     },
     {
       "code": "136429",
@@ -30259,14 +30259,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h56/hae/51056720740382.jpg"
     },
     {
-      "code": "1581068",
-      "name": "科克蘭 莎莎醬 1.08公斤 X 2入",
-      "price": "$389",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he8/h43/154939988312094.jpg"
-    },
-    {
       "code": "2222019",
       "name": "科克蘭 有機益生菌綜合早餐穀片1公斤",
       "price": "$379",
@@ -38787,6 +38779,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h63/hd0/365107441696798.jpg"
     },
     {
+      "code": "1581068",
+      "name": "科克蘭 莎莎醬 1.08公斤 X 2入",
+      "price": "$389",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he8/h43/154939988312094.jpg"
+    },
+    {
       "code": "151252",
       "name": "西班牙冷凍伊比利梅花豬排 300公克",
       "price": "$299",
@@ -43635,14 +43635,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h88/ha8/12295347339294.jpg"
     },
     {
-      "code": "158525",
-      "name": "PAMP 自由女神金條 999.9純金 2.5公克",
-      "price": "$14,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd7/h80/454769480335390.jpg"
-    },
-    {
       "code": "2036022",
       "name": "0.60克拉 18K白K金 圓形鑽石項鍊 VS2/I",
       "price": "$63,499",
@@ -47203,6 +47195,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/hdf/10520065474590.jpg"
     },
     {
+      "code": "158525",
+      "name": "PAMP 自由女神金條 999.9純金 2.5公克",
+      "price": "$14,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd7/h80/454769480335390.jpg"
+    },
+    {
       "code": "158539",
       "name": "PAMP 美國自由紀念金條 999.9純金 5公克",
       "price": "$27,299",
@@ -49643,6 +49643,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/hef/262758176227358.jpg"
     },
     {
+      "code": "148735",
+      "name": "倍耐力 255/45 R20 105V XL P-ZERO elt 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
+    },
+    {
       "code": "148649",
       "name": "倍耐力 285/40 ZR20 108Y XL P-ZERO MO1 輪胎",
       "price": "點入確認價格",
@@ -52075,6 +52083,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h95/he0/401755783397406.jpg"
     },
     {
+      "code": "154259",
+      "name": "倍耐力 275/35 R19 100Y XL r-f P7cint * MOE 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h28/275511639244830.jpg"
+    },
+    {
       "code": "154258",
       "name": "倍耐力 225/40 R18 92Y XL r-f P7cint KS 輪胎",
       "price": "點入確認價格",
@@ -52177,6 +52193,22 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h77/h9b/362186497884190.jpg"
+    },
+    {
+      "code": "154231",
+      "name": "倍耐力 235/55 R19 105W XL CNT-RO 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h53/275511569580062.jpg"
+    },
+    {
+      "code": "154230",
+      "name": "倍耐力 235/35 R19 91Y XL CNT-RO 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h53/275511569580062.jpg"
     },
     {
       "code": "154229",
@@ -52491,6 +52523,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
     },
     {
+      "code": "154173",
+      "name": "倍耐力 245/45 R20 103W XL r-f P-ZERO PZ4 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
+    },
+    {
       "code": "154171",
       "name": "倍耐力 245/45 R20 103W XL r-f P-ZERO PZ4 * 輪胎",
       "price": "點入確認價格",
@@ -52635,6 +52675,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h60/275511641276446.jpg"
     },
     {
+      "code": "154141",
+      "name": "倍耐力 255/50 R20 109W XL S-VEas KS 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h60/275511641276446.jpg"
+    },
+    {
       "code": "154140",
       "name": "倍耐力 245/45 R20 103V XL S-VEas LR1 輪胎",
       "price": "點入確認價格",
@@ -52693,6 +52741,14 @@
     {
       "code": "154133",
       "name": "倍耐力 235/65 R18 106H S-VEas 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h60/275511641276446.jpg"
+    },
+    {
+      "code": "154131",
+      "name": "倍耐力 235/65 R17 108V XL S-VEas 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -53851,14 +53907,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h2c/34195797573662.jpg"
     },
     {
-      "code": "150829",
-      "name": "普利司通 245/35R19 *93Y Potenza Sport 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h2c/34195797573662.jpg"
-    },
-    {
       "code": "150824",
       "name": "普利司通 235/50R20 100V Alenza Alenza 001 輪胎",
       "price": "點入確認價格",
@@ -54987,6 +55035,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
     },
     {
+      "code": "148597",
+      "name": "倍耐力 245/45 R18 100YXL r-f P7cint* MOE 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h28/275511639244830.jpg"
+    },
+    {
       "code": "148594",
       "name": "倍耐力 225/50 R18 99W XL P-ZERO* 輪胎",
       "price": "點入確認價格",
@@ -55017,6 +55073,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
+    },
+    {
+      "code": "148584",
+      "name": "倍耐力 255/35 ZR18 94Y XL P ZERO 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h31/275511570628638.jpg"
     },
     {
       "code": "148582",
@@ -58387,14 +58451,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfe/hb6/368528939548702.jpg"
     },
     {
-      "code": "148735",
-      "name": "倍耐力 255/45 R20 105V XL P-ZERO elt 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
-    },
-    {
       "code": "1872247",
       "name": "INFINITY X1 2000 流明露營燈",
       "price": "$1,099",
@@ -58923,36 +58979,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h2c/34195797573662.jpg"
     },
     {
-      "code": "154259",
-      "name": "倍耐力 275/35 R19 100Y XL r-f P7cint * MOE 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h28/275511639244830.jpg"
-    },
-    {
       "code": "154254",
       "name": "倍耐力 225/45 R17 91W r-f P7cint * 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h28/275511639244830.jpg"
-    },
-    {
-      "code": "154231",
-      "name": "倍耐力 235/55 R19 105W XL CNT-RO 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h53/275511569580062.jpg"
-    },
-    {
-      "code": "154230",
-      "name": "倍耐力 235/35 R19 91Y XL CNT-RO 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h53/275511569580062.jpg"
     },
     {
       "code": "154206",
@@ -59011,14 +59043,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
     },
     {
-      "code": "154173",
-      "name": "倍耐力 245/45 R20 103W XL r-f P-ZERO PZ4 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
-    },
-    {
       "code": "154166",
       "name": "倍耐力 225/45 R19 96Y XL P-ZERO PZ4 * 輪胎",
       "price": "點入確認價格",
@@ -59041,22 +59065,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd3/275511639900190.jpg"
-    },
-    {
-      "code": "154141",
-      "name": "倍耐力 255/50 R20 109W XL S-VEas KS 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h60/275511641276446.jpg"
-    },
-    {
-      "code": "154131",
-      "name": "倍耐力 235/65 R17 108V XL S-VEas 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h60/275511641276446.jpg"
     },
     {
       "code": "154025",
@@ -59587,6 +59595,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h2c/34195797573662.jpg"
     },
     {
+      "code": "150829",
+      "name": "普利司通 245/35R19 *93Y Potenza Sport 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h2c/34195797573662.jpg"
+    },
+    {
       "code": "150828",
       "name": "普利司通 235/70R16 106H Ecopia EP850 輪胎",
       "price": "點入確認價格",
@@ -59905,22 +59921,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h73/h9c/275511645929502.jpg"
-    },
-    {
-      "code": "148597",
-      "name": "倍耐力 245/45 R18 100YXL r-f P7cint* MOE 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h28/275511639244830.jpg"
-    },
-    {
-      "code": "148584",
-      "name": "倍耐力 255/35 ZR18 94Y XL P ZERO 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h31/275511570628638.jpg"
     },
     {
       "code": "148573",
@@ -65875,6 +65875,1670 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h0b/363590600491038.jpg"
     },
     {
+      "code": "944010",
+      "name": "科克蘭 Chianti 紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/hef/309507789750302.jpg"
+    },
+    {
+      "code": "942740",
+      "name": "科克蘭 義大利氣泡酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/hb4/173767491584030.jpg"
+    },
+    {
+      "code": "921081",
+      "name": "科克蘭 3年蘇格蘭調和威士忌 1.75公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/h39/332151014457374.jpg"
+    },
+    {
+      "code": "917100",
+      "name": "科克蘭 London Dry Gin 琴酒1.75公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h57/h57/8839317094430.jpg"
+    },
+    {
+      "code": "787876",
+      "name": "科克蘭 10年波特葡萄酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h83/hf0/8839314964510.jpg"
+    },
+    {
+      "code": "639271",
+      "name": "科克蘭 美國伏特加 1.75公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdb/h07/64390646595614.jpg"
+    },
+    {
+      "code": "555154",
+      "name": "科克蘭 雞尾酒 1.75公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/hca/155914474029086.jpg"
+    },
+    {
+      "code": "1795043",
+      "name": "科克蘭 古典雞尾酒 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h4c/454769517101086.jpg"
+    },
+    {
+      "code": "1664894",
+      "name": "科克蘭 Moscato D'asti Docg 義大利微甜白酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hfa/309507662413854.jpg"
+    },
+    {
+      "code": "1521870",
+      "name": "科克蘭 粉紅氣泡酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/h14/364916029915166.jpg"
+    },
+    {
+      "code": "1355183",
+      "name": "科克蘭 Barold Docg 紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/h92/309507651403806.jpg"
+    },
+    {
+      "code": "1181704",
+      "name": "科克蘭 12年蘇格蘭調和威士忌 1.75公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/h9b/173767060815902.jpg"
+    },
+    {
+      "code": "1169418",
+      "name": "科克蘭 加州卡本內蘇維翁紅葡萄酒 3公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h36/h80/173767057145886.jpg"
+    },
+    {
+      "code": "1169328",
+      "name": "科克蘭 西班牙紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h32/h40/346620754264094.jpg"
+    },
+    {
+      "code": "1025678",
+      "name": "科克蘭 Sangria 水果酒 1.5公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/h34/11953425907742.jpg"
+    },
+    {
+      "code": "97782",
+      "name": "Capetta 義大利微甜白酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h63/295422929960990.jpg"
+    },
+    {
+      "code": "95478",
+      "name": "Concha y Toro 孔雀 特級典藏卡本內蘇維翁紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h38/hd4/272920898306078.jpg"
+    },
+    {
+      "code": "94560",
+      "name": "紐西蘭雲霧之灣 夏多內白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/ha3/151072164216862.jpg"
+    },
+    {
+      "code": "89873",
+      "name": "Mcguigan Black Label 紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/hd2/h0a/8837232787486.jpg"
+    },
+    {
+      "code": "89297",
+      "name": "Gnarly Head 美國老藤紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hea/h2b/85064160051230.jpg"
+    },
+    {
+      "code": "87816",
+      "name": "白鶴 梅酒原酒 720毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/he8/172714371514398.jpg"
+    },
+    {
+      "code": "85669",
+      "name": "約翰走路黑牌威士忌 3入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha7/h4f/245391207464990.jpg"
+    },
+    {
+      "code": "85136",
+      "name": "傑克丹尼 田納西威士忌 1.75 公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/hf8/172714368892958.jpg"
+    },
+    {
+      "code": "81059",
+      "name": "德國晚摘微甜白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h00/h43/281048052039710.jpg"
+    },
+    {
+      "code": "78394",
+      "name": "白鶴 圓滿清酒 2公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h7a/172714370924574.jpg"
+    },
+    {
+      "code": "75823",
+      "name": "格蘭 金筒 蘇格蘭威士忌 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h08/hf1/221944597807134.jpg"
+    },
+    {
+      "code": "74940",
+      "name": "Man 南非紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h96/h5a/243588587094046.jpg"
+    },
+    {
+      "code": "74504",
+      "name": "夏伯帝 畢拉奧紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/hbc/hb5/8839247691806.jpg"
+    },
+    {
+      "code": "72866",
+      "name": "格蘭菲迪 15年單一麥芽蘇格蘭威士忌 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h94/172191837814814.jpg"
+    },
+    {
+      "code": "69378",
+      "name": "Man 南非白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4c/hd2/243588587683870.jpg"
+    },
+    {
+      "code": "68663",
+      "name": "葛拉漢 晚裝瓶波特酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/hf6/hb7/8837209456670.jpg"
+    },
+    {
+      "code": "68480",
+      "name": "百加得 蘭姆酒1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc5/hb3/12090662846494.jpg"
+    },
+    {
+      "code": "66538",
+      "name": "Baron De Ley珍藏紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h14/h37/8837231738910.jpg"
+    },
+    {
+      "code": "65102",
+      "name": "Menage A Trois 美國紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h40/h19/156051813531678.jpg"
+    },
+    {
+      "code": "62977",
+      "name": "威廉‧寇 陳年紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h55/hbc/172714367287326.jpg"
+    },
+    {
+      "code": "61985",
+      "name": "VCP法國凱歌皇牌香檳",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/hb4/136650027106334.jpg"
+    },
+    {
+      "code": "56912",
+      "name": "Joostenberg 南非紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h47/291292507602974.jpg"
+    },
+    {
+      "code": "56686",
+      "name": "起瓦士 18年蘇格蘭威士忌 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0b/h7c/328848318890014.jpg"
+    },
+    {
+      "code": "548831",
+      "name": "美國 Charles Smith Wines Kung Fu Girl 麗絲零白酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha8/h54/210494080385054.jpg"
+    },
+    {
+      "code": "49447",
+      "name": "法國侯登堡紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h13/h42/8839246938142.jpg"
+    },
+    {
+      "code": "48790",
+      "name": "智利銀十字卡本內蘇維翁紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h42/h47/8837208604702.jpg"
+    },
+    {
+      "code": "47216",
+      "name": "Beringer F.E.美國紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h9c/h4f/8837227577374.jpg"
+    },
+    {
+      "code": "47139",
+      "name": "法國羅浮古堡紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h70/h29/8839245824030.jpg"
+    },
+    {
+      "code": "46306",
+      "name": "蒙帝斯 精選紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/haf/hf0/172356710760478.jpg"
+    },
+    {
+      "code": "4569",
+      "name": "法國酩悅香檳 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9b/hec/274515361431582.jpg"
+    },
+    {
+      "code": "44734",
+      "name": "夏迪 珍藏蘇維翁紅葡萄酒 5公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/h33/152786978504734.jpg"
+    },
+    {
+      "code": "44115",
+      "name": "法國貓頭鷹珍藏紅葡萄酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h6a/h60/8839245725726.jpg"
+    },
+    {
+      "code": "39815",
+      "name": "Columbia Crest 美國哥倫比亞峰 特級莊園卡本內蘇維翁紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb6/hfe/295422917836830.jpg"
+    },
+    {
+      "code": "38115",
+      "name": "法國波爾多酒神精選紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h57/329850815512606.jpg"
+    },
+    {
+      "code": "37688",
+      "name": "蘇格登 12年單一麥芽蘇格蘭威士忌 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h9a/245391203008542.jpg"
+    },
+    {
+      "code": "36658",
+      "name": "法國君度橙酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb6/hb3/151586417934366.jpg"
+    },
+    {
+      "code": "36622",
+      "name": "德國莫絲蘭晚收甜白酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h29/332442922516510.jpg"
+    },
+    {
+      "code": "36157",
+      "name": "美國 7 deadly Zins 金芬黛紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h50/h63/8837227380766.jpg"
+    },
+    {
+      "code": "34578",
+      "name": "德國法茲貴族 甜白葡萄酒 375毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/h02/173384921284638.jpg"
+    },
+    {
+      "code": "33194",
+      "name": "澳洲班洛克夏多內白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h63/137293234634782.jpg"
+    },
+    {
+      "code": "33193",
+      "name": "夏迪 珍藏夏多內白葡萄酒 3公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h33/h07/152786977390622.jpg"
+    },
+    {
+      "code": "32573",
+      "name": "Barton & Guestier 法國酒廠精釀紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h49/hce/8837208342558.jpg"
+    },
+    {
+      "code": "3055",
+      "name": "麒麟 一番搾啤酒 350毫升 X 24罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb1/ha3/169396954595358.jpg"
+    },
+    {
+      "code": "29373",
+      "name": "軒尼詩 VSOP 干邑白蘭地 1.5公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/hae/204601869172766.jpg"
+    },
+    {
+      "code": "194777",
+      "name": "百威啤酒罐裝 473毫升 X 24罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/h2f/155067701592094.jpg"
+    },
+    {
+      "code": "161109",
+      "name": "白蘇維濃檸檬 Highball 調酒 500毫升 X 6罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/hdd/454769517035550.jpg"
+    },
+    {
+      "code": "159762",
+      "name": "金門58度高粱酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf9/hfe/433249608957982.jpg"
+    },
+    {
+      "code": "157197",
+      "name": "約翰走路 藍牌蘇格蘭威士忌 馬躍盛世 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha1/hd7/413801351217182.jpg"
+    },
+    {
+      "code": "154998",
+      "name": "麥卡倫 春宴系列單一麥芽蘇格蘭威士忌 700毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h0d/398741520252958.jpg"
+    },
+    {
+      "code": "153179",
+      "name": "布萊迪 12年艾雷島單一麥芽蘇格蘭威士忌 700毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbb/he4/363073758560286.jpg"
+    },
+    {
+      "code": "147679",
+      "name": "奔富 Bin 707 紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h23/274515175309342.jpg"
+    },
+    {
+      "code": "146465",
+      "name": "波瑪酒莊 瑪瑞瑪吉恩 單一園紅葡萄酒 750毫升 2017",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/hb5/274514966970398.jpg"
+    },
+    {
+      "code": "146349",
+      "name": "Baron Maxime 法國白中白氣泡酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h75/298414357446686.jpg"
+    },
+    {
+      "code": "146347",
+      "name": "1924 Bourbon Barrel Aged 美國紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h66/h94/368495164948510.jpg"
+    },
+    {
+      "code": "146031",
+      "name": "金色三麥 蜂蜜啤酒綜合組 350毫升 X 12瓶",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h15/had/242857606938654.jpg"
+    },
+    {
+      "code": "146006",
+      "name": "海尼根 啤酒罐裝 473毫升 X 24罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/h3e/239550164434974.jpg"
+    },
+    {
+      "code": "141139",
+      "name": "金門高粱 58度金門高粱酒天使酒心 888毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h80/ha1/188010296934430.jpg"
+    },
+    {
+      "code": "140922",
+      "name": "人頭馬 1738特優香檳干邑白蘭地 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h35/hee/169023218155550.jpg"
+    },
+    {
+      "code": "140627",
+      "name": "朝日 辛口啤酒 500毫升 X 16罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcb/hb7/172356639031326.jpg"
+    },
+    {
+      "code": "138978",
+      "name": "TUDOR 美國紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1c/hd7/397702494388254.jpg"
+    },
+    {
+      "code": "138251",
+      "name": "麒麟 淡麗啤酒 500毫升 X 24罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h53/hfb/240877998145566.jpg"
+    },
+    {
+      "code": "132202",
+      "name": "馬祖高粱酒58度 600毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1f/h5e/80298072375326.webp"
+    },
+    {
+      "code": "131508",
+      "name": "Jean-Claude Boisset 法國紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/hec/173767246577694.jpg"
+    },
+    {
+      "code": "131507",
+      "name": "Jean-Claude Boisset 法國白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/hf1/173767246774302.jpg"
+    },
+    {
+      "code": "131201",
+      "name": "Capetta Gala Rosa 義大利微甜紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he8/had/225581781483550.jpg"
+    },
+    {
+      "code": "130822",
+      "name": "惠比壽 啤酒 500毫升 X 24罐",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h6a/368495140503582.jpg"
+    },
+    {
+      "code": "129791",
+      "name": "安蒂諾里莊園 精選經典奇揚第紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/h02/172191700484126.jpg"
+    },
+    {
+      "code": "129555",
+      "name": "Kavalan噶瑪蘭調酒師精選威士忌 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h79/69873138303006.jpg"
+    },
+    {
+      "code": "129081",
+      "name": "美國甜白葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h02/h30/187494230818846.jpg"
+    },
+    {
+      "code": "128934",
+      "name": "Catena 阿根廷紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h80/hf4/173767245627422.jpg"
+    },
+    {
+      "code": "126496",
+      "name": "特級園香檳 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h8e/173384812560414.jpg"
+    },
+    {
+      "code": "125616",
+      "name": "美國Charles Krug紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h81/173767064682526.jpg"
+    },
+    {
+      "code": "12536",
+      "name": "奔富 2號酒窖紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h43/117572392484894.jpg"
+    },
+    {
+      "code": "125081",
+      "name": "Borsao Tres Picos 紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/had/87530125819934.jpg"
+    },
+    {
+      "code": "124709",
+      "name": "澳洲奔富 138號紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/h3b/173767061930014.jpg"
+    },
+    {
+      "code": "121574",
+      "name": "貝禮詩 愛爾蘭香甜奶酒 1公升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/hb2/172714143514654.jpg"
+    },
+    {
+      "code": "119703",
+      "name": "鹿躍酒莊 紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h3f/173384812232734.jpg"
+    },
+    {
+      "code": "116249",
+      "name": "吉亞尼格力亞朵酒莊精選慕斯卡甜白酒 75毫升 X 6入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/h0d/16020188987422.jpg"
+    },
+    {
+      "code": "114886",
+      "name": "Izadi Seleccion Rioja DOCA 紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/hd1/172191700746270.jpg"
+    },
+    {
+      "code": "114852",
+      "name": "Stags' Leap 鹿躍酒莊 紅葡萄酒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/h1e/65293843955742.jpg"
+    },
+    {
+      "code": "113321",
+      "name": "智利精選金十字卡本內蘇維翁紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h59/h26/8837199331358.jpg"
+    },
+    {
+      "code": "113033",
+      "name": "西班牙庫尼珍藏紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h53/hdf/172356532731934.jpg"
+    },
+    {
+      "code": "111580",
+      "name": "美國Meiomi Pinot Noir 黑皮諾紅葡萄酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/hc7/h14/8837218828318.jpg"
+    },
+    {
+      "code": "111106",
+      "name": "路易佳鐸 布根地丘白酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h38/h40/327562318807070.jpg"
+    },
+    {
+      "code": "107503",
+      "name": "美國LINE 39 黑皮諾紅酒 750 毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h6a/hdb/8837194416158.jpg"
+    },
+    {
+      "code": "107430",
+      "name": "Oveja Negra 紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/hb8/27951664824350.jpg"
+    },
+    {
+      "code": "102609",
+      "name": "澳洲班洛克 微甜粉紅葡萄酒 275毫升 X 4瓶",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h6a/151071819235358.jpg"
+    },
+    {
+      "code": "195230",
+      "name": "科克蘭 日拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/hca/64882631213086.jpg"
+    },
+    {
+      "code": "997785",
+      "name": "合利他命 強效錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hc7/400800827768862.jpg"
+    },
+    {
+      "code": "993974",
+      "name": "療黴舒噴劑１０毫克／公克（特比那芬）",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb6/hcf/413801568272414.jpg"
+    },
+    {
+      "code": "991798",
+      "name": "Omron歐姆龍 溫熱低周波治療器HV-F311+溫熱低周波凝膠貼片",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hdd/15092928512030.jpg"
+    },
+    {
+      "code": "98776",
+      "name": "中將湯 碎片劑",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h58/400800827703326.jpg"
+    },
+    {
+      "code": "97807",
+      "name": "安視優 歐舒適二週拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h85/170277882134558.jpg"
+    },
+    {
+      "code": "95834",
+      "name": "曼秀雷敦止癢消炎乳膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hf3/415044049141790.jpg"
+    },
+    {
+      "code": "93293",
+      "name": "樂敦 洗眼液",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h04/400800824426526.jpg"
+    },
+    {
+      "code": "92539",
+      "name": "安視優 超涵水散光每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha0/h43/170277879152670.jpg"
+    },
+    {
+      "code": "884505",
+      "name": "撒隆巴斯",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h46/400800824229918.jpg"
+    },
+    {
+      "code": "884497",
+      "name": "普拿疼伏冒加強錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h02/he8/396190071521310.jpg"
+    },
+    {
+      "code": "881148",
+      "name": "博士倫 舒服能雙週拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/hf4/169539538911262.jpg"
+    },
+    {
+      "code": "86320",
+      "name": "合利他命 - 愛糖衣錠25 亳克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h9c/400800824950814.jpg"
+    },
+    {
+      "code": "84499",
+      "name": "普拿疼伏冒熱飲散",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/h12/396189989404702.jpg"
+    },
+    {
+      "code": "84144",
+      "name": "歐治鼻 噴鼻液 0.1%(西羅美塔柔林)",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h71/hed/396189989044254.jpg"
+    },
+    {
+      "code": "83293",
+      "name": "樂慕爾-久膜衣錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h5c/400800819511326.jpg"
+    },
+    {
+      "code": "82699",
+      "name": "“京都念慈菴”複方川貝枇杷膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/hb5/120184389206046.jpg"
+    },
+    {
+      "code": "81009",
+      "name": "博士倫 舒服能每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/hcb/169023304138782.jpg"
+    },
+    {
+      "code": "779967",
+      "name": "普拿疼止痛加強錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/h54/396189986914334.jpg"
+    },
+    {
+      "code": "771406",
+      "name": "舒立效咳消配方口含錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h57/396189977935902.jpg"
+    },
+    {
+      "code": "771404",
+      "name": "舒立效口含錠舒緩蜂蜜檸檬",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h7f/396189977149470.jpg"
+    },
+    {
+      "code": "74471",
+      "name": "維康 保肝膠囊",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd6/h3f/400800777371678.jpg"
+    },
+    {
+      "code": "58650",
+      "name": "卡黴速停乳膏１％",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hb1/413801536290846.jpg"
+    },
+    {
+      "code": "571100",
+      "name": "博士倫 散光雙週拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h0e/172356711186462.jpg"
+    },
+    {
+      "code": "36999",
+      "name": "維骨力膠囊",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h79/haa/415044043603998.jpg"
+    },
+    {
+      "code": "323491",
+      "name": "虎標頸肩舒乳膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h71/413801493430302.jpg"
+    },
+    {
+      "code": "318154",
+      "name": "博士倫 舒視能老花專用每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h0d/169023135449118.jpg"
+    },
+    {
+      "code": "2410071",
+      "name": "睛艷日拋式彩色隱形眼鏡 玫瑰金",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h02/241990954942494.jpg"
+    },
+    {
+      "code": "2410041",
+      "name": "睛艷日拋式彩色隱形眼鏡 奶霜灰",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/hba/241990954582046.jpg"
+    },
+    {
+      "code": "2410011",
+      "name": "睛艷日拋式彩色隱形眼鏡 焦糖栗",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/h92/241990953926686.jpg"
+    },
+    {
+      "code": "226969",
+      "name": "克潰精顆粒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/he6/400800769048606.jpg"
+    },
+    {
+      "code": "223351",
+      "name": "Jamieson 維生素 C+D 咀嚼錠 300錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/h27/431395515138078.jpg"
+    },
+    {
+      "code": "2210069",
+      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 日暮棕",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcc/h21/169023290703902.jpg"
+    },
+    {
+      "code": "2210039",
+      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 暮夜紫",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h2c/169023289720862.jpg"
+    },
+    {
+      "code": "2210009",
+      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 迷眸棕",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he1/h68/169023289458718.jpg"
+    },
+    {
+      "code": "2180007",
+      "name": "愛爾康 全涵氧日拋高透氧隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/haa/172356667015198.jpg"
+    },
+    {
+      "code": "2151267",
+      "name": "安視優睛漾水凝每日拋棄式隱形眼鏡-璀璨黑",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd5/366249723297822.jpg"
+    },
+    {
+      "code": "2151239",
+      "name": "安視優 睛漾水凝每日拋棄式隱形眼鏡 - 璀璨啡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/hc0/170277565825054.jpg"
+    },
+    {
+      "code": "2151211",
+      "name": "安視優睛漾水凝每日拋棄式隱形眼鏡-璀璨棕",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h9b/87021612007454.jpg"
+    },
+    {
+      "code": "2151110",
+      "name": "安視優 歐舒適每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h15/h94/325943550738462.jpg"
+    },
+    {
+      "code": "2117807",
+      "name": "博士倫 輕水氧奧澈矽水膠日拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h21/hf0/170277563072542.jpg"
+    },
+    {
+      "code": "210455",
+      "name": "光學鏡片加鏡框一副",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h72/h78/99389633724446.jpg"
+    },
+    {
+      "code": "1991960",
+      "name": "JABRA 奇恩氣導式助聽器一對+充電器EM198-C",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7e/hef/437687666147358.jpg"
+    },
+    {
+      "code": "197581",
+      "name": "安視優 超涵水多焦點每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h80/ha8/419358407295006.jpg"
+    },
+    {
+      "code": "197544",
+      "name": "安視優 超涵水每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h81/h7b/170277559042078.jpg"
+    },
+    {
+      "code": "194496",
+      "name": "新甘樫胃腸藥顆粒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h61/396189911416862.jpg"
+    },
+    {
+      "code": "1891002",
+      "name": "Jabra Enhance Pro 10 ITE/ITC 訂製款助聽器+訂製充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/h9f/228335498100766.jpg"
+    },
+    {
+      "code": "1891000",
+      "name": "Jabra Enhance Pro 10 CIC 訂製款助聽器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h34/h51/228335497838622.jpg"
+    },
+    {
+      "code": "1881965",
+      "name": "Jabra Enhance Pro 20 BTE 桌上型充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/hd8/291292497707038.jpg"
+    },
+    {
+      "code": "185333",
+      "name": "羅氏活力血糖機組",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/h65/70175692488734.jpg"
+    },
+    {
+      "code": "185222",
+      "name": "Roche羅氏 活力血糖機專用試紙+舒柔採血筆專用採血針(滅菌)",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h20/14900438106142.jpg"
+    },
+    {
+      "code": "184144",
+      "name": "歐治鼻舒敏抗過敏鼻噴劑",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/h1f/396189897457694.jpg"
+    },
+    {
+      "code": "1817319",
+      "name": "飛利浦 HearLink 9050 RIC + 智慧充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/hbc/313983073353758.jpg"
+    },
+    {
+      "code": "1817316",
+      "name": "飛利浦 HearLink 9050 智慧充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/had/hae/313983070208030.jpg"
+    },
+    {
+      "code": "180207",
+      "name": "愛爾康 多水潤日拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hbb/169023246270494.jpg"
+    },
+    {
+      "code": "1782595",
+      "name": "Jabra Enhance Pro 20 助聽器攜帶型充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/h9d/315744172572702.jpg"
+    },
+    {
+      "code": "170065",
+      "name": "安視優 睛漾水凝每日拋棄式隱形眼鏡 - 炫閃晶",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h9f/170277382324254.jpg"
+    },
+    {
+      "code": "159333",
+      "name": "REXTON REACH PLUS CORS 助聽器單支",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hb4/434798798241822.jpg"
+    },
+    {
+      "code": "159332",
+      "name": "REXTON REACH CROS R LI 助聽器單支",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/hd4/434798798143518.jpg"
+    },
+    {
+      "code": "158563",
+      "name": "近江兄弟 白藥水",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/hbb/437687057186846.jpg"
+    },
+    {
+      "code": "157225",
+      "name": "利達優利碘喉嚨殺菌噴液劑4.5毫克/毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hda/h70/417161945907230.jpg"
+    },
+    {
+      "code": "157084",
+      "name": "保能痔注入軟膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h16/417161945645086.jpg"
+    },
+    {
+      "code": "156801",
+      "name": "施美益凝乳膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h99/h20/421140976467998.jpg"
+    },
+    {
+      "code": "156539",
+      "name": "銀暢膜衣錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h01/449275199979550.jpg"
+    },
+    {
+      "code": "156337",
+      "name": "艾歐復隆膜衣錠500毫克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/hcd/421140878917662.jpg"
+    },
+    {
+      "code": "156134",
+      "name": "安舒疼止痛速溶軟膠囊",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/ha8/413801341321246.jpg"
+    },
+    {
+      "code": "1556104",
+      "name": "Jabra Enhance Pro PM 攜帶型助聽器充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he0/h3b/175267130605598.jpg"
+    },
+    {
+      "code": "1556103",
+      "name": "Jabra Enhance Pro 助聽器標準充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h65/h61/175267130474526.jpg"
+    },
+    {
+      "code": "1555205",
+      "name": "Rexton BiCore C R-Li T 攜帶型助聽器充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he8/h49/185158990987294.jpg"
+    },
+    {
+      "code": "1555204",
+      "name": "Rexton BiCore C R-Li T 助聽器充電器",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/hdd/185158988300318.jpg"
+    },
+    {
+      "code": "155353",
+      "name": "視舒坦人工淚液點眼液",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h89/h5b/421140878983198.jpg"
+    },
+    {
+      "code": "154965",
+      "name": "“黴癒”灰指甲油劑 5%",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h95/ha5/421140878852126.jpg"
+    },
+    {
+      "code": "154344",
+      "name": "正光加味金絲膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h24/413801276604446.jpg"
+    },
+    {
+      "code": "153973",
+      "name": "西洋蔘片",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/h16/417161928540190.jpg"
+    },
+    {
+      "code": "1531503",
+      "name": "Rexton M-Core BTE Li 助聽器充電器 P/HP",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h1a/185158989479966.jpg"
+    },
+    {
+      "code": "152421",
+      "name": "加味逍遙散",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h79/413801271853086.jpg"
+    },
+    {
+      "code": "152152",
+      "name": "勝昌 健胃散",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hf9/400800457457694.jpg"
+    },
+    {
+      "code": "151805",
+      "name": "參天 潤澤眼藥水",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h95/hbc/400800457064478.jpg"
+    },
+    {
+      "code": "151627",
+      "name": "“順天堂”順寧意顆粒(抑肝散)",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/hf8/413801235808286.jpg"
+    },
+    {
+      "code": "151626",
+      "name": "允消益膚清乳膏",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h6a/413801235677214.jpg"
+    },
+    {
+      "code": "150944",
+      "name": "喇叭牌正露糖衣錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/h4e/413801231155230.jpg"
+    },
+    {
+      "code": "148844",
+      "name": "愛斯飛特 糖衣錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/hb9/413801230565406.jpg"
+    },
+    {
+      "code": "148470",
+      "name": "理冒 消炎噴液劑1.5毫克/毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h24/400800348864542.jpg"
+    },
+    {
+      "code": "148460",
+      "name": "非炎 凝膠 10毫克 X 3入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7f/hfd/383236917559326.jpg"
+    },
+    {
+      "code": "147702",
+      "name": "俏正美BB露皙雪靚錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/hb8/413801230499870.jpg"
+    },
+    {
+      "code": "147005",
+      "name": "內舒拿水溶性鼻用噴液劑",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h37/h4e/413421336952862.jpg"
+    },
+    {
+      "code": "146970",
+      "name": "利加隆 膠囊140毫克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h19/h5a/400800348799006.jpg"
+    },
+    {
+      "code": "146969",
+      "name": "維骨力 加強型口服溶液用粉劑",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h78/hc3/401755670609950.jpg"
+    },
+    {
+      "code": "144179",
+      "name": "樂敦 舒視齡眼藥水",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/h2f/400800342966302.jpg"
+    },
+    {
+      "code": "143488",
+      "name": "麗眼舒單支裝人工淚液點眼液 0.5%",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h5c/420739463282718.jpg"
+    },
+    {
+      "code": "142622",
+      "name": "沙威隆消毒藥水",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/h2e/449275190345758.jpg"
+    },
+    {
+      "code": "142146",
+      "name": "勝昌 小青龍湯散",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h0d/402145142308894.jpg"
+    },
+    {
+      "code": "142144",
+      "name": "勝昌 葛根湯散",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hab/402145138049054.jpg"
+    },
+    {
+      "code": "138219",
+      "name": "無比止癢消炎液",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h37/413801217523742.jpg"
+    },
+    {
+      "code": "137540",
+      "name": "改源IB止痛顆粒",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h2c/396189636034590.jpg"
+    },
+    {
+      "code": "135301",
+      "name": "勝昌 六味地黃丸",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/he0/402145137983518.jpg"
+    },
+    {
+      "code": "135300",
+      "name": "勝昌延年回春丹丸",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3d/hb6/413801217458206.jpg"
+    },
+    {
+      "code": "134721",
+      "name": "勝昌 通骨活絡藥膠布(萬應膏加減味)",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf9/hcf/402145137655838.jpg"
+    },
+    {
+      "code": "126097",
+      "name": "舒潔 濕式衛生紙 46張 X 14入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h20/hec/13212798222366.jpg"
+    },
+    {
+      "code": "124179",
+      "name": "樂敦 藍視光眼藥水",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/hfc/400800343490590.jpg"
+    },
+    {
+      "code": "118126",
+      "name": "Kotex 靠得住導管式衛生棉條 量多型 32入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/hfc/44068911972382.jpg"
+    },
+    {
+      "code": "118120",
+      "name": "Kotex 靠得住導管式衛生棉條 一般型 32入",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h00/44065336688670.jpg"
+    },
+    {
+      "code": "116110",
+      "name": "克菸 咀嚼錠(清涼薄荷)2毫克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/hfe/413801213165598.jpg"
+    },
+    {
+      "code": "1106042",
+      "name": "博士倫 舒視能散光每日拋棄式隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/hf8/367572281720862.jpg"
+    },
+    {
+      "code": "1105609",
+      "name": "博士倫 舒視能日拋隱形眼鏡",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h10/384242527666206.jpg"
+    },
+    {
+      "code": "101483",
+      "name": "納寧錠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/h94/413801208676382.jpg"
+    },
+    {
       "code": "999090",
       "name": "科克蘭 冷藏羊乳乾酪 300公克 X 2入",
       "price": "點入確認價格",
@@ -70603,852 +72267,692 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/hdc/466199163109406.jpg"
     },
     {
-      "code": "195230",
-      "name": "科克蘭 日拋隱形眼鏡",
+      "code": "88282",
+      "name": "Ever Forest 植物纖維圓盤 125入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/hca/64882631213086.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h09/h1a/11442763005982.jpg"
     },
     {
-      "code": "997785",
-      "name": "合利他命 強效錠",
+      "code": "1937904",
+      "name": "SpaceMade 65公升 多功能折疊推車",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hc7/400800827768862.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h82/438876310274078.jpg"
     },
     {
-      "code": "993974",
-      "name": "療黴舒噴劑１０毫克／公克（特比那芬）",
+      "code": "176230",
+      "name": "Panasonic Eneloop 充電器含電池組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb6/hcf/413801568272414.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h53/hac/155424329072670.jpg"
     },
     {
-      "code": "991798",
-      "name": "Omron歐姆龍 溫熱低周波治療器HV-F311+溫熱低周波凝膠貼片",
+      "code": "158284",
+      "name": "EcoFlow RIVER 2 Pro 便攜式儲能電源",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hdd/15092928512030.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/h8f/439234006417438.jpg"
     },
     {
-      "code": "98776",
-      "name": "中將湯 碎片劑",
+      "code": "154100",
+      "name": "TP-Link 旋轉式 WI-FI 攝影機 C212 1入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h58/400800827703326.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4c/h43/439233889599518.jpg"
     },
     {
-      "code": "97807",
-      "name": "安視優 歐舒適二週拋棄式隱形眼鏡",
+      "code": "1536662",
+      "name": "Panasonic 碳鋅 3號+4號電池 48入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h85/170277882134558.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h0d/438875652096030.jpg"
     },
     {
-      "code": "95834",
-      "name": "曼秀雷敦止癢消炎乳膏",
+      "code": "146390",
+      "name": "普特絲 防霾紗窗",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hf3/415044049141790.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hd5/293903371403294.jpg"
     },
     {
-      "code": "93293",
-      "name": "樂敦 洗眼液",
+      "code": "136508",
+      "name": "TP-Link Tapo TC70 Wi-Fi 室內攝影機",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h04/400800824426526.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h73/350741099479070.jpg"
     },
     {
-      "code": "92539",
-      "name": "安視優 超涵水散光每日拋棄式隱形眼鏡",
+      "code": "349350",
+      "name": "Keepcool 彩繪大熊購物袋 1 入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha0/h43/170277879152670.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h71/h95/439234240938014.jpg"
     },
     {
-      "code": "884505",
-      "name": "撒隆巴斯",
+      "code": "31509",
+      "name": "Double A A4 專用影印紙 80GSM 2500張 CIE152",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h46/400800824229918.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc4/hda/11953575657502.jpg"
     },
     {
-      "code": "884497",
-      "name": "普拿疼伏冒加強錠",
+      "code": "159799",
+      "name": "Uber Eats 不織布提袋 1入 (外送員請結帳後將商品放入袋中）",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h02/he8/396190071521310.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/he0/450418231345182.jpg"
     },
     {
-      "code": "881148",
-      "name": "博士倫 舒服能雙週拋隱形眼鏡",
+      "code": "159754",
+      "name": "華碩 TH500MH 桌上型電競電腦 H-TM500MH-0R7260122W6A",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/hf4/169539538911262.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/haa/449275391606814.jpg"
     },
     {
-      "code": "86320",
-      "name": "合利他命 - 愛糖衣錠25 亳克",
+      "code": "159030",
+      "name": "空白紙杯 205毫升 X 400入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h9c/400800824950814.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb1/h6a/433249556824094.jpg"
     },
     {
-      "code": "84499",
-      "name": "普拿疼伏冒熱飲散",
+      "code": "157205",
+      "name": "ASUS 華碩 T500MV 桌上型電競電腦 H-T500MV-13620H423W6",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/h12/396189989404702.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/had/hc5/397823951470622.jpg"
     },
     {
-      "code": "84144",
-      "name": "歐治鼻 噴鼻液 0.1%(西羅美塔柔林)",
+      "code": "146685",
+      "name": "Lexar 雷克沙 JumpDrive Dual Drive D400 USB 3.1 Type-C / Type-A 128GB 雙接口隨身碟 2入組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h71/hed/396189989044254.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/h49/262500225220638.jpg"
     },
     {
-      "code": "83293",
-      "name": "樂慕爾-久膜衣錠",
+      "code": "142138",
+      "name": "Tp-Link Deco X55 雙頻路由器 2入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h5c/400800819511326.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/h09/223676567584798.jpg"
     },
     {
-      "code": "82699",
-      "name": "“京都念慈菴”複方川貝枇杷膏",
+      "code": "133424",
+      "name": "Seagate Expansion 10TB 3.5吋 桌上型擴充硬碟",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/hb5/120184389206046.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h89/he4/70175643402270.jpg"
     },
     {
-      "code": "81009",
-      "name": "博士倫 舒服能每日拋棄式隱形眼鏡",
+      "code": "130417",
+      "name": "PILOT 百樂 0.4 mm 超級果汁筆 12入裝 藍 / 黑 / 紅",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/hcb/169023304138782.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/hdc/157251677519902.jpg"
     },
     {
-      "code": "779967",
-      "name": "普拿疼止痛加強錠",
+      "code": "128689",
+      "name": "KeepCool 小型立體保溫保冷購物袋 1入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/h54/396189986914334.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/h80/122559211143198.jpg"
     },
     {
-      "code": "771406",
-      "name": "舒立效咳消配方口含錠",
+      "code": "126691",
+      "name": "PLUS 智慧滾輪修正帶 長度六公尺 正帶4入 + 替換帶 14入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h57/396189977935902.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h52/h59/156457886056478.jpg"
     },
     {
-      "code": "771404",
-      "name": "舒立效口含錠舒緩蜂蜜檸檬",
+      "code": "85392",
+      "name": "百利 海綿菜瓜布 X 20片 + 多用途細緻菜瓜布 X 2片",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h7f/396189977149470.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/ha9/79975398440990.webp"
     },
     {
-      "code": "74471",
-      "name": "維康 保肝膠囊",
+      "code": "79696",
+      "name": "通樂 全效疏通劑 500毫升X 3入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd6/h3f/400800777371678.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h15/h2a/11953646862366.jpg"
     },
     {
-      "code": "58650",
-      "name": "卡黴速停乳膏１％",
+      "code": "71021",
+      "name": "來舒 噴霧抗菌清潔劑 清爽亞麻 510克 X 3入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hb1/413801536290846.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h86/h3b/11953628348446.jpg"
     },
     {
-      "code": "571100",
-      "name": "博士倫 散光雙週拋隱形眼鏡",
+      "code": "66137",
+      "name": "舒潔 絲柔三層盒裝面紙 140抽 X 10盒",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h0e/172356711186462.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf0/h64/45852874965022.jpg"
     },
     {
-      "code": "36999",
-      "name": "維骨力膠囊",
+      "code": "493577",
+      "name": "寶瀅 全效能新配方洗衣凝露 4公升",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h79/haa/415044043603998.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdf/hdb/167865039126558.jpg"
     },
     {
-      "code": "323491",
-      "name": "虎標頸肩舒乳膏",
+      "code": "426151",
+      "name": "寶瀅 全效能 4合1 洗衣膠囊 室內晾衣適用 64顆",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/h71/413801493430302.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf9/h54/245391205695518.jpg"
     },
     {
-      "code": "318154",
-      "name": "博士倫 舒視能老花專用每日拋棄式隱形眼鏡",
+      "code": "383935",
+      "name": "舒潔 淨99抗菌濕紙巾 15張 X 18入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h0d/169023135449118.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h36/344500582187038.jpg"
     },
     {
-      "code": "2410071",
-      "name": "睛艷日拋式彩色隱形眼鏡 玫瑰金",
+      "code": "232540",
+      "name": "驅塵氏 乾濕拖把組 靜電除塵紙 (加大) X 60張 + 抗菌濕拖巾 X 36張",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h02/241990954942494.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h10/ha0/291292498427934.jpg"
     },
     {
-      "code": "2410041",
-      "name": "睛艷日拋式彩色隱形眼鏡 奶霜灰",
+      "code": "218569",
+      "name": "橘子工坊 除臭酵素洗衣精 4公升 X 100蓋次",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/hba/241990954582046.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/hdb/259146865213470.jpg"
     },
     {
-      "code": "2410011",
-      "name": "睛艷日拋式彩色隱形眼鏡 焦糖栗",
+      "code": "194535",
+      "name": "泡舒 植物強效洗潔精 4.83公升",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/h92/241990953926686.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/h3d/350052649140254.jpg"
     },
     {
-      "code": "226969",
-      "name": "克潰精顆粒",
+      "code": "183928",
+      "name": "舒潔 三層抽取式衛生紙 100抽 X 24入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/he6/400800769048606.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/ha1/311830197764126.jpg"
     },
     {
-      "code": "223351",
-      "name": "Jamieson 維生素 C+D 咀嚼錠 300錠",
+      "code": "16693",
+      "name": "台塑 盒裝拉繩式垃圾袋 90公升 80入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/h27/431395515138078.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/hbf/11953558683678.jpg"
     },
     {
-      "code": "2210069",
-      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 日暮棕",
+      "code": "162128",
+      "name": "勁拭 多用途食品接觸擦拭巾 30張 X 3包",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcc/h21/169023290703902.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha5/h45/434451583762462.jpg"
     },
     {
-      "code": "2210039",
-      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 暮夜紫",
+      "code": "159339",
+      "name": "Bold 4合1洗衣膠囊 淡雅花香 70顆 X 2袋入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h2c/169023289720862.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/had/he7/439234011627550.jpg"
     },
     {
-      "code": "2210009",
-      "name": "博士倫 蕾絲炫眸彩色每日拋棄式隱形眼鏡 - 迷眸棕",
+      "code": "152438",
+      "name": "清淨海 全效洗碗膠囊 除菌亮碟 3公克 X 40顆",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he1/h68/169023289458718.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h17/hb0/350741125627934.jpg"
     },
     {
-      "code": "2180007",
-      "name": "愛爾康 全涵氧日拋高透氧隱形眼鏡",
+      "code": "152116",
+      "name": "Tribeca 門前腳踏墊",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/haa/172356667015198.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/hff/438875652292638.jpg"
     },
     {
-      "code": "2151267",
-      "name": "安視優睛漾水凝每日拋棄式隱形眼鏡-璀璨黑",
+      "code": "139289",
+      "name": "五月花 三層抽取式廚房紙巾 80抽 X 12入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd5/366249723297822.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h48/hc6/170276249731102.jpg"
     },
     {
-      "code": "2151239",
-      "name": "安視優 睛漾水凝每日拋棄式隱形眼鏡 - 璀璨啡",
+      "code": "132205",
+      "name": "英國潔 抑菌除汙浴廁清潔劑 750毫升 X 2入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/hc0/170277565825054.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h64/363341270876190.jpg"
     },
     {
-      "code": "2151211",
-      "name": "安視優睛漾水凝每日拋棄式隱形眼鏡-璀璨棕",
+      "code": "11763",
+      "name": "台塑 清潔袋 20公升 6捲 X 54入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h9b/87021612007454.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h48/hb3/11953518641182.jpg"
     },
     {
-      "code": "2151110",
-      "name": "安視優 歐舒適每日拋棄式隱形眼鏡",
+      "code": "111348",
+      "name": "威滅滅蟻隊",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h15/h94/325943550738462.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/h24/224527920070686.jpg"
     },
     {
-      "code": "2117807",
-      "name": "博士倫 輕水氧奧澈矽水膠日拋隱形眼鏡",
+      "code": "108172",
+      "name": "美則 天然地板清潔劑 2公升",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h21/hf0/170277563072542.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hb1/11953479188510.jpg"
     },
     {
-      "code": "210455",
-      "name": "光學鏡片加鏡框一副",
+      "code": "101570",
+      "name": "威猛先生 萬用地板清潔劑 8公升",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h72/h78/99389633724446.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h4d/171818900553758.jpg"
     },
     {
-      "code": "1991960",
-      "name": "JABRA 奇恩氣導式助聽器一對+充電器EM198-C",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7e/hef/437687666147358.jpg"
-    },
-    {
-      "code": "197581",
-      "name": "安視優 超涵水多焦點每日拋棄式隱形眼鏡",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h80/ha8/419358407295006.jpg"
-    },
-    {
-      "code": "197544",
-      "name": "安視優 超涵水每日拋棄式隱形眼鏡",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h81/h7b/170277559042078.jpg"
-    },
-    {
-      "code": "194496",
-      "name": "新甘樫胃腸藥顆粒",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h61/396189911416862.jpg"
-    },
-    {
-      "code": "1891002",
-      "name": "Jabra Enhance Pro 10 ITE/ITC 訂製款助聽器+訂製充電器",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/h9f/228335498100766.jpg"
-    },
-    {
-      "code": "1891000",
-      "name": "Jabra Enhance Pro 10 CIC 訂製款助聽器",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h34/h51/228335497838622.jpg"
-    },
-    {
-      "code": "1881965",
-      "name": "Jabra Enhance Pro 20 BTE 桌上型充電器",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/hd8/291292497707038.jpg"
-    },
-    {
-      "code": "185333",
-      "name": "羅氏活力血糖機組",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/h65/70175692488734.jpg"
-    },
-    {
-      "code": "185222",
-      "name": "Roche羅氏 活力血糖機專用試紙+舒柔採血筆專用採血針(滅菌)",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h20/14900438106142.jpg"
-    },
-    {
-      "code": "184144",
-      "name": "歐治鼻舒敏抗過敏鼻噴劑",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/h1f/396189897457694.jpg"
-    },
-    {
-      "code": "1817319",
-      "name": "飛利浦 HearLink 9050 RIC + 智慧充電器",
-      "price": "點入確認價格",
+      "code": "96152",
+      "name": "福壽 乾狗糧牛肉口味 18.14公斤",
+      "price": "$729",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/hbc/313983073353758.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdb/ha4/11953680973854.jpg"
     },
     {
-      "code": "1817316",
-      "name": "飛利浦 HearLink 9050 智慧充電器",
+      "code": "151524",
+      "name": "汪喵星球 寵物骰子牛凍乾零食 348公克",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/had/hae/313983070208030.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/h40/350052590616606.jpg"
     },
     {
-      "code": "180207",
-      "name": "愛爾康 多水潤日拋隱形眼鏡",
+      "code": "150343",
+      "name": "喵愛餡 三重奏貓零食 75公克 X 6入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/hbb/169023246270494.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/h4a/297207123116062.jpg"
     },
     {
-      "code": "1782595",
-      "name": "Jabra Enhance Pro 20 助聽器攜帶型充電器",
+      "code": "147228",
+      "name": "貓倍麗 雙拼主食罐組 85公克 X 24入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/h9d/315744172572702.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/hf5/350052341874718.jpg"
     },
     {
-      "code": "170065",
-      "name": "安視優 睛漾水凝每日拋棄式隱形眼鏡 - 炫閃晶",
+      "code": "141524",
+      "name": "汪喵星球 寵物雞胸肉凍乾零食 348公克",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h9f/170277382324254.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h4e/350761721528350.jpg"
     },
     {
-      "code": "159333",
-      "name": "REXTON REACH PLUS CORS 助聽器單支",
+      "code": "138794",
+      "name": "F.I. 愛貓乾糧強化膳食纖維化毛配方 9.07公斤",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hb4/434798798241822.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h96/h1e/133504855506974.jpg"
     },
     {
-      "code": "159332",
-      "name": "REXTON REACH CROS R LI 助聽器單支",
+      "code": "103338",
+      "name": "西莎 成犬低脂雞肉蒸鮮包 70公克 X 16入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/hd4/434798798143518.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he3/hc4/137143743578142.jpg"
     },
     {
-      "code": "158563",
-      "name": "近江兄弟 白藥水",
+      "code": "159884",
+      "name": "情人節玫瑰花束 24入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/hbb/437687057186846.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/ha8/433920197165086.jpg"
     },
     {
-      "code": "157225",
-      "name": "利達優利碘喉嚨殺菌噴液劑4.5毫克/毫升",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hda/h70/417161945907230.jpg"
-    },
-    {
-      "code": "157084",
-      "name": "保能痔注入軟膏",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h16/417161945645086.jpg"
-    },
-    {
-      "code": "156801",
-      "name": "施美益凝乳膏",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h99/h20/421140976467998.jpg"
-    },
-    {
-      "code": "156539",
-      "name": "銀暢膜衣錠",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h01/449275199979550.jpg"
-    },
-    {
-      "code": "156337",
-      "name": "艾歐復隆膜衣錠500毫克",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/hcd/421140878917662.jpg"
-    },
-    {
-      "code": "156134",
-      "name": "安舒疼止痛速溶軟膠囊",
-      "price": "點入確認價格",
+      "code": "144443",
+      "name": "橙的電子 無線胎壓監測系統 P420A+",
+      "price": "$3,599",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/ha8/413801341321246.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/hcd/368770408611870.jpg"
     },
     {
-      "code": "1556104",
-      "name": "Jabra Enhance Pro PM 攜帶型助聽器充電器",
+      "code": "139083",
+      "name": "百合花束",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he0/h3b/175267130605598.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbc/hee/362186384179230.jpg"
     },
     {
-      "code": "1556103",
-      "name": "Jabra Enhance Pro 助聽器標準充電器",
+      "code": "118491",
+      "name": "母親節康乃馨花束 12入",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h65/h61/175267130474526.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/hd1/456203689164830.jpg"
     },
     {
-      "code": "1555205",
-      "name": "Rexton BiCore C R-Li T 攜帶型助聽器充電器",
+      "code": "7771768",
+      "name": "科克蘭 女休閒短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he8/h49/185158990987294.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc5/h7e/438876444852254.jpg"
     },
     {
-      "code": "1555204",
-      "name": "Rexton BiCore C R-Li T 助聽器充電器",
+      "code": "7771752",
+      "name": "科克蘭 女休閒短裙",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/hdd/185158988300318.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h10/h4c/438876404842526.jpg"
     },
     {
-      "code": "155353",
-      "name": "視舒坦人工淚液點眼液",
+      "code": "7771005",
+      "name": "科克蘭 女運動七分褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h89/h5b/421140878983198.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h11/67579259387934.jpg"
     },
     {
-      "code": "154965",
-      "name": "“黴癒”灰指甲油劑 5%",
+      "code": "880011",
+      "name": "DKNY 女長版風衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h95/ha5/421140878852126.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h37/h37/364420537810974.jpg"
     },
     {
-      "code": "154344",
-      "name": "正光加味金絲膏",
+      "code": "860306",
+      "name": "Bonispax 女短袖連身洋裝",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h24/413801276604446.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdf/he3/361110752198686.jpg"
     },
     {
-      "code": "153973",
-      "name": "西洋蔘片",
+      "code": "8523485",
+      "name": "Ted Baker 女中筒襪四入組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/h16/417161928540190.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h9b/366249737256990.jpg"
     },
     {
-      "code": "1531503",
-      "name": "Rexton M-Core BTE Li 助聽器充電器 P/HP",
+      "code": "587164",
+      "name": "DKNY 男針織休閒鞋",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h1a/185158989479966.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h10/hee/437687786799134.jpg"
     },
     {
-      "code": "152421",
-      "name": "加味逍遙散",
+      "code": "1966321",
+      "name": "Levi's 兒童短袖上衣 3入組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h79/413801271853086.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/ha9/466199220289566.jpg"
     },
     {
-      "code": "152152",
-      "name": "勝昌 健胃散",
+      "code": "1956763",
+      "name": "Desigual 女針織彩花毛衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hf9/400800457457694.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h35/384789261811742.jpg"
     },
     {
-      "code": "151805",
-      "name": "參天 潤澤眼藥水",
+      "code": "1956390",
+      "name": "Codes Combine 女睡衣組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h95/hbc/400800457064478.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/he5/417162078650398.jpg"
     },
     {
-      "code": "151627",
-      "name": "“順天堂”順寧意顆粒(抑肝散)",
+      "code": "1956384",
+      "name": "Weatherproof Vintage 韓版女短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/hf8/413801235808286.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h0c/455116929302558.jpg"
     },
     {
-      "code": "151626",
-      "name": "允消益膚清乳膏",
+      "code": "1956382",
+      "name": "32 Degrees 女短袖寬鬆上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h6a/413801235677214.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hea/h2c/455116919734302.jpg"
     },
     {
-      "code": "150944",
-      "name": "喇叭牌正露糖衣錠",
+      "code": "1956381",
+      "name": "32 Degrees 女休閒長褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/h4e/413801231155230.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb1/h5d/417162018881566.jpg"
     },
     {
-      "code": "148844",
-      "name": "愛斯飛特 糖衣錠",
+      "code": "1956379",
+      "name": "Desigual 女短袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/hb9/413801230565406.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h28/heb/437687570104350.jpg"
     },
     {
-      "code": "148470",
-      "name": "理冒 消炎噴液劑1.5毫克/毫升",
+      "code": "1956377",
+      "name": "Juicy Couture 女慢跑長褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h24/400800348864542.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/hac/455116904398878.jpg"
     },
     {
-      "code": "148460",
-      "name": "非炎 凝膠 10毫克 X 3入",
+      "code": "1956375",
+      "name": "Halston 女鈕扣式中長連身裙",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7f/hfd/383236917559326.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/hbd/422091040981022.jpg"
     },
     {
-      "code": "147702",
-      "name": "俏正美BB露皙雪靚錠",
+      "code": "1955265",
+      "name": "Crocs 兒童涼鞋",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/hb8/413801230499870.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9f/h2c/450418253955102.jpg"
     },
     {
-      "code": "147005",
-      "name": "內舒拿水溶性鼻用噴液劑",
+      "code": "1851746",
+      "name": "Jezebel 女V領短袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h37/h4e/413421336952862.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7e/h38/437687430250526.jpg"
     },
     {
-      "code": "146970",
-      "name": "利加隆 膠囊140毫克",
+      "code": "1839592",
+      "name": "32 Degrees 厚底拖鞋",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h19/h5a/400800348799006.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h51/378823376797726.jpg"
     },
     {
-      "code": "146969",
-      "name": "維骨力 加強型口服溶液用粉劑",
+      "code": "171026",
+      "name": "Levi's 女修身牛仔褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h78/hc3/401755670609950.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9b/hdc/379074492760094.jpg"
     },
     {
-      "code": "144179",
-      "name": "樂敦 舒視齡眼藥水",
+      "code": "154488",
+      "name": "Levi's 女牛仔短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/h2f/400800342966302.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h06/hbe/403085544914974.jpg"
     },
     {
-      "code": "143488",
-      "name": "麗眼舒單支裝人工淚液點眼液 0.5%",
+      "code": "154485",
+      "name": "Levi's 女直筒牛仔褲 #314",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h5c/420739463282718.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h9a/400800467386398.jpg"
     },
     {
-      "code": "142622",
-      "name": "沙威隆消毒藥水",
+      "code": "154434",
+      "name": "Levi's 女圓領短袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/h2e/449275190345758.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h03/hd5/439233889468446.jpg"
     },
     {
-      "code": "142146",
-      "name": "勝昌 小青龍湯散",
+      "code": "152111",
+      "name": "Levi's 女圓領長袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h0d/402145142308894.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/ha7/369280637501470.jpg"
     },
     {
-      "code": "142144",
-      "name": "勝昌 葛根湯散",
+      "code": "152110",
+      "name": "Levi's 女直筒牛仔褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hab/402145138049054.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf9/h06/379074337374238.jpg"
     },
     {
-      "code": "138219",
-      "name": "無比止癢消炎液",
+      "code": "148860",
+      "name": "DKNY Jeans 女圓領長袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h37/413801217523742.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/hb5/365472246071326.jpg"
     },
     {
-      "code": "137540",
-      "name": "改源IB止痛顆粒",
+      "code": "148128",
+      "name": "Levi's 女314直筒牛仔褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h2c/396189636034590.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/hab/325943242391582.jpg"
     },
     {
-      "code": "135301",
-      "name": "勝昌 六味地黃丸",
+      "code": "1479263",
+      "name": "Hurley 男背心 2入組",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/he0/402145137983518.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/he4/466198754099230.jpg"
     },
     {
-      "code": "135300",
-      "name": "勝昌延年回春丹丸",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3d/hb6/413801217458206.jpg"
-    },
-    {
-      "code": "134721",
-      "name": "勝昌 通骨活絡藥膠布(萬應膏加減味)",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf9/hcf/402145137655838.jpg"
-    },
-    {
-      "code": "126097",
-      "name": "舒潔 濕式衛生紙 46張 X 14入",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h20/hec/13212798222366.jpg"
-    },
-    {
-      "code": "124179",
-      "name": "樂敦 藍視光眼藥水",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/hfc/400800343490590.jpg"
-    },
-    {
-      "code": "118126",
-      "name": "Kotex 靠得住導管式衛生棉條 量多型 32入",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/hfc/44068911972382.jpg"
-    },
-    {
-      "code": "118120",
-      "name": "Kotex 靠得住導管式衛生棉條 一般型 32入",
-      "price": "點入確認價格",
+      "code": "144122",
+      "name": "Andrew Marc 女工裝版襯衫式夾克",
+      "price": "$1,939",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h00/44065336688670.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/hb8/260516515545118.jpg"
     },
     {
-      "code": "116110",
-      "name": "克菸 咀嚼錠(清涼薄荷)2毫克",
+      "code": "139961",
+      "name": "Adidas 女運動二合一短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/hfe/413801213165598.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/hb9/223676554969118.jpg"
     },
     {
-      "code": "1106042",
-      "name": "博士倫 舒視能散光每日拋棄式隱形眼鏡",
+      "code": "138587",
+      "name": "Levi's 男休閒短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/hf8/367572281720862.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/h31/221944234901534.jpg"
     },
     {
-      "code": "1105609",
-      "name": "博士倫 舒視能日拋隱形眼鏡",
+      "code": "1589403",
+      "name": "Banana Republic 男短袖上衣",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h10/384242527666206.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/h75/438876049637406.jpg"
     },
     {
-      "code": "101483",
-      "name": "納寧錠",
+      "code": "139497",
+      "name": "Fila 男運動短褲",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/h94/413801208676382.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h3d/364686681210910.jpg"
     },
     {
       "code": "110563",
