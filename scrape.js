@@ -1,4 +1,3 @@
-const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
@@ -6,21 +5,22 @@ const OUTPUT_FILE = path.join(__dirname, 'data.json');
 
 async function fetchJSON(url) {
     try {
-        const response = await axios.get(url, {
+        const response = await fetch(url, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
                 'Accept': 'application/json, text/plain, */*',
                 'Referer': 'https://www.costco.com.tw/'
             }
         });
-        return response.data;
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        return await response.json();
     } catch (err) {
         throw new Error(`Fetch failed: ${err.message}`);
     }
 }
 
 async function scrape() {
-    console.log('🚀 開始全站商品分類掃描...');
+    console.log('🚀 開始全站商品分類掃描 (原生 Fetch 模式)...');
     let allProductsMap = new Map(); // 使用 Map 避免重複商品
     
     // 第一步：遞歸獲取所有子分類 ID
