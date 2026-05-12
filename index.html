@@ -87,32 +87,59 @@
     </section>
 
     <!-- 底部懸浮分享按鈕 -->
-    <div id="shareBar" class="fixed bottom-0 left-0 right-0 p-5 bg-white/90 backdrop-blur-md border-t border-slate-100 shadow-[0_-10px_30px_rgba(0,0,0,0.1)] transform translate-y-full transition-all duration-500 ease-out z-50 rounded-t-3xl">
-        <div class="max-w-md mx-auto flex justify-between items-center">
-            <div class="flex flex-col">
-                <span id="selectedCount" class="font-black text-2xl text-red-600">0</span>
-                <span class="text-xs text-slate-400 font-bold uppercase tracking-widest">已選擇項目</span>
+    <div id="shareBar" class="fixed bottom-0 left-0 right-0 p-5 bg-white/95 backdrop-blur-md border-t border-slate-100 shadow-[0_-10px-40px_rgba(0,0,0,0.15)] transform translate-y-full transition-all duration-500 ease-out z-50 rounded-t-[2.5rem]">
+        <div class="max-w-md mx-auto">
+            <!-- 展開清單區域 -->
+            <div id="selectedItemsPreview" class="hidden mb-6 max-h-[60vh] overflow-y-auto custom-scrollbar">
+                <div class="flex justify-between items-center mb-4 sticky top-0 bg-white/10 backdrop-blur-sm py-2">
+                    <h3 class="font-black text-slate-800 text-lg">清單預覽</h3>
+                    <button id="closePreviewBtn" class="text-slate-400 hover:text-slate-600">
+                        <svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                </div>
+                <div id="previewList" class="space-y-3">
+                    <!-- 動態插入 -->
+                </div>
             </div>
-            <button id="shareBtn" class="bg-green-500 hover:bg-green-600 text-white px-10 py-3 rounded-2xl font-black shadow-lg transition-all active:scale-95 flex items-center gap-2">
-                <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/></svg>
-                傳送清單
-            </button>
+
+            <!-- 摘要區域 -->
+            <div class="flex justify-between items-center">
+                <div id="openPreviewBtn" class="flex items-center gap-4 cursor-pointer group">
+                    <div class="flex flex-col">
+                        <span id="selectedCount" class="font-black text-2xl text-red-600">0</span>
+                        <span class="text-[10px] text-slate-400 font-bold uppercase tracking-widest group-hover:text-red-500 transition-colors">查看清單詳情</span>
+                    </div>
+                    <button id="clearSelectionBtn" class="text-slate-400 hover:text-red-600 transition-all p-2 bg-slate-100 rounded-xl" title="清空選擇">
+                        <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                    </button>
+                </div>
+                <button id="shareBtn" class="bg-green-500 hover:bg-green-600 text-white px-8 py-3 rounded-2xl font-black shadow-lg transition-all active:scale-95 flex items-center gap-2">
+                    <svg width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92c0-1.61-1.31-2.92-2.92-2.92z"/></svg>
+                    傳送清單
+                </button>
+            </div>
         </div>
     </div>
 
     <script>
-        const FAVORITES_DATA = [
-            { category: "🥩 生鮮食品", items: ["空運新鮮鮭魚切片", "台灣去骨清雞腿真空包", "冷凍金目鱸魚 1KG", "KS養殖超大生蝦仁", "全佑雞蛋L30CT", "非基因改造板豆腐", "非基因改造細豆腐", "美國特選牛腱真空包", "台灣土雞 (骨腿切、切塊)", "老協珍豬肉米漢堡"] },
-            { category: "🥦 蔬果乾貨", items: ["好菇道有機綜合菇", "有機木耳 600G", "紐西蘭陽光金圓頭 (奇異果)", "亞細亞智利藍莓", "日本山藥 950G", "履歷地瓜 2.8KG", "龍口有機粉絲", "五木寬捲麵", "曾拌麵 12 入", "青花椒香麻拌麵", "有機穀典有機黃豆"] },
-            { category: "🥛 乳品飲料", items: ["科克蘭全脂鮮乳", "科克蘭希臘優格", "福樂低脂優格 10PK", "KS衣索匹亞咖啡豆", "KS MOSCATO D'ASTI (氣泡酒)", "美國伏特加 1.75L"] },
-            { category: "🥨 零食烘焙", items: ["美式辣雞翅", "肉桂葡萄貝果麵包", "無鹽奶油 1.81KG", "原味高鈣起司球", "美製瑞士風味乾酪"] },
-            { category: "🧻 生活用品", items: ["幫寶適拉拉褲 XL", "好奇嬰兒濕巾", "SCOOP AWAY 貓砂", "五月花妙用衛生紙", "NAUTICA 漁夫帽", "MOOMIN 小餐盤 8PC", "WATERPIK 沖牙機組", "TRESEMME 洗髮精", "AVEENO 嬰兒沐浴露", "VIT C/D/鋅發泡錠 (力度伸)", "KS 冷凍保鮮袋 (大)", "USII 蔬果夾鏈袋", "ALPHAMIC 烹調紙"] }
+        // 我的常購清單（改為從 localStorage 讀取，並支援動態增刪）
+        let favoriteNames = JSON.parse(localStorage.getItem('costco_favs')) || [
+            "KS 抽取式面紙", "KS 科克蘭三層抽取面紙", "KS 垃圾袋", "KS 浴廁清潔劑",
+            "KS 鮮乳", "KS 零脂牛奶", "KS 希臘式優格", "KS 冷凍藍莓"
         ];
+
+        function saveFavs() {
+            localStorage.setItem('costco_favs', JSON.stringify(favoriteNames));
+        }
 
         let selectedItems = new Set();
         let currentTab = 'offers';
         let allOffers = [];
+        let allOffersMap = new Map(); // 用名稱快速查商品資訊
         let searchQuery = '';
+        let displayCount = 50; 
+        const BATCH_SIZE = 50; 
+
 
         // Tab 切換邏輯
         document.getElementById('tabOffers').onclick = () => switchTab('offers');
@@ -155,6 +182,10 @@
                 if (!response.ok) throw new Error('資料未更新');
                 const data = await response.json();
                 allOffers = data.items || [];
+                allOffersMap.clear();
+                allOffers.forEach(item => {
+                    allOffersMap.set(item.name, item);
+                });
                 renderOffers();
                 status.style.display = 'none';
             } catch (err) {
@@ -165,7 +196,7 @@
             }
         }
 
-        function renderOffers() {
+        function renderOffers(isAppend = false) {
             const list = document.getElementById('offersList');
             const tip = document.getElementById('searchExternalTip');
             const keywordText = document.getElementById('searchKeywordText');
@@ -175,7 +206,10 @@
                 (item.code && item.code.includes(searchQuery))
             );
 
-            list.innerHTML = '';
+            if (!isAppend) {
+                list.innerHTML = '';
+                displayCount = BATCH_SIZE;
+            }
             
             if (searchQuery && filtered.length === 0) {
                 tip.classList.remove('hidden');
@@ -184,81 +218,151 @@
                 tip.classList.add('hidden');
             }
 
-            // 限制渲染數量以提升效能
-            const DISPLAY_LIMIT = 50;
-            const itemsToRender = filtered.slice(0, DISPLAY_LIMIT);
+            const itemsToRender = filtered.slice(isAppend ? displayCount - BATCH_SIZE : 0, displayCount);
 
             itemsToRender.forEach(item => {
                 const card = document.createElement('div');
                 card.className = `bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent transition-all active:scale-95 cursor-pointer flex flex-col ${selectedItems.has(item.name) ? 'selected' : ''}`;
+                
+                // 判斷是否有折價資訊
+                const hasDiscount = item.discount && item.original_price;
+                const isFavorite = favoriteNames.includes(item.name);
+
                 card.innerHTML = `
-                    <div class="relative mb-3 overflow-hidden rounded-2xl bg-slate-50">
-                        <img src="${item.img}" class="product-img w-full" loading="lazy">
-                        ${item.discount ? `<div class="absolute top-2 left-2 bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded-lg shadow-md">省 ${item.discount}</div>` : ''}
+                    <div class="relative mb-3 overflow-hidden rounded-2xl bg-slate-50 aspect-square">
+                        ${item.img ? `<img src="${item.img}" class="w-full h-full object-contain" loading="lazy">` : `<div class="w-full h-full flex items-center justify-center text-slate-300"><svg width="32" height="32" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg></div>`}
+                        ${hasDiscount ? `<div class="absolute top-2 left-2 bg-red-600 text-white text-[10px] font-black px-2 py-1 rounded-full shadow-sm">SAVE ${item.discount}</div>` : ''}
+                        <button class="fav-toggle absolute top-2 right-2 p-2 bg-white/80 backdrop-blur-sm rounded-full shadow-sm ${isFavorite ? 'text-yellow-500' : 'text-slate-300'}" data-name="${item.name}">
+                            <svg width="18" height="18" fill="${isFavorite ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path></svg>
+                        </button>
                     </div>
-                    <div class="text-[13px] font-bold text-slate-700 line-clamp-2 h-10 mb-2 leading-snug">${item.name}</div>
-                    <div class="mt-auto">
-                        <div class="flex items-baseline gap-1">
-                            <div class="text-lg font-black text-red-600">${item.price}</div>
-                            ${item.original_price ? `<div class="text-[10px] text-slate-300 line-through">${item.original_price}</div>` : ''}
+                    <div class="flex-grow">
+                        <div class="text-xs text-slate-400 font-bold mb-1">${item.code || ''}</div>
+                        <h3 class="font-bold text-slate-800 text-sm leading-snug h-10 line-clamp-2 mb-2">${item.name}</h3>
+                        <div class="mt-auto">
+                            ${hasDiscount ? `
+                                <div class="text-[10px] text-slate-400 line-through font-medium">${item.original_price}</div>
+                                <div class="text-red-600 font-black text-lg">${item.price}</div>
+                            ` : `
+                                <div class="text-slate-800 font-black text-lg">${item.price}</div>
+                            `}
                         </div>
                     </div>
                 `;
-                card.onclick = () => toggleItem(item.name, card);
+                card.onclick = (e) => {
+                    if (e.target.closest('.fav-toggle')) {
+                        toggleFavorite(item.name);
+                        return;
+                    }
+                    toggleItem(item.name, card);
+                };
                 list.appendChild(card);
             });
 
-            if (filtered.length > DISPLAY_LIMIT) {
-                const moreLabel = document.createElement('div');
-                moreLabel.className = "col-span-2 text-center py-8 text-slate-400 text-sm font-medium";
-                moreLabel.innerText = `還有 ${filtered.length - DISPLAY_LIMIT} 項商品，請縮小搜尋範圍...`;
-                list.appendChild(moreLabel);
+            if (displayCount < filtered.length) {
+                const sentinel = document.createElement('div');
+                sentinel.id = 'loadMoreSentinel';
+                sentinel.className = "col-span-2 h-10 flex items-center justify-center text-slate-300";
+                sentinel.innerHTML = '<div class="w-5 h-5 border-2 border-slate-200 border-t-slate-400 rounded-full animate-spin"></div>';
+                list.appendChild(sentinel);
+                setupInfiniteScroll();
             }
+        }
+
+        function setupInfiniteScroll() {
+            const sentinel = document.getElementById('loadMoreSentinel');
+            if (!sentinel) return;
+
+            const observer = new IntersectionObserver((entries) => {
+                if (entries[0].isIntersecting) {
+                    observer.disconnect();
+                    sentinel.remove();
+                    displayCount += BATCH_SIZE;
+                    renderOffers(true);
+                }
+            }, { rootMargin: '400px' });
+            
+            observer.observe(sentinel);
         }
 
         function renderFavorites() {
             const list = document.getElementById('favsList');
             list.innerHTML = ''; 
 
-            FAVORITES_DATA.forEach(cat => {
-                const filteredItems = cat.items.filter(name => 
-                    name.toLowerCase().includes(searchQuery.toLowerCase())
-                );
+            const filteredItems = favoriteNames.filter(name => 
+                name.toLowerCase().includes(searchQuery.toLowerCase())
+            );
 
-                if (searchQuery && filteredItems.length === 0) return;
-
-                const section = document.createElement('div');
-                section.innerHTML = `
-                    <h3 class="font-black text-lg text-slate-800 mb-4 flex items-center gap-2">
-                        <span class="w-1 h-6 bg-red-600 rounded-full"></span> ${cat.category}
-                    </h3>
-                    <div class="grid grid-cols-1 gap-3">
-                        ${filteredItems.map(name => `
-                            <div class="fav-item bg-white p-4 rounded-2xl shadow-sm border-2 border-transparent flex justify-between items-center transition-all active:scale-[0.98] cursor-pointer ${selectedItems.has(name) ? 'selected' : ''}" data-name="${name}">
-                                <span class="font-bold text-slate-600">${name}</span>
-                                <div class="check-icon ${selectedItems.has(name) ? 'text-red-600' : 'text-slate-200'}">
-                                    <svg width="24" height="24" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
-                                </div>
-                            </div>
-                        `).join('')}
+            if (filteredItems.length === 0) {
+                list.innerHTML = `
+                    <div class="text-center py-20">
+                        <div class="text-slate-200 mb-4"><svg class="mx-auto" width="64" height="64" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z"></path></svg></div>
+                        <p class="text-slate-400 font-medium">還沒有收藏項目，從「當前優惠」中點擊星星加入吧！</p>
                     </div>
                 `;
-                list.appendChild(section);
-            });
+                return;
+            }
+
+            const section = document.createElement('div');
+            section.innerHTML = `
+                <h3 class="font-black text-lg text-slate-800 mb-4 flex items-center gap-2">
+                    <span class="w-1 h-6 bg-red-600 rounded-full"></span> 我的清單 (${filteredItems.length})
+                </h3>
+                <div class="grid grid-cols-1 gap-4">
+                    ${filteredItems.map(name => {
+                        const product = allOffersMap.get(name) || allOffers.find(p => p.name.includes(name));
+                        const isSelected = selectedItems.has(name);
+                        return `
+                            <div class="fav-item bg-white p-4 rounded-3xl shadow-sm border-2 border-transparent flex gap-4 items-center transition-all active:scale-[0.98] cursor-pointer ${isSelected ? 'selected' : ''}" data-name="${name}">
+                                <div class="w-16 h-16 bg-slate-50 rounded-2xl flex-shrink-0 overflow-hidden border border-slate-100">
+                                    ${product && product.img ? `<img src="${product.img}" class="w-full h-full object-contain" loading="lazy">` : `<div class="w-full h-full flex items-center justify-center text-slate-300"><svg width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg></div>`}
+                                </div>
+                                <div class="flex-grow">
+                                    <div class="font-bold text-slate-800 text-base leading-tight mb-1">${name}</div>
+                                    <div class="text-red-600 font-black text-sm">${product ? product.price : '點入確認價格'}</div>
+                                </div>
+                                <button class="remove-fav p-2 text-slate-300 hover:text-red-500" data-name="${name}">
+                                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                                </button>
+                                <div class="check-icon ${isSelected ? 'text-red-600' : 'text-slate-100'}">
+                                    <svg width="28" height="28" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+                                </div>
+                            </div>
+                        `;
+                    }).join('')}
+                </div>
+            `;
+            list.appendChild(section);
 
             // 為常購項目綁定點擊事件
             document.querySelectorAll('.fav-item').forEach(el => {
-                el.onclick = () => {
+                el.onclick = (e) => {
                     const name = el.getAttribute('data-name');
+                    if (e.target.closest('.remove-fav')) {
+                        toggleFavorite(name);
+                        return;
+                    }
                     toggleItem(name, el);
                     const icon = el.querySelector('.check-icon');
                     if (selectedItems.has(name)) {
-                        icon.classList.replace('text-slate-200', 'text-red-600');
+                        icon.classList.replace('text-slate-100', 'text-red-600');
                     } else {
-                        icon.classList.replace('text-red-600', 'text-slate-200');
+                        icon.classList.replace('text-red-600', 'text-slate-100');
                     }
                 };
             });
+        }
+
+        function toggleFavorite(name) {
+            const index = favoriteNames.indexOf(name);
+            if (index > -1) {
+                favoriteNames.splice(index, 1);
+            } else {
+                favoriteNames.push(name);
+            }
+            saveFavs();
+            if (currentTab === 'offers') renderOffers(false);
+            else renderFavorites();
         }
 
         // 搜尋邏輯
@@ -302,9 +406,62 @@
             const bar = document.getElementById('shareBar');
             const countLabel = document.getElementById('selectedCount');
             countLabel.innerText = selectedItems.size;
-            if (selectedItems.size > 0) bar.classList.remove('translate-y-full');
-            else bar.classList.add('translate-y-full');
+            
+            if (selectedItems.size > 0) {
+                bar.classList.remove('translate-y-full');
+                updatePreviewList();
+            } else {
+                bar.classList.add('translate-y-full');
+                document.getElementById('selectedItemsPreview').classList.add('hidden');
+            }
         }
+
+        function updatePreviewList() {
+            const list = document.getElementById('previewList');
+            list.innerHTML = '';
+            
+            selectedItems.forEach(name => {
+                const product = allOffersMap.get(name);
+                const item = document.createElement('div');
+                item.className = "flex items-center gap-3 bg-slate-50 p-3 rounded-2xl";
+                item.innerHTML = `
+                    <div class="w-10 h-10 bg-white rounded-lg flex-shrink-0 overflow-hidden border border-slate-100">
+                        ${product && product.img ? `<img src="${product.img}" class="w-full h-full object-contain">` : ''}
+                    </div>
+                    <div class="flex-grow">
+                        <div class="text-xs font-bold text-slate-700 line-clamp-1">${name}</div>
+                        <div class="text-[10px] text-red-600 font-black">${product ? product.price : ''}</div>
+                    </div>
+                    <button class="remove-preview-item text-slate-300 hover:text-red-500" data-name="${name}">
+                        <svg width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12"></path></svg>
+                    </button>
+                `;
+                item.querySelector('.remove-preview-item').onclick = () => {
+                    selectedItems.delete(name);
+                    // 同步更新 UI
+                    document.querySelectorAll(`[data-name="${name}"]`).forEach(el => {
+                        el.classList.remove('selected');
+                        const icon = el.querySelector('.check-icon');
+                        if (icon) {
+                            icon.classList.remove('text-red-600');
+                            icon.classList.add('text-slate-100');
+                            icon.classList.add('text-slate-200'); // 相容舊版
+                        }
+                    });
+                    updateShareBar();
+                };
+                list.appendChild(item);
+            });
+        }
+
+        document.getElementById('openPreviewBtn').onclick = () => {
+            const preview = document.getElementById('selectedItemsPreview');
+            preview.classList.toggle('hidden');
+        };
+
+        document.getElementById('closePreviewBtn').onclick = () => {
+            document.getElementById('selectedItemsPreview').classList.add('hidden');
+        };
 
         document.getElementById('shareBtn').onclick = async () => {
             const list = Array.from(selectedItems).map((item, i) => `${i+1}. ${item}`).join('\n');
@@ -313,6 +470,19 @@
                 try { await navigator.share({ title: 'Costco 購物清單', text: text }); } catch (e) {}
             } else {
                 try { await navigator.clipboard.writeText(text); alert('已複製清單！'); } catch (err) {}
+            }
+        };
+
+        document.getElementById('clearSelectionBtn').onclick = () => {
+            if (confirm('確定要清空所有已選擇的項目嗎？')) {
+                selectedItems.clear();
+                // 更新畫面上所有項目的選取狀態
+                document.querySelectorAll('.selected').forEach(el => el.classList.remove('selected'));
+                document.querySelectorAll('.check-icon').forEach(icon => {
+                    icon.classList.remove('text-red-600');
+                    icon.classList.add('text-slate-200');
+                });
+                updateShareBar();
             }
         };
 
