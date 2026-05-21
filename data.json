@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/5/21 下午8:20:32",
+  "updated_at": "2026/5/22 上午2:54:36",
   "count": 9118,
   "items": [
     {
@@ -299,14 +299,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h72/449275625570334.jpg"
     },
     {
-      "code": "157724",
-      "name": "Acer 無線靜⾳鍵盤滑⿏組 AAK41A",
-      "price": "$609",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h1e/415043990388766.jpg"
-    },
-    {
       "code": "155954-B",
       "name": "Apple Watch Series 11 GPS 46公釐 鋁金屬錶殼 附運動型錶帶",
       "price": "$13,199",
@@ -481,6 +473,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha9/h28/420739619913758.jpg"
+    },
+    {
+      "code": "155141",
+      "name": "Insta360 X5 8K 全景運動相機套裝組",
+      "price": "$16,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hbd/403519813517342.jpg"
     },
     {
       "code": "154268",
@@ -875,20 +875,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h78/438478596407326.jpg"
     },
     {
-      "code": "157019",
-      "name": "綠聯 Right Angle USB-A 對 Type-C 快充傳輸線 金屬編織L型 / 電競專用版 深空灰 (1公尺) 3件組",
-      "price": "$439",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h20/397823947210782.jpg"
-    },
-    {
       "code": "156907",
       "name": "Jabra Evolve 10 頭戴式 USB 有線耳機麥克風",
       "price": "$799",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h89/397823871582238.jpg"
+    },
+    {
+      "code": "156613",
+      "name": "MSI 27吋電腦螢幕 PRO MP271 E14A - 156613",
+      "price": "$3,099",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h77/386020455546910.jpg"
     },
     {
       "code": "155945-B",
@@ -1177,6 +1177,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/hbc/450045297688606.jpg"
+    },
+    {
+      "code": "158484",
+      "name": "TP-Link Tapo D210 智慧門鈴",
+      "price": "$1,869",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
     },
     {
       "code": "157824",
@@ -2243,6 +2251,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h92/hc8/351316129251358.jpg"
     },
     {
+      "code": "153210",
+      "name": "JBL Flip Essential 2 可攜式防水藍牙喇叭",
+      "price": "$2,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/h6b/363073757249566.jpg"
+    },
+    {
       "code": "152892",
       "name": "MAGEASY Lift 增高支架保護殼 適用於 iPad Pro 13吋 2024 M4",
       "price": "$1,299",
@@ -3235,14 +3251,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h91/346355823935518.jpg"
     },
     {
-      "code": "152233",
-      "name": "ASUS Zenbook 14 14吋 Copilot+ PC AI筆記型電腦 UX3407QA - 152233",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h6c/438478526349342.jpg"
-    },
-    {
       "code": "152012",
       "name": "Aiwa便攜式藍牙喇叭 BST-660",
       "price": "$2,099",
@@ -3619,20 +3627,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h9c/367002996801566.jpg"
     },
     {
+      "code": "157724",
+      "name": "Acer 無線靜⾳鍵盤滑⿏組 AAK41A",
+      "price": "$609",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h1e/415043990388766.jpg"
+    },
+    {
       "code": "139284",
       "name": "綠聯 七合一多功能USB-C集線器 4K 60Hz版 60515",
       "price": "$1,199",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h54/h03/137772679430174.jpg"
-    },
-    {
-      "code": "155141",
-      "name": "Insta360 X5 8K 全景運動相機套裝組",
-      "price": "$16,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hbd/403519813517342.jpg"
     },
     {
       "code": "157017",
@@ -3683,12 +3691,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hba/h90/453636570087454.jpg"
     },
     {
-      "code": "156613",
-      "name": "MSI 27吋電腦螢幕 PRO MP271 E14A - 156613",
-      "price": "$3,099",
+      "code": "157019",
+      "name": "綠聯 Right Angle USB-A 對 Type-C 快充傳輸線 金屬編織L型 / 電競專用版 深空灰 (1公尺) 3件組",
+      "price": "$439",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h77/386020455546910.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h20/397823947210782.jpg"
     },
     {
       "code": "160400-B",
@@ -3705,14 +3713,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/he6/139437278625822.jpg"
-    },
-    {
-      "code": "158484",
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,869",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
     },
     {
       "code": "159532",
@@ -3755,14 +3755,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hcf/368770490204190.jpg"
     },
     {
-      "code": "153210",
-      "name": "JBL Flip Essential 2 可攜式防水藍牙喇叭",
-      "price": "$2,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/h6b/363073757249566.jpg"
-    },
-    {
       "code": "159277",
       "name": "HP Laptop 15.6吋筆記型電腦 15-fd2006TU",
       "price": "$36,999",
@@ -3785,6 +3777,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/h02/367003158085662.jpg"
+    },
+    {
+      "code": "152233",
+      "name": "ASUS Zenbook 14 14吋 Copilot+ PC AI筆記型電腦 UX3407QA - 152233",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h6c/438478526349342.jpg"
     },
     {
       "code": "147917",
@@ -4075,14 +4075,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h56/256217673498654.jpg"
     },
     {
-      "code": "155548",
-      "name": "歐樂B iO 電動牙刷刷頭 8入 微震溫和",
-      "price": "$1,549",
-      "original_price": "$1,939",
-      "discount": "$390",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h13/438875894153246.jpg"
-    },
-    {
       "code": "137098",
       "name": "夏普 253公升變頻雙門冰箱 SJ-H25Y-WH",
       "price": "$11,199",
@@ -4161,6 +4153,14 @@
       "original_price": "$24,999",
       "discount": "$5,000",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/h74/332442480246814.jpg"
+    },
+    {
+      "code": "158984",
+      "name": "Hario 日本製冷萃茶壺 1.2公升",
+      "price": "$529",
+      "original_price": "$669",
+      "discount": "$140",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf1/433626100531230.jpg"
     },
     {
       "code": "8526069",
@@ -5129,6 +5129,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h99/h3c/312933444517918.jpg"
+    },
+    {
+      "code": "147018",
+      "name": "九陽 多功能豆漿機 SMM55",
+      "price": "$2,959",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h4b/330166851764254.jpg"
     },
     {
       "code": "123034",
@@ -7123,14 +7131,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5d/hfd/448868531994654.jpg"
     },
     {
-      "code": "159183",
-      "name": "LG 315公升 智慧變頻雙門冰箱",
-      "price": "$17,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h59/452750214463518.jpg"
-    },
-    {
       "code": "158958",
       "name": "Don Home 萊賽爾沁涼被 150公分 X 200公分 四季",
       "price": "$1,099",
@@ -7289,6 +7289,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h08/438072178016286.jpg"
+    },
+    {
+      "code": "153527",
+      "name": "Samsung 75吋 4K 晶彩智慧顯示器 UA75U8500FXXZW",
+      "price": "$33,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc4/ha8/438072173953054.jpg"
     },
     {
       "code": "153513",
@@ -8227,6 +8235,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h28/hd1/69412029267998.jpg"
     },
     {
+      "code": "133226",
+      "name": "席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分",
+      "price": "$23,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h29/h20/81302962831390.jpg"
+    },
+    {
       "code": "131743",
       "name": "WOKY 沃廚 陶瓷內膽保溫杯含提手 500毫升 X 2件組",
       "price": "$2,899",
@@ -9075,14 +9091,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/he3/298414363967518.jpg"
     },
     {
-      "code": "145724",
-      "name": "夏普 75吋 4K UHD 顯示器 4T-C75FJ1X",
-      "price": "$27,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h86/438072153047070.jpg"
-    },
-    {
       "code": "145393",
       "name": "Serta Savannah 雙人特大床墊 182公分 X 212公分",
       "price": "$21,499",
@@ -9739,6 +9747,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h56/h09/455933764730910.jpg"
     },
     {
+      "code": "161077",
+      "name": "VASAGLE 工業風長型邊桌",
+      "price": "$1,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hdf/455933760208926.jpg"
+    },
+    {
       "code": "161072",
       "name": "VASAGLE 工業風雙圓茶几 2件組",
       "price": "$2,799",
@@ -10137,6 +10153,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/h4d/438072224350238.jpg"
+    },
+    {
+      "code": "154785",
+      "name": "BergHOFF Glints系列 陶瓷不沾塗層單柄平底鍋 2件組",
+      "price": "$1,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h05/h47/378822100189214.jpg"
     },
     {
       "code": "154770",
@@ -13137,6 +13161,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/hea/396189778411550.jpg"
+    },
+    {
+      "code": "156893",
+      "name": "Ninja BLAST 無線調理機 BC100TWWH + BC100TWBK",
+      "price": "$3,659",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h39/h75/401755892088862.jpg"
     },
     {
       "code": "156889",
@@ -16363,14 +16395,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h07/h8d/69412006002718.jpg"
     },
     {
-      "code": "132106",
-      "name": "席伊麗 護背系列火星雙人加大床墊 X 1床 + 下墊 91.5公分 X 190公分 X 2床",
-      "price": "$37,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h30/81302959554590.jpg"
-    },
-    {
       "code": "132105",
       "name": "席伊麗 護背系列火星標準雙人上墊 X 1床 + 下墊 76公分 X 190公分 X 2床",
       "price": "$33,399",
@@ -16505,14 +16529,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hcc/hb2/68471637999646.jpg"
-    },
-    {
-      "code": "131161",
-      "name": "席伊麗 護背系列金星雙人加大床墊 X 1床 + 下墊 91.5公分 X 190公分 X 2床",
-      "price": "$41,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hba/81302958997534.jpg"
     },
     {
       "code": "130943",
@@ -17107,12 +17123,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h33/h2a/332442350092318.jpg"
     },
     {
-      "code": "158984",
-      "name": "Hario 日本製冷萃茶壺 1.2公升",
-      "price": "$529",
-      "original_price": "$669",
-      "discount": "$140",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hf1/433626100531230.jpg"
+      "code": "155548",
+      "name": "歐樂B iO 電動牙刷刷頭 8入 微震溫和",
+      "price": "$1,549",
+      "original_price": "$1,939",
+      "discount": "$390",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h13/438875894153246.jpg"
     },
     {
       "code": "145617",
@@ -17169,14 +17185,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h3a/138405907038238.jpg"
-    },
-    {
-      "code": "147018",
-      "name": "九陽 多功能豆漿機 SMM55",
-      "price": "$2,959",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h4b/330166851764254.jpg"
     },
     {
       "code": "144255",
@@ -17251,20 +17259,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h37/hfc/188820124401694.jpg"
     },
     {
+      "code": "159183",
+      "name": "LG 315公升 智慧變頻雙門冰箱",
+      "price": "$17,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h59/452750214463518.jpg"
+    },
+    {
       "code": "158937",
       "name": "WOKY 沃廚 X 三麗鷗 渾圓杯鈦陶瓷保冷保溫杯 770毫升 X 2件組 Hello Kitty 俏麗粉 + 大耳狗 蹦跳玩台灣",
       "price": "$1,499",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h3e/417417246572574.jpg"
-    },
-    {
-      "code": "153527",
-      "name": "Samsung 75吋 4K 晶彩智慧顯示器 UA75U8500FXXZW",
-      "price": "$33,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc4/ha8/438072173953054.jpg"
     },
     {
       "code": "136312",
@@ -17323,14 +17331,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/h6f/103644752805918.jpg"
     },
     {
-      "code": "133226",
-      "name": "席伊麗 護背系列 Sunshine 標準雙人床墊 152公分 X 190公分",
-      "price": "$23,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h29/h20/81302962831390.jpg"
-    },
-    {
       "code": "107874",
       "name": "席伊麗 護背系列火星雙人加大床墊 183公分 X 190公分",
       "price": "$21,999",
@@ -17345,6 +17345,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/h01/455933804150814.jpg"
+    },
+    {
+      "code": "145724",
+      "name": "夏普 75吋 4K UHD 顯示器 4T-C75FJ1X",
+      "price": "$27,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h86/438072153047070.jpg"
     },
     {
       "code": "136318",
@@ -17385,14 +17393,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hda/h42/455933766729758.jpg"
-    },
-    {
-      "code": "161077",
-      "name": "VASAGLE 工業風長型邊桌",
-      "price": "$1,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hdf/455933760208926.jpg"
     },
     {
       "code": "150983",
@@ -17635,14 +17635,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h14/h44/413421489422366.jpg"
     },
     {
-      "code": "156893",
-      "name": "Ninja BLAST 無線調理機 BC100TWWH + BC100TWBK",
-      "price": "$3,659",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h39/h75/401755892088862.jpg"
-    },
-    {
       "code": "1544480",
       "name": "Life Comfort 厚絨保暖隨意毯 152公分 X 177公分",
       "price": "$569",
@@ -17731,6 +17723,22 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h73/h92/86343448625182.jpg"
     },
     {
+      "code": "132106",
+      "name": "席伊麗 護背系列火星雙人加大床墊 X 1床 + 下墊 91.5公分 X 190公分 X 2床",
+      "price": "$37,199",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h30/81302959554590.jpg"
+    },
+    {
+      "code": "131161",
+      "name": "席伊麗 護背系列金星雙人加大床墊 X 1床 + 下墊 91.5公分 X 190公分 X 2床",
+      "price": "$41,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hba/81302958997534.jpg"
+    },
+    {
       "code": "126408",
       "name": "La Belle 雙人緹花原棉被 180公分 X 210公分 / 2公斤",
       "price": "$1,699",
@@ -17777,14 +17785,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/hfe/414650586464286.jpg"
-    },
-    {
-      "code": "154785",
-      "name": "BergHOFF Glints系列 陶瓷不沾塗層單柄平底鍋 2件組",
-      "price": "$1,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h05/h47/378822100189214.jpg"
     },
     {
       "code": "1819490",
@@ -22025,14 +22025,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/he0/422090771890206.jpg"
-    },
-    {
-      "code": "679949",
-      "name": "Athe 提亮防曬氣墊組 (氣墊 + 補充芯 + 粉撲 X 3入)",
-      "price": "$397",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/h48/417417264332830.jpg"
     },
     {
       "code": "307066",
@@ -29139,6 +29131,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hdb/452308894908446.jpg"
     },
     {
+      "code": "679949",
+      "name": "Athe 提亮防曬氣墊組 (氣墊 + 補充芯 + 粉撲 X 3入)",
+      "price": "$397",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/h48/417417264332830.jpg"
+    },
+    {
       "code": "244969",
       "name": "米森 無加糖分離乳清蛋白粉 可可拿鐵 1000公克",
       "price": "$1,149",
@@ -33393,14 +33393,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h96/116669213376542.jpg"
-    },
-    {
-      "code": "1141360",
-      "name": "亞細亞田園 冷凍冰烤地瓜 1.1公斤 X 6包",
-      "price": "$1,159",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h47/382229490827294.jpg"
     },
     {
       "code": "102714",
@@ -38977,6 +38969,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h8a/10422890889246.jpg"
+    },
+    {
+      "code": "1141360",
+      "name": "亞細亞田園 冷凍冰烤地瓜 1.1公斤 X 6包",
+      "price": "$1,159",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h47/382229490827294.jpg"
     },
     {
       "code": "236540",
