@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/5/24 上午12:12:11",
+  "updated_at": "2026/5/24 上午4:22:50",
   "count": 9121,
   "items": [
     {
@@ -3227,14 +3227,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/ha7/344663819452446.jpg"
     },
     {
-      "code": "152345",
-      "name": "Sony PlayStation Portal 遙控遊玩機 + PULSE Explore 無線耳塞式耳機 黑",
-      "price": "$11,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h91/346355823935518.jpg"
-    },
-    {
       "code": "152012",
       "name": "Aiwa便攜式藍牙喇叭 BST-660",
       "price": "$2,099",
@@ -3809,6 +3801,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/h02/367003158085662.jpg"
+    },
+    {
+      "code": "152345",
+      "name": "Sony PlayStation Portal 遙控遊玩機 + PULSE Explore 無線耳塞式耳機 黑",
+      "price": "$11,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h91/346355823935518.jpg"
     },
     {
       "code": "147917",
@@ -26147,6 +26147,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h14/381454934081566.jpg"
     },
     {
+      "code": "155029",
+      "name": "蘇菲 超熟睡安心褲 L號 36片+日用褲 L號 4片",
+      "price": "$899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/hd4/419358248435742.jpg"
+    },
+    {
       "code": "152412",
       "name": "The Face Shop 茶樹淨膚調理爽膚棉組",
       "price": "$659",
@@ -29211,14 +29219,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h80/h6e/398742024486942.jpg"
     },
     {
-      "code": "155029",
-      "name": "蘇菲 超熟睡安心褲 L號 36片+日用褲 L號 4片",
-      "price": "$899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/hd4/419358248435742.jpg"
-    },
-    {
       "code": "157239",
       "name": "Dr.HUANG 全效清透防曬乳 SPF50 30毫升 X 2入",
       "price": "$999",
@@ -29653,9 +29653,9 @@
     {
       "code": "126788",
       "name": "MJB 冷泡咖啡濾泡包 18公克 X 40入",
-      "price": "$355",
-      "original_price": "$439",
-      "discount": "$84",
+      "price": "$439",
+      "original_price": null,
+      "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/haa/61939550847006.jpg"
     },
     {
@@ -39395,14 +39395,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/h74/422091088035870.jpg"
     },
     {
-      "code": "1956397",
-      "name": "Calvin Klein Jeans 女高腰寬管牛仔長褲",
-      "price": "$599",
-      "original_price": "$749",
-      "discount": "$150",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd2/438035515539486.jpg"
-    },
-    {
       "code": "1956458",
       "name": "Unionbay 兒童彈性長褲",
       "price": "$409",
@@ -42771,14 +42763,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h67/hc0/344480393232414.jpg"
     },
     {
-      "code": "152494-B",
-      "name": "Eminent Vertica 20+28吋 行李箱",
-      "price": "$7,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/344480390479902.jpg"
-    },
-    {
       "code": "152493-B",
       "name": "Eminent Vertica 20+24吋 行李箱",
       "price": "$7,299",
@@ -43307,6 +43291,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h71/he2/433626082836510.jpg"
     },
     {
+      "code": "1956397",
+      "name": "Calvin Klein Jeans 女高腰寬管牛仔長褲",
+      "price": "$599",
+      "original_price": "$749",
+      "discount": "$150",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hd2/438035515539486.jpg"
+    },
+    {
       "code": "154033",
       "name": "Calvin Klein 男短袖純棉上衣",
       "price": "$447",
@@ -43473,6 +43465,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h33/h2c/378303654363166.jpg"
+    },
+    {
+      "code": "152494-B",
+      "name": "Eminent Vertica 20+28吋 行李箱",
+      "price": "$7,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h0e/344480390479902.jpg"
     },
     {
       "code": "144261",
