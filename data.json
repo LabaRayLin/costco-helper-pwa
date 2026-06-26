@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/6/27 上午1:52:52",
+  "updated_at": "2026/6/27 上午5:36:06",
   "count": 9201,
   "items": [
     {
@@ -657,14 +657,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hcc/437687263952926.jpg"
-    },
-    {
-      "code": "159532",
-      "name": "MMOMENT 128GB MicroSDXC U3V30A2 記憶卡",
-      "price": "$849",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/ha0/434451530874910.jpg"
     },
     {
       "code": "156538",
@@ -3449,6 +3441,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h15/466558813470750.jpg"
+    },
+    {
+      "code": "159532",
+      "name": "MMOMENT 128GB MicroSDXC U3V30A2 記憶卡",
+      "price": "$849",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/ha0/434451530874910.jpg"
     },
     {
       "code": "159542",
@@ -8665,14 +8665,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h46/438035493617694.jpg"
-    },
-    {
-      "code": "159349",
-      "name": "MIYABI 日本製 5000MCD 日式主廚刀18公分+蔬菜削皮刀13公分",
-      "price": "$9,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h78/434451523108894.jpg"
     },
     {
       "code": "158745",
@@ -17243,6 +17235,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf2/h9e/466199177396254.jpg"
     },
     {
+      "code": "159349",
+      "name": "MIYABI 日本製 5000MCD 日式主廚刀18公分+蔬菜削皮刀13公分",
+      "price": "$9,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h78/434451523108894.jpg"
+    },
+    {
       "code": "136460",
       "name": "伊萊克斯 防疫抗菌濾網 EFDCAR4 適用Pure A9空氣清淨機",
       "price": "$2,849",
@@ -20425,14 +20425,6 @@
       "original_price": "$799",
       "discount": "$160",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h17/386020541136926.jpg"
-    },
-    {
-      "code": "150747",
-      "name": "Myprotein 大豆分離蛋白粉 原味 2.5公斤",
-      "price": "$1,039",
-      "original_price": "$1,299",
-      "discount": "$260",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0b/h58/472952134959134.jpg"
     },
     {
       "code": "90252",
@@ -28513,6 +28505,14 @@
       "original_price": "$1,299",
       "discount": "$260",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/hb5/350052582326302.jpg"
+    },
+    {
+      "code": "150747",
+      "name": "Myprotein 大豆分離蛋白粉 原味 2.5公斤",
+      "price": "$1,039",
+      "original_price": "$1,299",
+      "discount": "$260",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0b/h58/472952134959134.jpg"
     },
     {
       "code": "146284",
