@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/6/29 上午1:22:21",
+  "updated_at": "2026/6/29 上午5:14:13",
   "count": 9193,
   "items": [
     {
@@ -3777,14 +3777,6 @@
       "original_price": "$1,099",
       "discount": "$230",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h39/hae/437687429038110.jpg"
-    },
-    {
-      "code": "126813",
-      "name": "Hotel Grand 雙人白羽絨被 180公分 X 210公分",
-      "price": "$2,639",
-      "original_price": "$3,299",
-      "discount": "$660",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5d/ha9/378821629018142.jpg"
     },
     {
       "code": "159388",
@@ -16739,6 +16731,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h50/471660449562654.jpg"
     },
     {
+      "code": "126813",
+      "name": "Hotel Grand 雙人白羽絨被 180公分 X 210公分",
+      "price": "$2,639",
+      "original_price": "$3,299",
+      "discount": "$660",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5d/ha9/378821629018142.jpg"
+    },
+    {
       "code": "8523323",
       "name": "Neoflam 可微波不鏽鋼保鮮盒 含蓋12件組",
       "price": "$759",
@@ -24699,14 +24699,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9b/h74/262500354261022.jpg"
     },
     {
-      "code": "147375",
-      "name": "COCODOR 經典擴香 四季典藏禮盒組 200毫升 X 4入組",
-      "price": "$699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h3a/415043634266142.jpg"
-    },
-    {
       "code": "145520",
       "name": "Melano CC 高純度維他命C 美白化妝水 170毫升 X 2入",
       "price": "$525",
@@ -28651,6 +28643,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hcd/h04/397422708195358.jpg"
     },
     {
+      "code": "147375",
+      "name": "COCODOR 經典擴香 四季典藏禮盒組 200毫升 X 4入組",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h3a/415043634266142.jpg"
+    },
+    {
       "code": "132598",
       "name": "剔雅牙籤刷 1000支 X 2入",
       "price": "$615",
@@ -28985,6 +28985,14 @@
       "original_price": "$599",
       "discount": "$100",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h78/hb5/472952514379806.jpg"
+    },
+    {
+      "code": "121593",
+      "name": "翠果子 綜合米果 600公克 X 150箱",
+      "price": "$32,584",
+      "original_price": "$41,249",
+      "discount": "$8,665",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "109399",
@@ -30971,6 +30979,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h60/241739619237918.jpg"
     },
     {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$315",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
+    },
+    {
       "code": "580213",
       "name": "日本 新潟魚沼越光米 5公斤",
       "price": "$839",
@@ -31809,6 +31825,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hba/hcd/175900945350686.jpg"
+    },
+    {
+      "code": "888688",
+      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "price": "$369",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
     },
     {
       "code": "567944",
@@ -32817,6 +32841,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hb5/61939549700126.jpg"
+    },
+    {
+      "code": "161589",
+      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
+      "price": "$379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
     },
     {
       "code": "132416",
@@ -34587,6 +34619,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h52/h5c/449275619147806.jpg"
     },
     {
+      "code": "888668",
+      "name": "翠果子 古早味手工黑芝麻糕 480公克",
+      "price": "$329",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
+    },
+    {
       "code": "673382",
       "name": "金寶 新英倫蛤蠣濃湯 505公克 X 3罐",
       "price": "$319",
@@ -34817,6 +34857,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h10/h52/168536168300574.jpg"
+    },
+    {
+      "code": "211681",
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$1,189",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
     },
     {
       "code": "185856",
@@ -38051,14 +38099,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h5b/403085692895262.jpg"
     },
     {
-      "code": "121593",
-      "name": "翠果子 綜合米果 600公克 X 150箱",
-      "price": "$32,584",
-      "original_price": "$41,249",
-      "discount": "$8,665",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
-    },
-    {
       "code": "221177",
       "name": "科克蘭 冷凍阿拉斯加野生紅鮭魚 1.36公斤",
       "price": "$1,549",
@@ -38187,14 +38227,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf4/haa/102766108016670.jpg"
     },
     {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$315",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
-    },
-    {
       "code": "150607",
       "name": "味好美 蒙特婁牛排用調味料 580公克",
       "price": "$197",
@@ -38217,14 +38249,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/h31/316046264827934.jpg"
-    },
-    {
-      "code": "888688",
-      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "price": "$369",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
     },
     {
       "code": "2331629",
@@ -38257,14 +38281,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he1/hae/346620768682014.jpg"
-    },
-    {
-      "code": "161589",
-      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
     },
     {
       "code": "300088",
@@ -38323,28 +38339,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h4d/272955083096094.jpg"
     },
     {
-      "code": "888668",
-      "name": "翠果子 古早味手工黑芝麻糕 480公克",
-      "price": "$329",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
-    },
-    {
       "code": "437333",
       "name": "樂事 生啤酒口味洋芋片 580公克",
       "price": "$97",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h94/h3a/417162397319198.jpg"
-    },
-    {
-      "code": "211681",
-      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "price": "$1,189",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
     },
     {
       "code": "158555",
@@ -63619,14 +63619,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/hcf/348867398336542.jpg"
     },
     {
-      "code": "140700",
-      "name": "Pro'sKit 寶工 6合1風車小精靈 / 8歲以上",
-      "price": "$669",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hc1/168871482654750.jpg"
-    },
-    {
       "code": "137771",
       "name": "PetPals 紙繩編織圓型貓窩",
       "price": "$849",
@@ -64249,14 +64241,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h51/h29/13692468396062.jpg"
-    },
-    {
-      "code": "123971",
-      "name": "Pro'sKit 寶工AI智能傘蜥蜴 附手鉗 / 10歲以上",
-      "price": "$679",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd7/h0d/13692467478558.jpg"
     },
     {
       "code": "1202872",
@@ -66115,6 +66099,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he8/h15/312621923074078.jpg"
     },
     {
+      "code": "140700",
+      "name": "Pro'sKit 寶工 6合1風車小精靈 / 8歲以上",
+      "price": "$669",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hc1/168871482654750.jpg"
+    },
+    {
       "code": "2790216",
       "name": "ARM & HAMMER 加強除臭貓砂 18.14公斤 X 57入",
       "price": "$29,999",
@@ -66129,6 +66121,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h6b/419358337073182.jpg"
+    },
+    {
+      "code": "123971",
+      "name": "Pro'sKit 寶工AI智能傘蜥蜴 附手鉗 / 10歲以上",
+      "price": "$679",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd7/h0d/13692467478558.jpg"
     },
     {
       "code": "148166",
