@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/7/4 上午9:53:37",
+  "updated_at": "2026/7/4 下午3:00:31",
   "count": 9208,
   "items": [
     {
@@ -35,14 +35,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h42/449275384070174.jpg"
     },
     {
-      "code": "158016-B",
-      "name": "Apple iPhone 17 Pro 256GB",
-      "price": "$38,649",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h04/382222967210014.jpg"
-    },
-    {
       "code": "158000",
       "name": "Apple AirPods Pro 3",
       "price": "$6,699",
@@ -51,12 +43,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/hd7/383295719997470.jpg"
     },
     {
-      "code": "158010-B",
-      "name": "Apple iPhone 17 512GB",
-      "price": "$35,399",
+      "code": "158016-B",
+      "name": "Apple iPhone 17 Pro 256GB",
+      "price": "$38,649",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h7c/382222959312926.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h04/382222967210014.jpg"
     },
     {
       "code": "156177",
@@ -67,12 +59,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h11/413421377191966.jpg"
     },
     {
-      "code": "158033-B",
-      "name": "Apple iPhone 17 Pro Max 512GB",
-      "price": "$49,249",
+      "code": "160193-B",
+      "name": "Apple iPhone 17e 256GB",
+      "price": "$21,169",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3e/hea/382222978318366.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/hec/439234187722782.jpg"
     },
     {
       "code": "160085",
@@ -83,12 +75,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdf/hce/470130412322846.jpg"
     },
     {
-      "code": "160193-B",
-      "name": "Apple iPhone 17e 256GB",
-      "price": "$21,169",
+      "code": "158010-B",
+      "name": "Apple iPhone 17 512GB",
+      "price": "$35,399",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/hec/439234187722782.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h7c/382222959312926.jpg"
+    },
+    {
+      "code": "158033-B",
+      "name": "Apple iPhone 17 Pro Max 512GB",
+      "price": "$49,249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3e/hea/382222978318366.jpg"
     },
     {
       "code": "149120",
@@ -99,20 +99,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he9/h62/274499096018974.jpg"
     },
     {
-      "code": "158020-B",
-      "name": "Apple iPhone 17 Pro 512GB",
-      "price": "$44,699",
+      "code": "147653",
+      "name": "Apple 60W USB-C 充電連接線 (1 公尺)",
+      "price": "$539",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h48/382222972583966.jpg"
-    },
-    {
-      "code": "133049",
-      "name": "Seagate Expansion 4TB 行動硬碟 STKM4000400",
-      "price": "$4,395",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf2/h4a/69782798467102.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5f/h71/274498309324830.jpg"
     },
     {
       "code": "161048",
@@ -123,6 +115,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/h54/454769512218654.jpg"
     },
     {
+      "code": "161367",
+      "name": "Soundcore AeroClip 開放式藍牙耳夾耳機",
+      "price": "$2,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h8b/471216417898526.jpg"
+    },
+    {
       "code": "159328",
       "name": "三星 FollowMe 43吋 4K 移動式智慧聯網螢幕組 S43FM703UC-FOLLOWME",
       "price": "$15,999",
@@ -131,12 +131,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hc8/431395437215774.jpg"
     },
     {
-      "code": "161367",
-      "name": "Soundcore AeroClip 開放式藍牙耳夾耳機",
-      "price": "$2,599",
+      "code": "158020-B",
+      "name": "Apple iPhone 17 Pro 512GB",
+      "price": "$44,699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h8b/471216417898526.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h48/382222972583966.jpg"
     },
     {
       "code": "158597",
@@ -147,12 +147,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/hd9/420739626598430.jpg"
     },
     {
-      "code": "148174",
-      "name": "Looploop 磁吸式傳輸充電線 3入組",
-      "price": "$779",
+      "code": "133049",
+      "name": "Seagate Expansion 4TB 行動硬碟 STKM4000400",
+      "price": "$4,395",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h14/326879441780766.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf2/h4a/69782798467102.jpg"
     },
     {
       "code": "159118",
@@ -163,36 +163,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc2/h51/453636522377246.jpg"
     },
     {
-      "code": "153965",
-      "name": "JLab Epic Lab Edition 降噪真無線藍牙耳機",
-      "price": "$5,049",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/he1/416282315128862.jpg"
-    },
-    {
       "code": "134457",
       "name": "TP-Link AX3000 Wi-Fi 6 雙頻Mesh路由器 Deco X55",
       "price": "$1,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0b/he6/98612374339614.jpg"
-    },
-    {
-      "code": "155132",
-      "name": "Acer Nitro 24.5吋平面電競螢幕 KG251Q X0",
-      "price": "$3,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/h3a/384281300467742.jpg"
-    },
-    {
-      "code": "158598",
-      "name": "MONOCOZZI ESSENTIALS Crystal 磁吸360旋轉支架不發黃透明防摔保護殼(相機按鍵)+2.5D滿版高透耐保護貼組合 iPhone 17 系列",
-      "price": "$769",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h44/467458644377630.jpg"
     },
     {
       "code": "158215-B",
@@ -203,6 +179,46 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h7f/438875960246302.jpg"
     },
     {
+      "code": "155132",
+      "name": "Acer Nitro 24.5吋平面電競螢幕 KG251Q X0",
+      "price": "$3,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/h3a/384281300467742.jpg"
+    },
+    {
+      "code": "148174",
+      "name": "Looploop 磁吸式傳輸充電線 3入組",
+      "price": "$779",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h14/326879441780766.jpg"
+    },
+    {
+      "code": "158598",
+      "name": "MONOCOZZI ESSENTIALS Crystal 磁吸360旋轉支架不發黃透明防摔保護殼(相機按鍵)+2.5D滿版高透耐保護貼組合 iPhone 17 系列",
+      "price": "$769",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h44/467458644377630.jpg"
+    },
+    {
+      "code": "158487",
+      "name": "TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機",
+      "price": "$1,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h32/448868355964958.jpg"
+    },
+    {
+      "code": "153853",
+      "name": "Soodatek 25W 雙孔USB高速充電器 3入",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/h95/363073768194078.jpg"
+    },
+    {
       "code": "160448",
       "name": "HP 14吋筆記型電腦 EliteBook 6 G1q",
       "price": "$34,999",
@@ -211,12 +227,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/h0b/455116832178206.jpg"
     },
     {
-      "code": "157724",
-      "name": "Acer 無線靜⾳鍵盤滑⿏組 AAK41A",
-      "price": "$609",
+      "code": "153965",
+      "name": "JLab Epic Lab Edition 降噪真無線藍牙耳機",
+      "price": "$5,049",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h1e/415043990388766.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/he1/416282315128862.jpg"
     },
     {
       "code": "150426",
@@ -227,20 +243,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h12/hb8/308063175147550.jpg"
     },
     {
-      "code": "149699",
-      "name": "ANKER A2674 336 GaN 67W 急速充電器 2入組",
-      "price": "$1,369",
+      "code": "157724",
+      "name": "Acer 無線靜⾳鍵盤滑⿏組 AAK41A",
+      "price": "$609",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h02/294120849702942.jpg"
-    },
-    {
-      "code": "147738",
-      "name": "Looploop Tag 物品尋找器 AT-10 含配件四入組",
-      "price": "$1,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h91/h7b/281047511597086.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h1e/415043990388766.jpg"
     },
     {
       "code": "154268",
@@ -251,12 +259,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h96/hbd/366793139519518.jpg"
     },
     {
-      "code": "143371",
-      "name": "Soodatek PD 65W 氮化鎵高速充電 USB-C 套裝",
-      "price": "$825",
+      "code": "147738",
+      "name": "Looploop Tag 物品尋找器 AT-10 含配件四入組",
+      "price": "$1,499",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf3/he0/206736906092574.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h91/h7b/281047511597086.jpg"
     },
     {
       "code": "161366",
@@ -275,6 +283,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4f/hf3/386020453482526.jpg"
     },
     {
+      "code": "142485",
+      "name": "羅技 M240 靜音藍牙滑鼠 2入",
+      "price": "$1,049",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h40/hac/362558957977630.jpg"
+    },
+    {
       "code": "155535",
       "name": "PQI Qi2 3合1 摺疊磁吸無線充電座",
       "price": "$1,199",
@@ -283,12 +299,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/h15/381454925627422.jpg"
     },
     {
-      "code": "153853",
-      "name": "Soodatek 25W 雙孔USB高速充電器 3入",
-      "price": "$599",
+      "code": "155040",
+      "name": "MAGEASY Skin 耳機保護殼 AirPods 4",
+      "price": "$349",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/h95/363073768194078.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb4/h28/378822979878942.jpg"
     },
     {
       "code": "151953",
@@ -299,20 +315,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h88/h69/332442706673694.jpg"
     },
     {
-      "code": "142485",
-      "name": "羅技 M240 靜音藍牙滑鼠 2入",
-      "price": "$1,049",
+      "code": "107558",
+      "name": "Brother TN-1000 碳粉匣 3入",
+      "price": "$2,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h40/hac/362558957977630.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb3/379074183692318.jpg"
     },
     {
-      "code": "135871",
-      "name": "IRIS OHYAMA 超靜音小型碎紙機 P6HCS",
-      "price": "$2,379",
+      "code": "150874",
+      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
+      "price": "$4,669",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h42/366001577721886.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/haa/h1e/312616232648734.jpg"
     },
     {
       "code": "161254",
@@ -331,28 +347,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3a/ha7/449275404910622.jpg"
     },
     {
-      "code": "150874",
-      "name": "SHOKZ OpenSwim Pro S710 水陸兩用專業藍牙運動耳機 頁岩灰",
-      "price": "$4,669",
+      "code": "153817",
+      "name": "震旦 A3 六合一多功能護貝機 LM6000H",
+      "price": "$1,189",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/haa/h1e/312616232648734.jpg"
-    },
-    {
-      "code": "147654",
-      "name": "Apple 240W USB-C 充電連接線 (2 公尺)",
-      "price": "$899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3c/h65/274498309390366.jpg"
-    },
-    {
-      "code": "147653",
-      "name": "Apple 60W USB-C 充電連接線 (1 公尺)",
-      "price": "$539",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5f/h71/274498309324830.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h76/361110314942494.jpg"
     },
     {
       "code": "136510",
@@ -379,12 +379,36 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc2/h5c/420757512028190.jpg"
     },
     {
-      "code": "155040",
-      "name": "MAGEASY Skin 耳機保護殼 AirPods 4",
-      "price": "$349",
+      "code": "143371",
+      "name": "Soodatek PD 65W 氮化鎵高速充電 USB-C 套裝",
+      "price": "$825",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb4/h28/378822979878942.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf3/he0/206736906092574.jpg"
+    },
+    {
+      "code": "135871",
+      "name": "IRIS OHYAMA 超靜音小型碎紙機 P6HCS",
+      "price": "$2,379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h42/366001577721886.jpg"
+    },
+    {
+      "code": "161371",
+      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods Pro 3",
+      "price": "$549",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h33/hf3/467458859040798.jpg"
+    },
+    {
+      "code": "159205",
+      "name": "飛利浦 6合1喇叭螢幕支架 SPA6500",
+      "price": "$3,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/hcb/431395435249694.jpg"
     },
     {
       "code": "157601",
@@ -403,44 +427,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h5e/243378327191582.jpg"
     },
     {
-      "code": "107558",
-      "name": "Brother TN-1000 碳粉匣 3入",
-      "price": "$2,999",
+      "code": "147032",
+      "name": "Apple USB-C 對 Lightning 連接線 2 公尺",
+      "price": "$889",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb3/379074183692318.jpg"
-    },
-    {
-      "code": "159947",
-      "name": "EDIFIER W820NB Plus 無線降噪耳罩耳機",
-      "price": "$1,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hcc/437687263952926.jpg"
-    },
-    {
-      "code": "159714",
-      "name": "羅技 MK470 無線鍵盤滑鼠組 珍珠白",
-      "price": "$1,229",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbb/h65/450045398089758.jpg"
-    },
-    {
-      "code": "154277",
-      "name": "Seagate Expansion 24TB 3.5吋硬碟 STKP24000400",
-      "price": "$16,669",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h03/367003163820062.jpg"
-    },
-    {
-      "code": "153817",
-      "name": "震旦 A3 六合一多功能護貝機 LM6000H",
-      "price": "$1,189",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h76/361110314942494.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/h6a/257071299690526.jpg"
     },
     {
       "code": "147031",
@@ -451,44 +443,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc2/h2e/257071293399070.jpg"
     },
     {
-      "code": "135229",
-      "name": "HAWK MONITOR STAND可調高度螢幕置物架含抽屜54 X 24 X高10-15 CM",
-      "price": "$599",
+      "code": "159714",
+      "name": "羅技 MK470 無線鍵盤滑鼠組 珍珠白",
+      "price": "$1,229",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hcc/115203540123678.jpg"
-    },
-    {
-      "code": "161371",
-      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods Pro 3",
-      "price": "$549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h33/hf3/467458859040798.jpg"
-    },
-    {
-      "code": "155945-B",
-      "name": "Apple Watch Series 11 GPS 42公釐 鋁金屬錶殼 附運動型錶帶",
-      "price": "$12,249",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/ha0/382222846591006.jpg"
-    },
-    {
-      "code": "151952",
-      "name": "台灣三洋 有線電話機 TEL-856",
-      "price": "$599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbe/hf3/332442705887262.jpg"
-    },
-    {
-      "code": "159205",
-      "name": "飛利浦 6合1喇叭螢幕支架 SPA6500",
-      "price": "$3,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/hcb/431395435249694.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbb/h65/450045398089758.jpg"
     },
     {
       "code": "156613",
@@ -499,76 +459,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h77/386020455546910.jpg"
     },
     {
+      "code": "155945-B",
+      "name": "Apple Watch Series 11 GPS 42公釐 鋁金屬錶殼 附運動型錶帶",
+      "price": "$12,249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/ha0/382222846591006.jpg"
+    },
+    {
       "code": "155890",
       "name": "Apple MagSafe 充電器 2公尺",
       "price": "$1,579",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h12/hd3/449275195260958.jpg"
-    },
-    {
-      "code": "155043",
-      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods 4",
-      "price": "$549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/hce/378823045251102.jpg"
-    },
-    {
-      "code": "154112",
-      "name": "TCL NXTPAPER 11 Gen2 11吋 未來紙護眼平板電腦 8G + 128G",
-      "price": "$6,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h67/367572675067934.jpg"
-    },
-    {
-      "code": "147032",
-      "name": "Apple USB-C 對 Lightning 連接線 2 公尺",
-      "price": "$889",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/h6a/257071299690526.jpg"
-    },
-    {
-      "code": "116131",
-      "name": "國際牌 數位無線雙子機 KX-TGC212TW",
-      "price": "$1,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h37/10370257190942.jpg"
-    },
-    {
-      "code": "8516799",
-      "name": "Razestore 360度旋轉手機平板支架組",
-      "price": "$549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h9f/192681036644382.jpg"
-    },
-    {
-      "code": "161373",
-      "name": "SwitchEasy Rugged 矽膠防水錶帶 44/45/46/49mm",
-      "price": "$789",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/hc3/467458951675934.jpg"
-    },
-    {
-      "code": "159392",
-      "name": "Kodak Charmera 柯達迷你數位相機鑰匙圈盲盒",
-      "price": "$1,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9b/h3b/454769489248286.jpg"
-    },
-    {
-      "code": "155053",
-      "name": "eiP Magnetix 磁吸觸控可拆式鍵盤2代 適用於 iPad Air 13吋 M2(2024)/M3(2025) & iPad pro 12.9吋 3-6代",
-      "price": "$2,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/hbc/368849745608734.jpg"
     },
     {
       "code": "151419",
@@ -587,36 +491,36 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2d/h4e/315743974588446.jpg"
     },
     {
-      "code": "147800",
-      "name": "MAGEASY 2-in-1 Utility Strap 二合一掛繩 / 掛繩片組 20公釐",
-      "price": "$725",
+      "code": "149699",
+      "name": "ANKER A2674 336 GaN 67W 急速充電器 2入組",
+      "price": "$1,369",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h51/295028703199262.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h02/294120849702942.jpg"
     },
     {
-      "code": "144264",
-      "name": "Belkin 行動電源 2入組合包",
-      "price": "$1,559",
+      "code": "147654",
+      "name": "Apple 240W USB-C 充電連接線 (2 公尺)",
+      "price": "$899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/hc1/222185447522334.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3c/h65/274498309390366.jpg"
     },
     {
-      "code": "128091",
-      "name": "J5create 8合一磁吸式擴充基座套件組 JCD387",
-      "price": "$999",
+      "code": "161373",
+      "name": "SwitchEasy Rugged 矽膠防水錶帶 44/45/46/49mm",
+      "price": "$789",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/had/h6a/33758107992094.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/hc3/467458951675934.jpg"
     },
     {
-      "code": "160436",
-      "name": "Acer Aspire Lite 16吋 AI筆記型電腦 AM16-53P-50SB - 160436",
-      "price": "點入確認價格",
+      "code": "159947",
+      "name": "EDIFIER W820NB Plus 無線降噪耳罩耳機",
+      "price": "$1,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/h83/451293524164638.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hcc/437687263952926.jpg"
     },
     {
       "code": "159945",
@@ -627,12 +531,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h55/438876233793566.jpg"
     },
     {
-      "code": "157672",
-      "name": "MSI 31.5吋平面電競螢幕 MAG 325QF E18V",
-      "price": "$5,899",
+      "code": "159392",
+      "name": "Kodak Charmera 柯達迷你數位相機鑰匙圈盲盒",
+      "price": "$1,499",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hf0/413421490372638.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9b/h3b/454769489248286.jpg"
     },
     {
       "code": "157592",
@@ -643,54 +547,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha9/h28/420739619913758.jpg"
     },
     {
-      "code": "156606",
-      "name": "飛利浦 智能錄音筆 VTR5900",
-      "price": "$2,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h19/hee/398741621145630.jpg"
-    },
-    {
-      "code": "155419",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 適用於 2022 iPad 10.9吋 A14 & 2025 iPad 11吋 A16",
-      "price": "$999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6e/h7b/381695454904350.jpg"
-    },
-    {
-      "code": "153862",
-      "name": "Acer Gaming USB-A to USB-C 1公尺 白 + USB-C to USB-C 1.2公尺 白 + USB-C to USB-C 2公尺 白 珪膠編織線 3入組",
-      "price": "$599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/hf1/366249288335390.jpg"
-    },
-    {
-      "code": "153816",
-      "name": "震旦 A4 六合一多功能護貝機 LM4233H",
-      "price": "$699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h7f/361110279749662.jpg"
-    },
-    {
-      "code": "153210",
-      "name": "JBL Flip Essential 2 可攜式防水藍牙喇叭",
-      "price": "$2,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/h6b/363073757249566.jpg"
-    },
-    {
-      "code": "147633",
-      "name": "Acer 24.5吋 電競螢幕 KG251Q P3",
-      "price": "$2,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/ha4/274784220774430.jpg"
-    },
-    {
       "code": "139945",
       "name": "震旦 120張免手持全自動細碎式超靜音碎紙機 19公升",
       "price": "$4,899",
@@ -699,60 +555,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h60/he5/139017801203742.jpg"
     },
     {
-      "code": "139339",
-      "name": "PQI 35W 雙孔氮化鎵 PD/QC3.0 快速充電器 附二合一 USB-C to USB-C/Lightning 雙頭充電線 120公分",
-      "price": "$959",
+      "code": "135229",
+      "name": "HAWK MONITOR STAND可調高度螢幕置物架含抽屜54 X 24 X高10-15 CM",
+      "price": "$599",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9f/hd7/135364958683166.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hcc/115203540123678.jpg"
     },
     {
-      "code": "134556",
-      "name": "Aurora震旦 10張細碎式超靜音高碎量多功能碎紙機 22公升",
-      "price": "$5,199",
+      "code": "116131",
+      "name": "國際牌 數位無線雙子機 KX-TGC212TW",
+      "price": "$1,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hdc/83706037239838.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h37/10370257190942.jpg"
     },
     {
-      "code": "244140",
-      "name": "Thrustmaster T98 Ferrari 296 GTB 賽車方向盤",
-      "price": "$2,899",
+      "code": "160436",
+      "name": "Acer Aspire Lite 16吋 AI筆記型電腦 AM16-53P-50SB - 160436",
+      "price": "點入確認價格",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h66/h25/437687720411166.jpg"
-    },
-    {
-      "code": "159981",
-      "name": "DJI Action 6 雙旅拍套裝組 附收納包",
-      "price": "$13,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h55/466558750326814.jpg"
-    },
-    {
-      "code": "159977",
-      "name": "DJI Neo 2 雙電池旅拍套裝組 附圓筒包",
-      "price": "$7,229",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h83/ha6/466558744789022.jpg"
-    },
-    {
-      "code": "158487",
-      "name": "TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機",
-      "price": "$1,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h32/448868355964958.jpg"
-    },
-    {
-      "code": "157095",
-      "name": "HP OmniBook 5 16吋 AI 觸控筆記型電腦 16-af1040TU",
-      "price": "$34,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h42/438478596702238.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/h83/451293524164638.jpg"
     },
     {
       "code": "156967-B",
@@ -763,12 +587,68 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3c/h23/420739609624606.jpg"
     },
     {
-      "code": "155490",
-      "name": "iClever BTH21 炫光無線兒童耳機",
-      "price": "$1,129",
+      "code": "155053",
+      "name": "eiP Magnetix 磁吸觸控可拆式鍵盤2代 適用於 iPad Air 13吋 M2(2024)/M3(2025) & iPad pro 12.9吋 3-6代",
+      "price": "$2,599",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h68/382511506259998.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/hbc/368849745608734.jpg"
+    },
+    {
+      "code": "154270",
+      "name": "TP-Link BE9300 三頻路由器 Wi-Fi 7 Archer BE550",
+      "price": "$4,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h73/hed/366793144041502.jpg"
+    },
+    {
+      "code": "154112",
+      "name": "TCL NXTPAPER 11 Gen2 11吋 未來紙護眼平板電腦 8G + 128G",
+      "price": "$6,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h67/367572675067934.jpg"
+    },
+    {
+      "code": "153862",
+      "name": "Acer Gaming USB-A to USB-C 1公尺 白 + USB-C to USB-C 1.2公尺 白 + USB-C to USB-C 2公尺 白 珪膠編織線 3入組",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h93/hf1/366249288335390.jpg"
+    },
+    {
+      "code": "151952",
+      "name": "台灣三洋 有線電話機 TEL-856",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbe/hf3/332442705887262.jpg"
+    },
+    {
+      "code": "147800",
+      "name": "MAGEASY 2-in-1 Utility Strap 二合一掛繩 / 掛繩片組 20公釐",
+      "price": "$725",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h51/295028703199262.jpg"
+    },
+    {
+      "code": "157488",
+      "name": "Soodatek GaN PD140W 氮化鎵急速充電 USB-C 套裝",
+      "price": "$1,479",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h18/417161955803166.jpg"
+    },
+    {
+      "code": "156606",
+      "name": "飛利浦 智能錄音筆 VTR5900",
+      "price": "$2,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h19/hee/398741621145630.jpg"
     },
     {
       "code": "155055",
@@ -777,6 +657,86 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h72/hc3/368849749213214.jpg"
+    },
+    {
+      "code": "155043",
+      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods 4",
+      "price": "$549",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/hce/378823045251102.jpg"
+    },
+    {
+      "code": "147633",
+      "name": "Acer 24.5吋 電競螢幕 KG251Q P3",
+      "price": "$2,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/ha4/274784220774430.jpg"
+    },
+    {
+      "code": "144264",
+      "name": "Belkin 行動電源 2入組合包",
+      "price": "$1,559",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/hc1/222185447522334.jpg"
+    },
+    {
+      "code": "139339",
+      "name": "PQI 35W 雙孔氮化鎵 PD/QC3.0 快速充電器 附二合一 USB-C to USB-C/Lightning 雙頭充電線 120公分",
+      "price": "$959",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9f/hd7/135364958683166.jpg"
+    },
+    {
+      "code": "128091",
+      "name": "J5create 8合一磁吸式擴充基座套件組 JCD387",
+      "price": "$999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/had/h6a/33758107992094.jpg"
+    },
+    {
+      "code": "244140",
+      "name": "Thrustmaster T98 Ferrari 296 GTB 賽車方向盤",
+      "price": "$2,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h66/h25/437687720411166.jpg"
+    },
+    {
+      "code": "160446",
+      "name": "HP Laptop 15.6吋筆記型電腦 15-FD0016TU",
+      "price": "$22,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd5/h90/451293599498270.jpg"
+    },
+    {
+      "code": "159981",
+      "name": "DJI Action 6 雙旅拍套裝組 附收納包",
+      "price": "$13,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h55/466558750326814.jpg"
+    },
+    {
+      "code": "157672",
+      "name": "MSI 31.5吋平面電競螢幕 MAG 325QF E18V",
+      "price": "$5,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hf0/413421490372638.jpg"
+    },
+    {
+      "code": "155490",
+      "name": "iClever BTH21 炫光無線兒童耳機",
+      "price": "$1,129",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h68/382511506259998.jpg"
     },
     {
       "code": "154113",
@@ -795,20 +755,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hcc/h27/383052739149854.jpg"
     },
     {
-      "code": "149700",
-      "name": "PQI USB-C 20W 快充口袋行動電源 PD05 兩入組",
-      "price": "$999",
+      "code": "153210",
+      "name": "JBL Flip Essential 2 可攜式防水藍牙喇叭",
+      "price": "$2,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/hea/294120851243038.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/h6b/363073757249566.jpg"
     },
     {
-      "code": "149207",
-      "name": "犀牛盾 iPhone 15系列 Clear MagSafe 兼容 透明防摔手機殼 + 9H 抗藍光鋼化玻璃保護貼",
-      "price": "$1,539",
+      "code": "152606",
+      "name": "SwitchEasy Origami 全方位多角度支架保護套 iPad Air 11吋 M3 / M2 & iPad Pro 11吋 2022 M2 - 2018 & iPad Air 10.9吋 2022-20",
+      "price": "$899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/h20/292858287783966.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/h0a/344654926905374.jpg"
+    },
+    {
+      "code": "151681",
+      "name": "Apple Pencil (第 1 代)",
+      "price": "$3,149",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/h85/328848051208222.jpg"
     },
     {
       "code": "139070",
@@ -819,12 +787,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/he6/139437278625822.jpg"
     },
     {
-      "code": "1884152",
-      "name": "Acer 15.6吋 可攜帶式螢幕 PM161Q J - 1884152",
-      "price": "$2,599",
+      "code": "8516799",
+      "name": "Razestore 360度旋轉手機平板支架組",
+      "price": "$549",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1a/h8f/364687137603614.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h9f/192681036644382.jpg"
     },
     {
       "code": "161529",
@@ -833,14 +801,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h24/471216473178142.jpg"
-    },
-    {
-      "code": "160446",
-      "name": "HP Laptop 15.6吋筆記型電腦 15-FD0016TU",
-      "price": "$22,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd5/h90/451293599498270.jpg"
     },
     {
       "code": "159897",
@@ -867,6 +827,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h45/h1f/437687015702558.jpg"
     },
     {
+      "code": "157095",
+      "name": "HP OmniBook 5 16吋 AI 觸控筆記型電腦 16-af1040TU",
+      "price": "$34,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h42/438478596702238.jpg"
+    },
+    {
       "code": "156560-B",
       "name": "Powerbeats Fit 穩固貼合的無線入耳式運動耳機",
       "price": "$5,999",
@@ -883,36 +851,44 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h59/386020404723742.jpg"
     },
     {
-      "code": "154270",
-      "name": "TP-Link BE9300 三頻路由器 Wi-Fi 7 Archer BE550",
-      "price": "$4,699",
+      "code": "155922-B",
+      "name": "Apple iPhone 17 Pro MagSafe 矽膠保護殼",
+      "price": "$1,299",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h73/hed/366793144041502.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/h5f/399196809855006.jpg"
     },
     {
-      "code": "152606",
-      "name": "SwitchEasy Origami 全方位多角度支架保護套 iPad Air 11吋 M3 / M2 & iPad Pro 11吋 2022 M2 - 2018 & iPad Air 10.9吋 2022-20",
-      "price": "$899",
+      "code": "155917-B",
+      "name": "Apple iPhone 17 MagSafe 矽膠保護殼",
+      "price": "$1,299",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/h0a/344654926905374.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h4f/399196809134110.jpg"
     },
     {
-      "code": "151681",
-      "name": "Apple Pencil (第 1 代)",
-      "price": "$3,149",
+      "code": "155419",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 適用於 2022 iPad 10.9吋 A14 & 2025 iPad 11吋 A16",
+      "price": "$999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/h85/328848051208222.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6e/h7b/381695454904350.jpg"
     },
     {
-      "code": "149558",
-      "name": "Apple 巧控板 (USB‑C) 白色多點觸控表面",
-      "price": "$3,585",
+      "code": "149700",
+      "name": "PQI USB-C 20W 快充口袋行動電源 PD05 兩入組",
+      "price": "$999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h5b/297207003316254.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/hea/294120851243038.jpg"
+    },
+    {
+      "code": "149207",
+      "name": "犀牛盾 iPhone 15系列 Clear MagSafe 兼容 透明防摔手機殼 + 9H 抗藍光鋼化玻璃保護貼",
+      "price": "$1,539",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/h20/292858287783966.jpg"
     },
     {
       "code": "146915",
@@ -923,20 +899,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7e/hd7/273677994655774.jpg"
     },
     {
-      "code": "138520",
-      "name": "Soodatek 高解析 8K HDMI 影音傳輸線套裝 2公尺1入 + 1公尺1入",
-      "price": "$595",
+      "code": "125620",
+      "name": "震旦 A4抗靜電護貝膠膜 200張",
+      "price": "$639",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h6e/121040188276766.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h46/h09/80074772185118.webp"
     },
     {
-      "code": "135869",
-      "name": "IRIS OHYAMA 獨臂螢幕支架夾式 DA-4550",
-      "price": "$825",
+      "code": "1884152",
+      "name": "Acer 15.6吋 可攜帶式螢幕 PM161Q J - 1884152",
+      "price": "$2,599",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h05/h2e/102012466757662.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1a/h8f/364687137603614.jpg"
     },
     {
       "code": "161051",
@@ -955,36 +931,36 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hcc/h92/454001841733662.jpg"
     },
     {
-      "code": "159655",
-      "name": "樂歌 人體工學 電腦螢幕支架 D7D",
-      "price": "$3,299",
+      "code": "159977",
+      "name": "DJI Neo 2 雙電池旅拍套裝組 附圓筒包",
+      "price": "$7,229",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h76/448868483629086.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h83/ha6/466558744789022.jpg"
     },
     {
-      "code": "156974",
-      "name": "iClever BTH18 炫光無線兒童耳機",
-      "price": "$1,079",
+      "code": "158484",
+      "name": "TP-Link Tapo D210 智慧門鈴",
+      "price": "$1,599",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/h2c/471216325394462.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
     },
     {
-      "code": "155922-B",
-      "name": "Apple iPhone 17 Pro MagSafe 矽膠保護殼",
-      "price": "$1,299",
+      "code": "158049-B",
+      "name": "Apple iPhone Air 512GB",
+      "price": "$41,099",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/h5f/399196809855006.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3d/h65/382223024422942.jpg"
     },
     {
-      "code": "155917-B",
-      "name": "Apple iPhone 17 MagSafe 矽膠保護殼",
-      "price": "$1,299",
+      "code": "155970-B",
+      "name": "Apple Watch Series 11 GPS + 行動網路 42公釐 鈦金屬錶殼 附運動型錶帶",
+      "price": "$20,729",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h4f/399196809134110.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h20/382222911111198.jpg"
     },
     {
       "code": "155054",
@@ -1011,6 +987,30 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hcf/368770490204190.jpg"
     },
     {
+      "code": "153854",
+      "name": "Soodatek GaN 氮化鎵 PD 30W 高速充電器 2入 SGHC1-PC30WT",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hd8/362804899315742.jpg"
+    },
+    {
+      "code": "153816",
+      "name": "震旦 A4 六合一多功能護貝機 LM4233H",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h7f/361110279749662.jpg"
+    },
+    {
+      "code": "153273",
+      "name": "eiP Magnetix 防摔磁吸可拆式藍牙無線鍵盤保護殼 含觸控板 迷霧黑快捷版 適用於 iPad Pro11吋 M4 2024",
+      "price": "$2,099",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h99/367572576206878.jpg"
+    },
+    {
       "code": "152958",
       "name": "Soundcore Boom 2 可攜式重低音防水藍牙喇叭",
       "price": "$3,899",
@@ -1027,14 +1027,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hee/344654580908062.jpg"
     },
     {
-      "code": "151030",
-      "name": "Alcatel 阿爾卡特 Vtech 天秤座 行動整合無線市話 LS6191TW",
-      "price": "$1,449",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/hb9/315743987302430.jpg"
-    },
-    {
       "code": "148471",
       "name": "Ultimate Ears WONDERBOOM 4 防水無線藍牙喇叭 黑色 2入組",
       "price": "$4,099",
@@ -1043,28 +1035,52 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd5/h1c/327562408853534.jpg"
     },
     {
-      "code": "147408",
-      "name": "Klipsch Austin 無線藍牙喇叭",
-      "price": "$2,999",
+      "code": "147410",
+      "name": "Klipsch Nashville 無線藍牙喇叭",
+      "price": "$3,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/hab/262500289183774.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/h77/262500295999518.jpg"
     },
     {
-      "code": "145928",
-      "name": "Apple 35W 雙USB-C埠小型電源轉接器",
-      "price": "$1,699",
+      "code": "138520",
+      "name": "Soodatek 高解析 8K HDMI 影音傳輸線套裝 2公尺1入 + 1公尺1入",
+      "price": "$595",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/hcf/257071194865694.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h6e/121040188276766.jpg"
     },
     {
-      "code": "138881",
-      "name": "HP 彩色雷射無線複合印表機 178nw 含1黑3彩 + 1黑碳匣",
-      "price": "$11,999",
+      "code": "135869",
+      "name": "IRIS OHYAMA 獨臂螢幕支架夾式 DA-4550",
+      "price": "$825",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcb/h48/137650256478238.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h05/h2e/102012466757662.jpg"
+    },
+    {
+      "code": "134556",
+      "name": "Aurora震旦 10張細碎式超靜音高碎量多功能碎紙機 22公升",
+      "price": "$5,199",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hdc/83706037239838.jpg"
+    },
+    {
+      "code": "128172",
+      "name": "EPSON T03Y 墨水超值組 黑 X 3 + 彩色組 X 1",
+      "price": "$2,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h11/h58/33416283357214.jpg"
+    },
+    {
+      "code": "126304",
+      "name": "Brother 雷射無線傳真事務機組 MFC-1910W",
+      "price": "$6,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hb1/32624728211486.jpg"
     },
     {
       "code": "161528",
@@ -1091,6 +1107,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/hf5/439234029912094.jpg"
     },
     {
+      "code": "159655",
+      "name": "樂歌 人體工學 電腦螢幕支架 D7D",
+      "price": "$3,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h76/448868483629086.jpg"
+    },
+    {
       "code": "159541",
       "name": "MMOMENT Express card 512GB 記憶卡 適用於 Switch 2",
       "price": "$3,799",
@@ -1107,14 +1131,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h4b/437687064002590.jpg"
     },
     {
-      "code": "158695",
-      "name": "羅技 R500s 簡報器 石墨灰",
-      "price": "$1,399",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/h5b/431395338125342.jpg"
-    },
-    {
       "code": "158683",
       "name": "WMK 壁掛王 17-43吋 螢幕適用落地移動架 黑色款 WMK-FS01",
       "price": "$2,599",
@@ -1123,20 +1139,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he9/had/431395336847390.jpg"
     },
     {
-      "code": "157676-B",
-      "name": "TUMI 筆記型電腦包",
-      "price": "$1,899",
+      "code": "156974",
+      "name": "iClever BTH18 炫光無線兒童耳機",
+      "price": "$1,079",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h20/413801440280606.jpg"
-    },
-    {
-      "code": "157488",
-      "name": "Soodatek GaN PD140W 氮化鎵急速充電 USB-C 套裝",
-      "price": "$1,479",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h18/417161955803166.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/h2c/471216325394462.jpg"
     },
     {
       "code": "156907",
@@ -1155,14 +1163,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h3d/382511688155166.jpg"
     },
     {
-      "code": "155970-B",
-      "name": "Apple Watch Series 11 GPS + 行動網路 42公釐 鈦金屬錶殼 附運動型錶帶",
-      "price": "$20,729",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h20/382222911111198.jpg"
-    },
-    {
       "code": "155939-B",
       "name": "Apple iPhone 17 Pro Max MagSafe 科技織紋保護殼",
       "price": "$1,649",
@@ -1171,12 +1171,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h2d/399196917923870.jpg"
     },
     {
-      "code": "155489",
-      "name": "iClever BTH20 無線降噪兒童耳機",
-      "price": "$1,759",
+      "code": "154269",
+      "name": "TP-Link AC750 4G Sim卡 Wi-Fi 5 路由器 Archer MR200",
+      "price": "$1,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h1a/382511502393374.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/hb5/366793139847198.jpg"
     },
     {
       "code": "153876",
@@ -1187,52 +1187,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/hf6/366249304391710.jpg"
     },
     {
-      "code": "153867",
-      "name": "JLab Jbuds Lux ANC 降噪耳罩式藍牙耳機",
-      "price": "$2,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hf1/363835065663518.jpg"
-    },
-    {
-      "code": "153859",
-      "name": "Soodatek 鋅合金編織高解析10K HDMI影音傳輸線 公對公 傳輸線 2.5公尺",
-      "price": "$499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3a/hc6/362804907900958.jpg"
-    },
-    {
-      "code": "153854",
-      "name": "Soodatek GaN 氮化鎵 PD 30W 高速充電器 2入 SGHC1-PC30WT",
-      "price": "$699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hd8/362804899315742.jpg"
-    },
-    {
-      "code": "153809",
-      "name": "AGIM 阿基姆 多國貨幣防偽點驗鈔機 TW-616",
-      "price": "$3,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/hc0/363835056652318.jpg"
-    },
-    {
       "code": "153401",
       "name": "Philips 開放式藍牙耳機 TAA6709",
       "price": "$2,699",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h7a/365472460701726.jpg"
-    },
-    {
-      "code": "153000-B",
-      "name": "Beats Powerbeats Pro 2 高機能入耳式耳機",
-      "price": "$7,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h50/h8b/328848126214174.jpg"
     },
     {
       "code": "152568",
@@ -1243,12 +1203,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h8e/344654622162974.jpg"
     },
     {
-      "code": "149559",
-      "name": "Apple 巧控板 (USB‑C) 黑色多點觸控表面",
-      "price": "$4,149",
+      "code": "150074-B",
+      "name": "Beats Solo Buds 真無線藍牙入耳式耳機",
+      "price": "$2,439",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h47/297207005085726.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/h82/256217762103326.jpg"
+    },
+    {
+      "code": "149558",
+      "name": "Apple 巧控板 (USB‑C) 白色多點觸控表面",
+      "price": "$3,585",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h5b/297207003316254.jpg"
     },
     {
       "code": "148804",
@@ -1259,28 +1227,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h04/h57/298052363517982.jpg"
     },
     {
-      "code": "146929-B",
-      "name": "Belkin BoostCharge Pro MagSafe 15W 2合1無線快速充電底座",
+      "code": "147408",
+      "name": "Klipsch Austin 無線藍牙喇叭",
       "price": "$2,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/h44/256217723568158.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/hab/262500289183774.jpg"
     },
     {
-      "code": "141242-B",
-      "name": "Beats Studio Buds + 真無線降噪耳塞式耳機",
-      "price": "$4,799",
+      "code": "138881",
+      "name": "HP 彩色雷射無線複合印表機 178nw 含1黑3彩 + 1黑碳匣",
+      "price": "$11,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h5b/171668598194206.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcb/h48/137650256478238.jpg"
     },
     {
-      "code": "134811",
-      "name": "Vtech 2合1藍牙整合室內無線電話雙子機組 ES1610 TW",
-      "price": "$1,699",
+      "code": "130254",
+      "name": "EPSON 墨水匣超值組 T00V 黑 X 3入+彩色組 X 1入",
+      "price": "$2,079",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h53/h09/83365255577630.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he0/h48/122559214551070.jpg"
     },
     {
       "code": "129048",
@@ -1289,38 +1257,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/hfb/44108288065566.jpg"
-    },
-    {
-      "code": "128172",
-      "name": "EPSON T03Y 墨水超值組 黑 X 3 + 彩色組 X 1",
-      "price": "$2,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h11/h58/33416283357214.jpg"
-    },
-    {
-      "code": "126304",
-      "name": "Brother 雷射無線傳真事務機組 MFC-1910W",
-      "price": "$6,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hb1/32624728211486.jpg"
-    },
-    {
-      "code": "125620",
-      "name": "震旦 A4抗靜電護貝膠膜 200張",
-      "price": "$639",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h46/h09/80074772185118.webp"
-    },
-    {
-      "code": "160197-B",
-      "name": "Apple iPhone 17e 512GB",
-      "price": "$27,949",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hcc/439234189918238.jpg"
     },
     {
       "code": "160011",
@@ -1371,20 +1307,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb6/h19/450045228122142.jpg"
     },
     {
-      "code": "158686",
-      "name": "鋭玩 CF120 無光風扇 3入/組 黑",
-      "price": "$569",
+      "code": "158798",
+      "name": "鋭玩 螢幕精潔劑組 240毫升 X 3入+25毫升 X 1入",
+      "price": "$769",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/hfd/468568623087646.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h33/hcc/468568625971230.jpg"
     },
     {
-      "code": "158049-B",
-      "name": "Apple iPhone Air 512GB",
-      "price": "$41,099",
+      "code": "157676-B",
+      "name": "TUMI 筆記型電腦包",
+      "price": "$1,899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3d/h65/382223024422942.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h20/413801440280606.jpg"
     },
     {
       "code": "157622",
@@ -1403,12 +1339,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha0/hd2/419872314654750.jpg"
     },
     {
-      "code": "157093",
-      "name": "HP Laptop 17.3吋 筆記型電腦 17-cn4033TU - 157093",
-      "price": "$22,399",
+      "code": "157602",
+      "name": "MAGEASY Roam 城市漫遊耳機保護殼 AirPods Pro 3",
+      "price": "$569",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h12/438478596341790.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/hde/401756076179486.jpg"
     },
     {
       "code": "157010",
@@ -1427,12 +1363,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h12/he1/382222900887582.jpg"
     },
     {
-      "code": "155889",
-      "name": "Apple MagSafe 充電器 1公尺",
-      "price": "$1,149",
+      "code": "155489",
+      "name": "iClever BTH20 無線降噪兒童耳機",
+      "price": "$1,759",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/hde/398741529427998.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h1a/382511502393374.jpg"
     },
     {
       "code": "155048",
@@ -1443,28 +1379,60 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/hf8/379074449702942.jpg"
     },
     {
-      "code": "155036",
-      "name": "MAGEASY Phone Sacoche (Cordura) 手機掛繩隨行包+8.3mm掛繩",
-      "price": "$1,149",
+      "code": "153867",
+      "name": "JLab Jbuds Lux ANC 降噪耳罩式藍牙耳機",
+      "price": "$2,199",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h89/378822925680670.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/hf1/363835065663518.jpg"
     },
     {
-      "code": "154269",
-      "name": "TP-Link AC750 4G Sim卡 Wi-Fi 5 路由器 Archer MR200",
-      "price": "$1,999",
+      "code": "153859",
+      "name": "Soodatek 鋅合金編織高解析10K HDMI影音傳輸線 公對公 傳輸線 2.5公尺",
+      "price": "$499",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/hb5/366793139847198.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3a/hc6/362804907900958.jpg"
     },
     {
-      "code": "153856",
-      "name": "Soodatek 4K 高畫質 HDMI影音訊號 公對公 傳輸線 3公尺 X 2入",
-      "price": "$549",
+      "code": "153428",
+      "name": "eiP 奈米2膜 iPad類紙膜 抗藍光版 適用於 iPad Pro M4 11吋",
+      "price": "$699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbc/362804901576734.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h73/he0/367572606713886.jpg"
+    },
+    {
+      "code": "153400",
+      "name": "Philips 真無線藍牙入耳式耳機 TAT1108",
+      "price": "$1,559",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/hbc/365472457490462.jpg"
+    },
+    {
+      "code": "153048",
+      "name": "Apple 巧控鍵盤適用於 iPad Air 11吋 中文 注音 白",
+      "price": "$8,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h71/hc2/344658656002078.jpg"
+    },
+    {
+      "code": "153000-B",
+      "name": "Beats Powerbeats Pro 2 高機能入耳式耳機",
+      "price": "$7,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h50/h8b/328848126214174.jpg"
+    },
+    {
+      "code": "152546",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2022 - 2020 10.9 / 11 /2024 Air",
+      "price": "$1,079",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3a/h53/344663822729246.jpg"
     },
     {
       "code": "151684",
@@ -1475,52 +1443,52 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h03/328848052289566.jpg"
     },
     {
-      "code": "151029",
-      "name": "Alcatel 阿爾卡特 微笑造型無線電話 Smile D1 TW",
-      "price": "$1,189",
+      "code": "151030",
+      "name": "Alcatel 阿爾卡特 Vtech 天秤座 行動整合無線市話 LS6191TW",
+      "price": "$1,449",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h37/hc5/315743986810910.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/hb9/315743987302430.jpg"
     },
     {
-      "code": "150074-B",
-      "name": "Beats Solo Buds 真無線藍牙入耳式耳機",
-      "price": "$2,439",
+      "code": "150326",
+      "name": "羅技 藍牙無線鍵盤 POP ICON KEYS",
+      "price": "$1,359",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/h82/256217762103326.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h8c/295028947288094.jpg"
     },
     {
-      "code": "149561",
-      "name": "Apple 巧控鍵盤 含 Touch ID 和數字鍵盤 適用於配備 Apple 晶片的 Mac 機型 中文注音 黑色按鍵",
-      "price": "$5,565",
+      "code": "149559",
+      "name": "Apple 巧控板 (USB‑C) 黑色多點觸控表面",
+      "price": "$4,149",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/h79/297207008296990.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h47/297207005085726.jpg"
     },
     {
-      "code": "149556",
-      "name": "Apple 巧控滑鼠 (USB‑C) 黑色多點觸控表面",
-      "price": "$2,835",
+      "code": "148014",
+      "name": "HP EliteBook 635 Aero G11 13.3吋 商用筆記型電腦 AQ8S3PT",
+      "price": "$35,339",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h5b/297207002988574.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/h5b/438478370766878.jpg"
     },
     {
-      "code": "147410",
-      "name": "Klipsch Nashville 無線藍牙喇叭",
-      "price": "$3,999",
+      "code": "146929-B",
+      "name": "Belkin BoostCharge Pro MagSafe 15W 2合1無線快速充電底座",
+      "price": "$2,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/h77/262500295999518.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/h44/256217723568158.jpg"
     },
     {
-      "code": "143001",
-      "name": "Apple Pencil (USB-C)",
-      "price": "$2,619",
+      "code": "145928",
+      "name": "Apple 35W 雙USB-C埠小型電源轉接器",
+      "price": "$1,699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h51/189643063918622.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/hcf/257071194865694.jpg"
     },
     {
       "code": "141447-B",
@@ -1531,12 +1499,44 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hde/h07/186026056319006.jpg"
     },
     {
+      "code": "141242-B",
+      "name": "Beats Studio Buds + 真無線降噪耳塞式耳機",
+      "price": "$4,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h5b/171668598194206.jpg"
+    },
+    {
+      "code": "140742",
+      "name": "Brother TN-2360 標準容量碳粉匣 3入",
+      "price": "$3,389",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h80/154551148970014.jpg"
+    },
+    {
       "code": "138036-B",
       "name": "Belkin BOOST CHARGE PRO 三合一無線充電板 支援 MagSafe",
       "price": "$3,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8a/h0c/137143907680286.jpg"
+    },
+    {
+      "code": "136805",
+      "name": "HP 61XL 墨水組合 - 黑 X 1 + 彩色組 X 1",
+      "price": "$2,659",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hef/150739036536862.jpg"
+    },
+    {
+      "code": "134811",
+      "name": "Vtech 2合1藍牙整合室內無線電話雙子機組 ES1610 TW",
+      "price": "$1,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h53/h09/83365255577630.jpg"
     },
     {
       "code": "132938",
@@ -1547,28 +1547,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/h6a/66800252846110.jpg"
     },
     {
-      "code": "131605",
-      "name": "Esense 時尚玩家桌墊鼠墊",
-      "price": "$285",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/hfd/65992376352798.jpg"
-    },
-    {
       "code": "13094",
       "name": "Brother 黑白雷射複合機 MFC-1815 內含碳粉 X 2 + 32G 隨身碟 X 1",
       "price": "$5,349",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3e/h6d/15916544131102.jpg"
-    },
-    {
-      "code": "130254",
-      "name": "EPSON 墨水匣超值組 T00V 黑 X 3入+彩色組 X 1入",
-      "price": "$2,079",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he0/h48/122559214551070.jpg"
     },
     {
       "code": "126012",
@@ -1579,12 +1563,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/hf2/17042939969566.jpg"
     },
     {
-      "code": "161372",
-      "name": "MAGEASY Odyssey with Wrist Strap 抗衝擊磁扣耳機殼 AirPods Pro 3",
-      "price": "$699",
+      "code": "161263",
+      "name": "HP OmniBook 3 16吋筆記型電腦 16-BU0217TU - 161263",
+      "price": "$39,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h60/467458872967198.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd2/483940569448478.jpg"
     },
     {
       "code": "161055",
@@ -1595,12 +1579,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h47/455933632315422.jpg"
     },
     {
-      "code": "160437",
-      "name": "MSI Katana 15 15.6吋電競筆電 HX B14WFK-897TW-BB51445X16GXXDX11MH",
-      "price": "$46,799",
+      "code": "160010",
+      "name": "Torras Ostand Spin Silicone Magnetic 相機按鍵旋轉支架矽膠防摔手機殼 iPhone 17系列 + Insta II Master 高清滿版螢幕鋼化玻璃保護貼",
+      "price": "$1,699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/hd3/451293593894942.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h36/h37/439234058453022.jpg"
     },
     {
       "code": "160009",
@@ -1643,20 +1627,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h52/hb8/448868359634974.jpg"
     },
     {
-      "code": "158798",
-      "name": "鋭玩 螢幕精潔劑組 240毫升 X 3入+25毫升 X 1入",
-      "price": "$769",
+      "code": "158686",
+      "name": "鋭玩 CF120 無光風扇 3入/組 黑",
+      "price": "$569",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h33/hcc/468568625971230.jpg"
-    },
-    {
-      "code": "158484",
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/hfd/468568623087646.jpg"
     },
     {
       "code": "158041-B",
@@ -1675,12 +1651,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h35/hfc/416282377715742.jpg"
     },
     {
-      "code": "157626",
-      "name": "MAGEASY Odyssey Stand M 超軍規防摔磁吸支架手機殼 iPhone 17 Pro + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
+      "code": "157627",
+      "name": "MAGEASY Odyssey Stand M 超軍規防摔磁吸支架手機殼 iPhone 17 Pro Max + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
       "price": "$1,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h50/420521901031454.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hb1/420522072014878.jpg"
     },
     {
       "code": "157616",
@@ -1707,12 +1683,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hbd/417163701518366.jpg"
     },
     {
-      "code": "157602",
-      "name": "MAGEASY Roam 城市漫遊耳機保護殼 AirPods Pro 3",
-      "price": "$569",
+      "code": "157202",
+      "name": "Acer Aspire 16吋 AI筆記型電腦 A16-11M-X0QA - 157202",
+      "price": "$28,799",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/hde/401756076179486.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7f/h27/438478596931614.jpg"
+    },
+    {
+      "code": "157093",
+      "name": "HP Laptop 17.3吋 筆記型電腦 17-cn4033TU - 157093",
+      "price": "$22,399",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h41/h12/438478596341790.jpg"
     },
     {
       "code": "156910",
@@ -1723,12 +1707,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hba/397823942066206.jpg"
     },
     {
+      "code": "155993-B",
+      "name": "Apple Watch Series 11 GPS + 行動網路 46公釐 鈦金屬錶殼 附米蘭式錶環",
+      "price": "$23,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha6/h04/382222944829470.jpg"
+    },
+    {
       "code": "155928-B",
       "name": "Apple iPhone 17 Pro Max MagSafe 矽膠保護殼",
       "price": "$1,299",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h0a/399196814376990.jpg"
+    },
+    {
+      "code": "155889",
+      "name": "Apple MagSafe 充電器 1公尺",
+      "price": "$1,149",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h18/hde/398741529427998.jpg"
     },
     {
       "code": "155049",
@@ -1739,12 +1739,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/h57/379074457698334.jpg"
     },
     {
+      "code": "155044",
+      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods Pro 1 & 2",
+      "price": "$549",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h42/378823064092702.jpg"
+    },
+    {
       "code": "155041",
       "name": "MAGEASY Skin 耳機保護殼 AirPods Pro 1 & 2",
       "price": "$349",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb4/h7a/378822995542046.jpg"
+    },
+    {
+      "code": "155036",
+      "name": "MAGEASY Phone Sacoche (Cordura) 手機掛繩隨行包+8.3mm掛繩",
+      "price": "$1,149",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h89/378822925680670.jpg"
     },
     {
       "code": "155035",
@@ -1779,28 +1795,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h65/h2b/362804912259102.jpg"
     },
     {
-      "code": "153860",
-      "name": "Soodatek 木質2.0聲道炫彩LED多媒體藍牙喇叭",
-      "price": "$1,169",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h87/362804909867038.jpg"
-    },
-    {
       "code": "153813",
       "name": "PHILIPS 飛利浦 台幣 / 人民幣點驗鈔機 JBYD-TW818",
       "price": "$5,699",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h70/h67/363835064483870.jpg"
-    },
-    {
-      "code": "153432",
-      "name": "eiP 奈米2膜 iPad類紙膜 抗藍光版 適用於 iPad mini 6/7",
-      "price": "$699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h16/hd4/367572615069726.jpg"
     },
     {
       "code": "153426",
@@ -1811,14 +1811,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h54/he9/367572602257438.jpg"
     },
     {
-      "code": "153400",
-      "name": "Philips 真無線藍牙入耳式耳機 TAT1108",
-      "price": "$1,559",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/hbc/365472457490462.jpg"
-    },
-    {
       "code": "153211",
       "name": "Looploop Tag 全球定位 防丟失護照包 PT-10",
       "price": "$1,599",
@@ -1827,28 +1819,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h92/hc8/351316129251358.jpg"
     },
     {
-      "code": "153048",
-      "name": "Apple 巧控鍵盤適用於 iPad Air 11吋 中文 注音 白",
-      "price": "$8,999",
+      "code": "149561",
+      "name": "Apple 巧控鍵盤 含 Touch ID 和數字鍵盤 適用於配備 Apple 晶片的 Mac 機型 中文注音 黑色按鍵",
+      "price": "$5,565",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h71/hc2/344658656002078.jpg"
-    },
-    {
-      "code": "152546",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2022 - 2020 10.9 / 11 /2024 Air",
-      "price": "$1,079",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3a/h53/344663822729246.jpg"
-    },
-    {
-      "code": "152543",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2024 iPad Pro 13吋",
-      "price": "$1,229",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/ha7/344663819452446.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/h79/297207008296990.jpg"
     },
     {
       "code": "149560",
@@ -1859,20 +1835,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/h5b/297207006625822.jpg"
     },
     {
-      "code": "148014",
-      "name": "HP EliteBook 635 Aero G11 13.3吋 商用筆記型電腦 AQ8S3PT",
-      "price": "$35,339",
+      "code": "149556",
+      "name": "Apple 巧控滑鼠 (USB‑C) 黑色多點觸控表面",
+      "price": "$2,835",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h45/h5b/438478370766878.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h5b/297207002988574.jpg"
     },
     {
-      "code": "147916",
-      "name": "飛利浦 27吋 電腦螢幕 27E1N1100D",
-      "price": "$3,449",
+      "code": "149555",
+      "name": "Apple 巧控滑鼠 (USB‑C) 白色多點觸控表面",
+      "price": "$2,179",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h27/h0b/277970938593310.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h29/he1/297206999842846.jpg"
     },
     {
       "code": "147731",
@@ -1883,28 +1859,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h56/273678145585182.jpg"
     },
     {
-      "code": "143025",
-      "name": "羅技 靜音藍牙滑鼠 M240 10入",
-      "price": "$4,679",
+      "code": "147407",
+      "name": "Klipsch The Three Plus 藍牙喇叭",
+      "price": "$11,899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/he0/192181475213342.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/hca/262500279943198.jpg"
     },
     {
-      "code": "140742",
-      "name": "Brother TN-2360 標準容量碳粉匣 3入",
-      "price": "$3,389",
+      "code": "139073",
+      "name": "Canon 810 / 811 墨水組 黑色XL X 2入 + 彩色組XL X 1入",
+      "price": "$2,749",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h80/154551148970014.jpg"
-    },
-    {
-      "code": "136805",
-      "name": "HP 61XL 墨水組合 - 黑 X 1 + 彩色組 X 1",
-      "price": "$2,659",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hef/150739036536862.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc5/h51/139437276332062.jpg"
     },
     {
       "code": "134557",
@@ -1923,6 +1891,30 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hed/hd6/81438013128734.jpg"
     },
     {
+      "code": "131605",
+      "name": "Esense 時尚玩家桌墊鼠墊",
+      "price": "$285",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/hfd/65992376352798.jpg"
+    },
+    {
+      "code": "161372",
+      "name": "MAGEASY Odyssey with Wrist Strap 抗衝擊磁扣耳機殼 AirPods Pro 3",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h60/467458872967198.jpg"
+    },
+    {
+      "code": "160498",
+      "name": "MSI Modern 15 15.6吋商用筆電 F1MXG-1039TW - 160498",
+      "price": "$25,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hcb/451293601431582.jpg"
+    },
+    {
       "code": "160454",
       "name": "ASUS 華碩 V500MV 桌上型電腦 H-V501MV-05210H114WA",
       "price": "$35,399",
@@ -1931,12 +1923,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/h10/455933393764382.jpg"
     },
     {
-      "code": "160010",
-      "name": "Torras Ostand Spin Silicone Magnetic 相機按鍵旋轉支架矽膠防摔手機殼 iPhone 17系列 + Insta II Master 高清滿版螢幕鋼化玻璃保護貼",
-      "price": "$1,699",
+      "code": "160437",
+      "name": "MSI Katana 15 15.6吋電競筆電 HX B14WFK-897TW-BB51445X16GXXDX11MH",
+      "price": "$46,799",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h36/h37/439234058453022.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/hd3/451293593894942.jpg"
+    },
+    {
+      "code": "160197-B",
+      "name": "Apple iPhone 17e 512GB",
+      "price": "$27,949",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hcc/439234189918238.jpg"
     },
     {
       "code": "159121",
@@ -1963,12 +1963,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/h96/450045222813726.jpg"
     },
     {
-      "code": "158689-B",
-      "name": "鋭玩 Combat Liquid CL360 水冷散熱器 黑/白",
-      "price": "$1,699",
+      "code": "158695",
+      "name": "羅技 R500s 簡報器 石墨灰",
+      "price": "$1,399",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/h2d/469716660944926.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/h5b/431395338125342.jpg"
+    },
+    {
+      "code": "158691-B",
+      "name": "鋭玩 Combat Liquid CL240 水冷散熱器 黑/白",
+      "price": "$1,449",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/h4b/469716763443230.jpg"
     },
     {
       "code": "158677-B",
@@ -1995,12 +2003,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/h06/432046514241566.jpg"
     },
     {
-      "code": "158589",
-      "name": "TUMI 光面真皮Magsafe 手機殼 iPhone 17 系列",
-      "price": "$1,699",
+      "code": "158488",
+      "name": "TP-Link Tapo C425 電池式戶外安全攝影機",
+      "price": "$2,899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hb4/432046439268382.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hf2/448868356030494.jpg"
     },
     {
       "code": "157824",
@@ -2011,14 +2019,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/hee/437687029301278.jpg"
     },
     {
-      "code": "157819",
-      "name": "Swann 無線門鈴攝影機",
-      "price": "$2,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc7/hb7/437687021666334.jpg"
-    },
-    {
       "code": "157815",
       "name": "Swann 2K 無線電池攝影機",
       "price": "$2,499",
@@ -2027,12 +2027,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5d/h45/437687019569182.jpg"
     },
     {
-      "code": "157627",
-      "name": "MAGEASY Odyssey Stand M 超軍規防摔磁吸支架手機殼 iPhone 17 Pro Max + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
+      "code": "157632",
+      "name": "MAGEASY Odyssey Ultra M 終極防摔磁吸支架掛繩手機殼 iPhone 17 Pro Max + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
+      "price": "$2,549",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h6c/420523078123550.jpg"
+    },
+    {
+      "code": "157631",
+      "name": "MAGEASY Odyssey Ultra M 終極防摔磁吸支架掛繩手機殼 iPhone 17 Pro + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
+      "price": "$2,549",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h91/hc6/420522849730590.jpg"
+    },
+    {
+      "code": "157626",
+      "name": "MAGEASY Odyssey Stand M 超軍規防摔磁吸支架手機殼 iPhone 17 Pro + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
       "price": "$1,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hb1/420522072014878.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbf/h50/420521901031454.jpg"
     },
     {
       "code": "157624",
@@ -2091,14 +2107,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd3/hcf/417162406363166.jpg"
     },
     {
-      "code": "157202",
-      "name": "Acer Aspire 16吋 AI筆記型電腦 A16-11M-X0QA - 157202",
-      "price": "$28,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7f/h27/438478596931614.jpg"
-    },
-    {
       "code": "157199",
       "name": "ASUS Vivobook 18 18.4吋 AI 筆記型電腦 - 157199",
       "price": "點入確認價格",
@@ -2123,12 +2131,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h72/ha8/399196936634398.jpg"
     },
     {
-      "code": "155993-B",
-      "name": "Apple Watch Series 11 GPS + 行動網路 46公釐 鈦金屬錶殼 附米蘭式錶環",
-      "price": "$23,999",
+      "code": "156157",
+      "name": "SENNHEISER ACCENTUM Wireless 無線藍牙降噪耳罩式耳機",
+      "price": "$5,499",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha6/h04/382222944829470.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h20/ha5/386020410064926.jpg"
     },
     {
       "code": "155976-B",
@@ -2147,20 +2155,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h48/399196805529630.jpg"
     },
     {
-      "code": "155418",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2022 iPad 10.9吋 A14 & 2025 iPad 11吋 A16",
-      "price": "$1,079",
+      "code": "155440",
+      "name": "HP EliteBook 14吋 觸控商用筆記型電腦 X G1a R7 B91DQAT",
+      "price": "$72,299",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h8d/381695307251742.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/ha0/438478591721502.jpg"
     },
     {
-      "code": "155044",
-      "name": "MAGEASY Odyssey 抗衝擊磁扣耳機殼 AirPods Pro 1 & 2",
+      "code": "153860",
+      "name": "Soodatek 木質2.0聲道炫彩LED多媒體藍牙喇叭",
+      "price": "$1,169",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h87/362804909867038.jpg"
+    },
+    {
+      "code": "153856",
+      "name": "Soodatek 4K 高畫質 HDMI影音訊號 公對公 傳輸線 3公尺 X 2入",
       "price": "$549",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h42/378823064092702.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbc/362804901576734.jpg"
     },
     {
       "code": "153852",
@@ -2171,20 +2187,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf3/hbf/363073765179422.jpg"
     },
     {
-      "code": "153818",
-      "name": "震旦 A3 商用護貝機 LMT302",
-      "price": "$2,499",
+      "code": "153809",
+      "name": "AGIM 阿基姆 多國貨幣防偽點驗鈔機 TW-616",
+      "price": "$3,499",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h6d/361110317400094.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/hc0/363835056652318.jpg"
     },
     {
-      "code": "153428",
-      "name": "eiP 奈米2膜 iPad類紙膜 抗藍光版 適用於 iPad Pro M4 11吋",
+      "code": "153432",
+      "name": "eiP 奈米2膜 iPad類紙膜 抗藍光版 適用於 iPad mini 6/7",
       "price": "$699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h73/he0/367572606713886.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h16/hd4/367572615069726.jpg"
     },
     {
       "code": "153421",
@@ -2267,20 +2283,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc9/h4a/344654907244574.jpg"
     },
     {
-      "code": "152559",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 iPad Pro 12.9吋 2022 M2 - 2018",
-      "price": "$1,155",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/h66/344654608531486.jpg"
-    },
-    {
       "code": "152557",
       "name": "MAGEASY Facet 全方位支架透明背蓋保護套 適用於 2024 iPad Air 13吋 2025 M3 / 2024 M2",
       "price": "$1,155",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h2f/344654519959582.jpg"
+    },
+    {
+      "code": "152555",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 2024 iPad Pro 13吋",
+      "price": "$1,155",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/h92/344654403928094.jpg"
+    },
+    {
+      "code": "152543",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2024 iPad Pro 13吋",
+      "price": "$1,229",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/ha7/344663819452446.jpg"
     },
     {
       "code": "151734",
@@ -2291,20 +2315,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hff/hba/332150666625054.jpg"
     },
     {
+      "code": "151029",
+      "name": "Alcatel 阿爾卡特 微笑造型無線電話 Smile D1 TW",
+      "price": "$1,189",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h37/hc5/315743986810910.jpg"
+    },
+    {
       "code": "151019-B",
       "name": "Denon PerL Pro AAT 聲學技術 真無線耳機 AH-C15PL",
       "price": "$7,989",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h64/he6/311830151397406.jpg"
-    },
-    {
-      "code": "150326",
-      "name": "羅技 藍牙無線鍵盤 POP ICON KEYS",
-      "price": "$1,359",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h8c/295028947288094.jpg"
     },
     {
       "code": "150079-B",
@@ -2315,12 +2339,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7b/h7b/243378328961054.jpg"
     },
     {
-      "code": "149555",
-      "name": "Apple 巧控滑鼠 (USB‑C) 白色多點觸控表面",
-      "price": "$2,179",
+      "code": "147916",
+      "name": "飛利浦 27吋 電腦螢幕 27E1N1100D",
+      "price": "$3,449",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h29/he1/297206999842846.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h27/h0b/277970938593310.jpg"
+    },
+    {
+      "code": "147801",
+      "name": "MAGEASY 25公釐 Fidlock Utility Strap - 機能快扣掛繩 / 掛繩片組",
+      "price": "$999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he5/h19/294120734490654.jpg"
     },
     {
       "code": "147739",
@@ -2355,14 +2387,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1f/hc4/332150414737438.jpg"
     },
     {
-      "code": "147407",
-      "name": "Klipsch The Three Plus 藍牙喇叭",
-      "price": "$11,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/hca/262500279943198.jpg"
-    },
-    {
       "code": "147406",
       "name": "Klipsch The One Plus 藍牙喇叭",
       "price": "$7,899",
@@ -2395,12 +2419,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/hfb/240878226112542.jpg"
     },
     {
-      "code": "139073",
-      "name": "Canon 810 / 811 墨水組 黑色XL X 2入 + 彩色組XL X 1入",
-      "price": "$2,749",
+      "code": "143025",
+      "name": "羅技 靜音藍牙滑鼠 M240 10入",
+      "price": "$4,679",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc5/h51/139437276332062.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/he0/192181475213342.jpg"
+    },
+    {
+      "code": "143001",
+      "name": "Apple Pencil (USB-C)",
+      "price": "$2,619",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h51/189643063918622.jpg"
     },
     {
       "code": "138914",
@@ -2427,28 +2459,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hf4/150739037749278.jpg"
     },
     {
-      "code": "130464",
-      "name": "Brother 智慧藍牙 玩美生活標籤機組 PT-P300BT + 標籤帶 X 3",
-      "price": "$3,145",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hae/h6b/48556968607774.jpg"
-    },
-    {
       "code": "130253",
       "name": "EPSON 墨水匣超值組 T04E 黑 X 3入+彩色組 X 1入",
       "price": "$2,569",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/h57/122559210618910.jpg"
-    },
-    {
-      "code": "122631-B",
-      "name": "Microsoft Surface 手寫筆",
-      "price": "$2,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h16/30628865507358.jpg"
     },
     {
       "code": "161374",
@@ -2467,28 +2483,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/h63/483940571676702.jpg"
     },
     {
-      "code": "161263",
-      "name": "HP OmniBook 3 16吋筆記型電腦 16-BU0217TU - 161263",
-      "price": "$39,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd2/483940569448478.jpg"
-    },
-    {
       "code": "161054",
       "name": "Simmpo P-90 防窺抗藍光護眼保護貼 2入組 iphone 系列",
       "price": "$1,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/hd1/455933629104158.jpg"
-    },
-    {
-      "code": "160498",
-      "name": "MSI Modern 15 15.6吋商用筆電 F1MXG-1039TW - 160498",
-      "price": "$25,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hcb/451293601431582.jpg"
     },
     {
       "code": "160440",
@@ -2555,12 +2555,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/hbc/450045297688606.jpg"
     },
     {
-      "code": "158691-B",
-      "name": "鋭玩 Combat Liquid CL240 水冷散熱器 黑/白",
-      "price": "$1,449",
+      "code": "158689-B",
+      "name": "鋭玩 Combat Liquid CL360 水冷散熱器 黑/白",
+      "price": "$1,699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/h4b/469716763443230.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he6/h2d/469716660944926.jpg"
     },
     {
       "code": "158687-B",
@@ -2595,20 +2595,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h17/h07/438478605877278.jpg"
     },
     {
+      "code": "158589",
+      "name": "TUMI 光面真皮Magsafe 手機殼 iPhone 17 系列",
+      "price": "$1,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hb4/432046439268382.jpg"
+    },
+    {
       "code": "158588",
       "name": "TUMI 紋理真皮Magsafe 手機殼 iPhone 17 系列",
       "price": "$1,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/h6e/432046429700126.jpg"
-    },
-    {
-      "code": "158488",
-      "name": "TP-Link Tapo C425 電池式戶外安全攝影機",
-      "price": "$2,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hf2/448868356030494.jpg"
     },
     {
       "code": "157831",
@@ -2633,6 +2633,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h18/he7/437687024877598.jpg"
+    },
+    {
+      "code": "157819",
+      "name": "Swann 無線門鈴攝影機",
+      "price": "$2,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc7/hb7/437687021666334.jpg"
     },
     {
       "code": "157702",
@@ -2665,22 +2673,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/haa/hea/415043981508638.jpg"
-    },
-    {
-      "code": "157632",
-      "name": "MAGEASY Odyssey Ultra M 終極防摔磁吸支架掛繩手機殼 iPhone 17 Pro Max + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
-      "price": "$2,549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h6c/420523078123550.jpg"
-    },
-    {
-      "code": "157631",
-      "name": "MAGEASY Odyssey Ultra M 終極防摔磁吸支架掛繩手機殼 iPhone 17 Pro + 鏡頭保護貼Lenz 鈦合金 + Vetro 9H 鋼化玻璃保護膜",
-      "price": "$2,549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h91/hc6/420522849730590.jpg"
     },
     {
       "code": "157630",
@@ -2795,14 +2787,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h29/h46/399196932145182.jpg"
     },
     {
-      "code": "156157",
-      "name": "SENNHEISER ACCENTUM Wireless 無線藍牙降噪耳罩式耳機",
-      "price": "$5,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h20/ha5/386020410064926.jpg"
-    },
-    {
       "code": "156155",
       "name": "SENNHEISER ACCENTUM Open 真無線半開放式耳機 奶油白",
       "price": "點入確認價格",
@@ -2827,12 +2811,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5f/h37/398741534081054.jpg"
     },
     {
-      "code": "155440",
-      "name": "HP EliteBook 14吋 觸控商用筆記型電腦 X G1a R7 B91DQAT",
-      "price": "$72,299",
+      "code": "155418",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2022 iPad 10.9吋 A14 & 2025 iPad 11吋 A16",
+      "price": "$1,079",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/ha0/438478591721502.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h8d/381695307251742.jpg"
     },
     {
       "code": "155051",
@@ -2921,6 +2905,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc2/h90/350741241364510.jpg"
+    },
+    {
+      "code": "153818",
+      "name": "震旦 A3 商用護貝機 LMT302",
+      "price": "$2,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h6d/361110317400094.jpg"
     },
     {
       "code": "153489",
@@ -3017,14 +3009,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h48/hd6/367572585414686.jpg"
-    },
-    {
-      "code": "153273",
-      "name": "eiP Magnetix 防摔磁吸可拆式藍牙無線鍵盤保護殼 含觸控板 迷霧黑快捷版 適用於 iPad Pro11吋 M4 2024",
-      "price": "$2,099",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h99/367572576206878.jpg"
     },
     {
       "code": "153153",
@@ -3147,20 +3131,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h55/hcd/344654676885534.jpg"
     },
     {
+      "code": "152559",
+      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 iPad Pro 12.9吋 2022 M2 - 2018",
+      "price": "$1,155",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/h66/344654608531486.jpg"
+    },
+    {
       "code": "152556",
       "name": "MAGEASY Facet 全方位支架透明背蓋保護套 2024 iPad Pro 11吋",
       "price": "$999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h69/ha7/344654428700702.jpg"
-    },
-    {
-      "code": "152555",
-      "name": "MAGEASY Facet 全方位支架透明背蓋保護套 2024 iPad Pro 13吋",
-      "price": "$1,155",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/h92/344654403928094.jpg"
     },
     {
       "code": "152545",
@@ -3257,14 +3241,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/hbc/292858169589790.jpg"
-    },
-    {
-      "code": "147801",
-      "name": "MAGEASY 25公釐 Fidlock Utility Strap - 機能快扣掛繩 / 掛繩片組",
-      "price": "$999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he5/h19/294120734490654.jpg"
     },
     {
       "code": "147559",
@@ -3387,6 +3363,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h87/16600436113438.jpg"
     },
     {
+      "code": "122631-B",
+      "name": "Microsoft Surface 手寫筆",
+      "price": "$2,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h16/30628865507358.jpg"
+    },
+    {
       "code": "153472-B",
       "name": "Apple HomePod",
       "price": "$10,099",
@@ -3411,14 +3395,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h98/h9e/382222953316382.jpg"
     },
     {
-      "code": "155954-B",
-      "name": "Apple Watch Series 11 GPS 46公釐 鋁金屬錶殼 附運動型錶帶",
-      "price": "$13,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hd9/382222890500126.jpg"
-    },
-    {
       "code": "149119",
       "name": "Apple AirPods 4",
       "price": "$4,025",
@@ -3427,12 +3403,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hae/hbd/274499096084510.jpg"
     },
     {
-      "code": "134318",
-      "name": "TP-Link AX3000 Wi-Fi 6 雙頻Mesh路由器 Deco X55 3入組",
-      "price": "$4,999",
+      "code": "155954-B",
+      "name": "Apple Watch Series 11 GPS 46公釐 鋁金屬錶殼 附運動型錶帶",
+      "price": "$13,199",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/hdf/81438016929822.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hd9/382222890500126.jpg"
     },
     {
       "code": "155141",
@@ -3451,12 +3427,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/h1f/467458635792414.jpg"
     },
     {
-      "code": "130460",
-      "name": "Brother 輕巧手持式標籤機 PT-H110",
-      "price": "$1,499",
+      "code": "134318",
+      "name": "TP-Link AX3000 Wi-Fi 6 雙頻Mesh路由器 Deco X55 3入組",
+      "price": "$4,999",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h17/h31/48556967493662.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/hdf/81438016929822.jpg"
     },
     {
       "code": "158673",
@@ -3467,12 +3443,36 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h77/h45/438875974205470.jpg"
     },
     {
+      "code": "154277",
+      "name": "Seagate Expansion 24TB 3.5吋硬碟 STKP24000400",
+      "price": "$16,669",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h03/367003163820062.jpg"
+    },
+    {
+      "code": "130460",
+      "name": "Brother 輕巧手持式標籤機 PT-H110",
+      "price": "$1,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h17/h31/48556967493662.jpg"
+    },
+    {
       "code": "155876-B",
       "name": "Apple Watch SE 3 GPS 44公釐 鋁金屬錶殼 附運動型錶帶",
       "price": "$8,299",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h8f/382222577238046.jpg"
+    },
+    {
+      "code": "133291",
+      "name": "HP 多功能雷射事務機 M236sdw",
+      "price": "$6,859",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h61/h6e/79975218511902.webp"
     },
     {
       "code": "159532",
@@ -3483,12 +3483,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h63/ha0/434451530874910.jpg"
     },
     {
-      "code": "136781",
-      "name": "HP 67XL 墨水組合 - 黑 X 2 + 彩色組 X 1",
-      "price": "$2,699",
+      "code": "153149",
+      "name": "Apple USB-C 對 USB 轉接器",
+      "price": "$579",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/ha8/150739030310942.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h1b/348123114242078.jpg"
     },
     {
       "code": "161266",
@@ -3499,20 +3499,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h15/466558813470750.jpg"
     },
     {
-      "code": "153149",
-      "name": "Apple USB-C 對 USB 轉接器",
-      "price": "$579",
+      "code": "136781",
+      "name": "HP 67XL 墨水組合 - 黑 X 2 + 彩色組 X 1",
+      "price": "$2,699",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h1b/348123114242078.jpg"
-    },
-    {
-      "code": "133291",
-      "name": "HP 多功能雷射事務機 M236sdw",
-      "price": "$6,859",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h61/h6e/79975218511902.webp"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/ha8/150739030310942.jpg"
     },
     {
       "code": "155872-B",
@@ -3531,20 +3523,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h9c/367002996801566.jpg"
     },
     {
+      "code": "130464",
+      "name": "Brother 智慧藍牙 玩美生活標籤機組 PT-P300BT + 標籤帶 X 3",
+      "price": "$3,145",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hae/h6b/48556968607774.jpg"
+    },
+    {
       "code": "160438",
       "name": "MSI Cyborg 15 15.6吋電競筆記型電腦 A2RUDX-2095TW-TBC7240H16GXXDX11MH - 160438",
       "price": "$32,599",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he3/h03/451293595467806.jpg"
-    },
-    {
-      "code": "159542",
-      "name": "MMOMENT 512GB 磁性外接可攜式固態硬碟 SSD",
-      "price": "$2,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hc6/434451537559582.jpg"
     },
     {
       "code": "158053-B",
@@ -3571,6 +3563,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc8/h80/438478511964190.jpg"
     },
     {
+      "code": "122629-B",
+      "name": "Microsoft Surface Arc 滑鼠",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hd6/30628863737886.jpg"
+    },
+    {
       "code": "160456",
       "name": "ASUS 雙頻 Wi-Fi 7 可擴充式路由器 RT-BE3600S",
       "price": "$2,229",
@@ -3585,6 +3585,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/hb6/471660300075038.jpg"
+    },
+    {
+      "code": "159542",
+      "name": "MMOMENT 512GB 磁性外接可攜式固態硬碟 SSD",
+      "price": "$2,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hc6/434451537559582.jpg"
     },
     {
       "code": "159540",
@@ -3681,14 +3689,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he3/ha9/150739028541470.jpg"
-    },
-    {
-      "code": "122629-B",
-      "name": "Microsoft Surface Arc 滑鼠",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/hd6/30628863737886.jpg"
     },
     {
       "code": "136480",
@@ -3915,14 +3915,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/hd5/455116811141150.jpg"
     },
     {
-      "code": "145376",
-      "name": "Serta Georgia 單人床墊 106公分 X 188公分",
-      "price": "$14,199",
-      "original_price": "$16,799",
-      "discount": "$2,600",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h9b/315757080969246.jpg"
-    },
-    {
       "code": "159774",
       "name": "Don Home 300織萊賽爾雙人加大兩用被套六件組 182公分 X 190公分 微光",
       "price": "$2,399",
@@ -3985,14 +3977,6 @@
       "original_price": "$3,499",
       "discount": "$700",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h8e/437687258873886.jpg"
-    },
-    {
-      "code": "226817",
-      "name": "CASA 萊賽爾長抱枕 45公分 X 120公分 小賽車手",
-      "price": "$379",
-      "original_price": "$479",
-      "discount": "$100",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/hf7/471660445958174.jpg"
     },
     {
       "code": "126817",
@@ -5003,14 +4987,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbe/h0e/399197071933470.jpg"
     },
     {
-      "code": "153558",
-      "name": "TCL 55吋 4K Google TV 智慧連網液晶顯示器 不含視訊盒 55P6K",
-      "price": "$11,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/h40/438072219697182.jpg"
-    },
-    {
       "code": "151003",
       "name": "Hisense 65吋 4K ULED MiniLED + QD 量子點 144Hz HSR240 VIDDA 智慧連網顯示器 + 太陽能遙控器 65U7N",
       "price": "$28,999",
@@ -5409,14 +5385,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hec/396189713170462.jpg"
-    },
-    {
-      "code": "153510",
-      "name": "LG 65吋 UHD AI 4K 智慧顯示器 65UA7550PTA",
-      "price": "$22,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h5d/438072165269534.jpg"
     },
     {
       "code": "150625",
@@ -5993,14 +5961,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h0b/344500464615454.jpg"
-    },
-    {
-      "code": "148769",
-      "name": "飛利浦 抗敏除甲醛空氣清淨機 AC0917",
-      "price": "$7,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/hd7/345757371531294.jpg"
     },
     {
       "code": "147018",
@@ -8121,14 +8081,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/h23/278946298986526.jpg"
-    },
-    {
-      "code": "1796298",
-      "name": "Casual Living 膝上桌枕",
-      "price": "$1,159",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hed/hac/363835249852446.jpg"
     },
     {
       "code": "168190",
@@ -17339,6 +17291,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h04/h5b/432345244368926.jpg"
     },
     {
+      "code": "145376",
+      "name": "Serta Georgia 單人床墊 106公分 X 188公分",
+      "price": "$14,199",
+      "original_price": "$16,799",
+      "discount": "$2,600",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h9b/315757080969246.jpg"
+    },
+    {
       "code": "1276530",
       "name": "Stakmore 實木折疊椅 2入",
       "price": "$1,859",
@@ -17353,6 +17313,14 @@
       "original_price": "$1,179",
       "discount": "$240",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h79/hec/273678061305886.jpg"
+    },
+    {
+      "code": "226817",
+      "name": "CASA 萊賽爾長抱枕 45公分 X 120公分 小賽車手",
+      "price": "$379",
+      "original_price": "$479",
+      "discount": "$100",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/hf7/471660445958174.jpg"
     },
     {
       "code": "153509",
@@ -17385,6 +17353,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/h1a/101464412127262.jpg"
+    },
+    {
+      "code": "153558",
+      "name": "TCL 55吋 4K Google TV 智慧連網液晶顯示器 不含視訊盒 55P6K",
+      "price": "$11,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/h40/438072219697182.jpg"
     },
     {
       "code": "155548",
@@ -17425,6 +17401,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h24/hc5/103644747563038.jpg"
+    },
+    {
+      "code": "153510",
+      "name": "LG 65吋 UHD AI 4K 智慧顯示器 65UA7550PTA",
+      "price": "$22,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h5d/438072165269534.jpg"
     },
     {
       "code": "146161",
@@ -17481,6 +17465,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hff/he8/29875227557918.jpg"
+    },
+    {
+      "code": "148769",
+      "name": "飛利浦 抗敏除甲醛空氣清淨機 AC0917",
+      "price": "$7,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/hd7/345757371531294.jpg"
     },
     {
       "code": "110310",
@@ -17561,6 +17553,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/hea/11953488363550.jpg"
+    },
+    {
+      "code": "1796298",
+      "name": "Casual Living 膝上桌枕",
+      "price": "$1,159",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hed/hac/363835249852446.jpg"
     },
     {
       "code": "161076",
@@ -18425,14 +18425,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h51/174434777399326.jpg"
-    },
-    {
-      "code": "142896",
-      "name": "IRIS OHYAMA 抽屜式收納盒 37公升 X 3入 MBC-LD",
-      "price": "$1,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h80/188820833861662.jpg"
     },
     {
       "code": "1937900",
@@ -20425,6 +20417,14 @@
       "original_price": "$1,225",
       "discount": "$250",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h22/h01/416282499481630.jpg"
+    },
+    {
+      "code": "142896",
+      "name": "IRIS OHYAMA 抽屜式收納盒 37公升 X 3入 MBC-LD",
+      "price": "$1,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h80/188820833861662.jpg"
     },
     {
       "code": "318211",
@@ -25763,14 +25763,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h71/hc4/102275489300510.jpg"
     },
     {
-      "code": "122894",
-      "name": "香蕉船 蘆薈凝露 230公克 X 3入",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdb/hcc/12161174306846.jpg"
-    },
-    {
       "code": "118842",
       "name": "妮傲絲翠 乳糖酸乳液 200毫升",
       "price": "$1,099",
@@ -28627,6 +28619,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h78/hc2/290431388745758.jpg"
     },
     {
+      "code": "122894",
+      "name": "香蕉船 蘆薈凝露 230公克 X 3入",
+      "price": "$379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdb/hcc/12161174306846.jpg"
+    },
+    {
       "code": "155643",
       "name": "Tryall 分離豌豆植物蛋白 深可可奶風味 2.5公斤",
       "price": "$1,399",
@@ -28833,6 +28833,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h11/87394666643486.jpg"
+    },
+    {
+      "code": "109399",
+      "name": "西雅圖二合一咖啡 21公克 X 100入",
+      "price": "$559",
+      "original_price": "$699",
+      "discount": "$140",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9e/ha6/167144461172766.jpg"
     },
     {
       "code": "151543",
@@ -29185,14 +29193,6 @@
       "original_price": "$609",
       "discount": "$114",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/hdf/432345292865566.jpg"
-    },
-    {
-      "code": "121593",
-      "name": "翠果子 綜合米果 600公克 X 150箱",
-      "price": "$32,584",
-      "original_price": "$41,249",
-      "discount": "$8,665",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "7777000",
@@ -30073,6 +30073,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5f/h50/466558755569694.jpg"
+    },
+    {
+      "code": "537333",
+      "name": "樂事 番茄醬口味洋芋片 580公克",
+      "price": "$259",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h34/h50/438035524288542.jpg"
     },
     {
       "code": "154461",
@@ -38347,12 +38355,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
-      "code": "109399",
-      "name": "西雅圖二合一咖啡 21公克 X 100入",
-      "price": "$559",
-      "original_price": "$699",
-      "discount": "$140",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9e/ha6/167144461172766.jpg"
+      "code": "121593",
+      "name": "翠果子 綜合米果 600公克 X 150箱",
+      "price": "$32,584",
+      "original_price": "$41,249",
+      "discount": "$8,665",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "995550",
@@ -38385,14 +38393,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h67/h7d/210494081630238.jpg"
-    },
-    {
-      "code": "537333",
-      "name": "樂事 番茄醬口味洋芋片 580公克",
-      "price": "$259",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h34/h50/438035524288542.jpg"
     },
     {
       "code": "376899",
@@ -44179,14 +44179,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hab/h68/450045494394910.jpg"
     },
     {
-      "code": "1941878",
-      "name": "1.00克拉 鉑金 圓形鑽石戒指 VS2/I",
-      "price": "$97,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2d/h5f/367572900904990.jpg"
-    },
-    {
       "code": "1941877",
       "name": "0.50克拉 18K黃K金 圓形鑽石項鍊 VS2/I",
       "price": "$39,999",
@@ -47121,6 +47113,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h46/hbd/28535551197214.jpg"
+    },
+    {
+      "code": "1941878",
+      "name": "1.00克拉 鉑金 圓形鑽石戒指 VS2/I",
+      "price": "$97,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2d/h5f/367572900904990.jpg"
     },
     {
       "code": "1833010",
@@ -61563,14 +61563,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6c/h29/333377858928670.jpg"
     },
     {
-      "code": "430541",
-      "name": "科克蘭 體重管理配方乾狗糧 18.14公斤",
-      "price": "$1,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h9c/68097126039582.jpg"
-    },
-    {
       "code": "1739170",
       "name": "科克蘭 超濃縮清新香衣物柔軟精 5.53公升 / 276蓋次",
       "price": "$489",
@@ -61697,14 +61689,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h14/344500438794270.jpg"
-    },
-    {
-      "code": "1790216",
-      "name": "ARM & HAMMER 加強除臭貓砂 18.14公斤",
-      "price": "$569",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/h53/28534423945246.jpg"
     },
     {
       "code": "126098",
@@ -63289,14 +63273,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/products/h8f/h73/8831514837022.jpg"
-    },
-    {
-      "code": "105123",
-      "name": "Vtech 歡樂積木學習車 / 1~3歲",
-      "price": "$1,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf4/h28/27630717960222.jpg"
     },
     {
       "code": "456006",
@@ -66187,12 +66163,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/h87/189086737727518.jpg"
     },
     {
+      "code": "430541",
+      "name": "科克蘭 體重管理配方乾狗糧 18.14公斤",
+      "price": "$1,199",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h9c/68097126039582.jpg"
+    },
+    {
       "code": "1132024",
       "name": "科克蘭 雞肉 & 米配方乾貓糧 11.34公斤 X 45入",
       "price": "$34,299",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h09/12604079276062.jpg"
+    },
+    {
+      "code": "1790216",
+      "name": "ARM & HAMMER 加強除臭貓砂 18.14公斤",
+      "price": "$569",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/h53/28534423945246.jpg"
     },
     {
       "code": "1119187",
@@ -66233,6 +66225,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h48/hcd/472591366946846.jpg"
+    },
+    {
+      "code": "105123",
+      "name": "Vtech 歡樂積木學習車 / 1~3歲",
+      "price": "$1,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf4/h28/27630717960222.jpg"
     },
     {
       "code": "323146",
