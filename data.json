@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/7/6 上午1:16:23",
+  "updated_at": "2026/7/6 上午5:09:20",
   "count": 9208,
   "items": [
     {
@@ -20139,14 +20139,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h27/h24/83002464469022.jpg"
     },
     {
-      "code": "129227",
-      "name": "amane 天音極細省水高壓淋浴蓮蓬頭 止水閥版",
-      "price": "$3,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he1/hbe/45363868729374.jpg"
-    },
-    {
       "code": "127092-B",
       "name": "Kohler Struktura 1.5公尺崁入式壓克力浴缸",
       "price": "$12,999",
@@ -20379,14 +20371,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h35/hbf/16127106187294.jpg"
     },
     {
-      "code": "109693",
-      "name": "Shantex 木紋地板 7片裝",
-      "price": "$1,159",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h30/h8d/16127106121758.jpg"
-    },
-    {
       "code": "2796150",
       "name": "CleverMade 摺疊購物車",
       "price": "$1,225",
@@ -20507,12 +20491,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he9/h4b/122430528323614.jpg"
     },
     {
+      "code": "129227",
+      "name": "amane 天音極細省水高壓淋浴蓮蓬頭 止水閥版",
+      "price": "$3,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he1/hbe/45363868729374.jpg"
+    },
+    {
       "code": "123079",
       "name": "Kohler Candide 單孔半柱盆",
       "price": "$6,699",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h88/hd9/44108084183070.jpg"
+    },
+    {
+      "code": "109693",
+      "name": "Shantex 木紋地板 7片裝",
+      "price": "$1,159",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h30/h8d/16127106121758.jpg"
     },
     {
       "code": "116398",
@@ -22513,14 +22513,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h07/hbc/417417010970654.jpg"
-    },
-    {
-      "code": "139676",
-      "name": "百仕可 PF+ 運動營養 分離乳清蛋白粉 阿薩姆紅茶 30公克 X 24包",
-      "price": "$835",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/heb/h85/328847995469854.jpg"
     },
     {
       "code": "137178",
@@ -28531,6 +28523,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/hc9/328848156622878.jpg"
     },
     {
+      "code": "139676",
+      "name": "百仕可 PF+ 運動營養 分離乳清蛋白粉 阿薩姆紅茶 30公克 X 24包",
+      "price": "$835",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/heb/h85/328847995469854.jpg"
+    },
+    {
       "code": "78357",
       "name": "威德 靈芝多醣 180粒",
       "price": "$689",
@@ -28883,14 +28883,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h72/240877998276638.jpg"
     },
     {
-      "code": "64012",
-      "name": "紅龍 冷凍牛肉捲 220 公克 X 6 入",
-      "price": "$359",
-      "original_price": "$439",
-      "discount": "$80",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h3c/33857915846686.jpg"
-    },
-    {
       "code": "213492",
       "name": "韓味不二 海苔酥 80公克 X 4袋",
       "price": "$339",
@@ -28913,6 +28905,14 @@
       "original_price": "$349",
       "discount": "$60",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hed/h77/349916401598494.jpg"
+    },
+    {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$255",
+      "original_price": "$315",
+      "discount": "$60",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
     },
     {
       "code": "224757",
@@ -32331,6 +32331,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hd5/15916559400990.jpg"
     },
     {
+      "code": "888688",
+      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "price": "$369",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
+    },
+    {
       "code": "446249",
       "name": "丹尼船長 X 畬室 法式可可香頌米米花 60公克 X 8包",
       "price": "$369",
@@ -33027,6 +33035,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hec/hf3/420197406375966.jpg"
     },
     {
+      "code": "161589",
+      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
+      "price": "$379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
+    },
+    {
       "code": "157231",
       "name": "維力 香菜牛肉風味麵 110公克 X 12入",
       "price": "$369",
@@ -33571,14 +33587,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/h3e/14720807796766.jpg"
     },
     {
-      "code": "334824",
-      "name": "夏雪芒果 6公斤/ 12-18入",
-      "price": "$1,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/haa/h2d/483940919935006.jpg"
-    },
-    {
       "code": "255299",
       "name": "珍苑 香辣五仁堅果醬 250公克 X 2罐",
       "price": "$319",
@@ -33833,6 +33841,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h18/65826716090398.jpg"
+    },
+    {
+      "code": "888668",
+      "name": "翠果子 古早味手工黑芝麻糕 480公克",
+      "price": "$329",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
     },
     {
       "code": "229275",
@@ -36451,6 +36467,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8a/h20/243378403409950.jpg"
     },
     {
+      "code": "211681",
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$1,189",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
+    },
+    {
       "code": "158581",
       "name": "卜蜂 冷藏紅燒棒腿 1200公克 X 2入",
       "price": "$999",
@@ -38171,12 +38195,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1c/hdf/187326412750878.jpg"
     },
     {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$255",
-      "original_price": "$315",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
+      "code": "64012",
+      "name": "紅龍 冷凍牛肉捲 220 公克 X 6 入",
+      "price": "$359",
+      "original_price": "$439",
+      "discount": "$80",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h3c/33857915846686.jpg"
     },
     {
       "code": "75130",
@@ -38347,28 +38371,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he6/h61/27171449929758.jpg"
     },
     {
-      "code": "888688",
-      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "price": "$369",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
-    },
-    {
       "code": "137229",
       "name": "Evian 氣泡天然礦泉水 330毫升 X 20入",
       "price": "$849",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc2/h56/274514910478366.jpg"
-    },
-    {
-      "code": "161589",
-      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
     },
     {
       "code": "960660",
@@ -38387,12 +38395,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hee/308063187894302.jpg"
     },
     {
-      "code": "888668",
-      "name": "翠果子 古早味手工黑芝麻糕 480公克",
-      "price": "$329",
+      "code": "334824",
+      "name": "夏雪芒果 6公斤/ 12-18入",
+      "price": "$1,299",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/haa/h2d/483940919935006.jpg"
     },
     {
       "code": "403007",
@@ -38433,14 +38441,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1f/hc9/436453925093406.jpg"
-    },
-    {
-      "code": "211681",
-      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "price": "$1,189",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
     },
     {
       "code": "1217407",
