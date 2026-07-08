@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/7/8 下午9:47:11",
+  "updated_at": "2026/7/9 上午1:41:32",
   "count": 9142,
   "items": [
     {
@@ -617,14 +617,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h5b/297207003316254.jpg"
-    },
-    {
-      "code": "143001",
-      "name": "Apple Pencil (USB-C)",
-      "price": "$2,619",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h51/189643063918622.jpg"
     },
     {
       "code": "139945",
@@ -3569,6 +3561,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9c/h03/367003163820062.jpg"
+    },
+    {
+      "code": "143001",
+      "name": "Apple Pencil (USB-C)",
+      "price": "$2,619",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h51/189643063918622.jpg"
     },
     {
       "code": "139070",
@@ -10171,14 +10171,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hd4/315757080674334.jpg"
     },
     {
-      "code": "145385",
-      "name": "Serta Buckhead 雙人床墊 151公分 X 188公分",
-      "price": "$16,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc8/h66/315757080903710.jpg"
-    },
-    {
       "code": "145384",
       "name": "Serta Buckhead 單人床墊 106公分 X 188公分",
       "price": "$14,499",
@@ -15187,14 +15179,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h47/431395135488030.jpg"
     },
     {
-      "code": "151483",
-      "name": "ZIMRA HYBRID 單人床墊 107 公分 X 190 公分",
-      "price": "$6,997",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hee/431395125821470.jpg"
-    },
-    {
       "code": "151479",
       "name": "Backbone Nook desk 兒童成長調節桌 粉色",
       "price": "$2,399",
@@ -17763,6 +17747,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h40/hca/312616235073566.jpg"
     },
     {
+      "code": "145385",
+      "name": "Serta Buckhead 雙人床墊 151公分 X 188公分",
+      "price": "$16,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc8/h66/315757080903710.jpg"
+    },
+    {
       "code": "136416",
       "name": "國際牌 12公斤溫水洗脫滾筒洗衣機 NA-V120HW + 7公斤 架上型滾筒乾衣機 NH-L70G 組合",
       "price": "$30,899",
@@ -17929,6 +17921,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/heb/h09/343413895462942.jpg"
+    },
+    {
+      "code": "151483",
+      "name": "ZIMRA HYBRID 單人床墊 107 公分 X 190 公分",
+      "price": "$6,997",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hee/431395125821470.jpg"
     },
     {
       "code": "151303",
@@ -28987,14 +28987,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h95/he4/448868559978526.jpg"
     },
     {
-      "code": "136308",
-      "name": "雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包",
-      "price": "$435",
-      "original_price": "$549",
-      "discount": "$114",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/hd3/221944205606942.jpg"
-    },
-    {
       "code": "224757",
       "name": "克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤",
       "price": "$655",
@@ -29113,14 +29105,6 @@
       "original_price": "$439",
       "discount": "$80",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h31/h41/452308878491678.jpg"
-    },
-    {
-      "code": "64012",
-      "name": "紅龍 冷凍牛肉捲 220 公克 X 6 入",
-      "price": "$359",
-      "original_price": "$439",
-      "discount": "$80",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h3c/33857915846686.jpg"
     },
     {
       "code": "144661",
@@ -38217,6 +38201,22 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
+    },
+    {
+      "code": "136308",
+      "name": "雀巢 金牌微研磨咖啡隨行包 深焙風味 2公克 X 100包",
+      "price": "$435",
+      "original_price": "$549",
+      "discount": "$114",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/hd3/221944205606942.jpg"
+    },
+    {
+      "code": "64012",
+      "name": "紅龍 冷凍牛肉捲 220 公克 X 6 入",
+      "price": "$359",
+      "original_price": "$439",
+      "discount": "$80",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/h3c/33857915846686.jpg"
     },
     {
       "code": "159840",
