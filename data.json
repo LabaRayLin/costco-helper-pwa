@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/7/11 下午5:36:48",
+  "updated_at": "2026/7/11 下午9:09:05",
   "count": 9141,
   "items": [
     {
@@ -33,14 +33,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha8/h3c/449275401371678.jpg"
-    },
-    {
-      "code": "160085",
-      "name": "羅技 LIFT 人體工學垂直滑鼠 迷霧灰",
-      "price": "$1,849",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdf/hce/470130412322846.jpg"
     },
     {
       "code": "158000",
@@ -1505,14 +1497,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h5b/171668598194206.jpg"
-    },
-    {
-      "code": "136805",
-      "name": "HP 61XL 墨水組合 - 黑 X 1 + 彩色組 X 1",
-      "price": "$2,659",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hef/150739036536862.jpg"
     },
     {
       "code": "134811",
@@ -3443,6 +3427,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd9/h16/30628865507358.jpg"
     },
     {
+      "code": "160085",
+      "name": "羅技 LIFT 人體工學垂直滑鼠 迷霧灰",
+      "price": "$1,849",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdf/hce/470130412322846.jpg"
+    },
+    {
       "code": "158487",
       "name": "TP-Link Tapo C510W 戶外旋轉式防護 WiFi 攝影機",
       "price": "$1,299",
@@ -3585,6 +3577,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h14/hb8/367003176730654.jpg"
+    },
+    {
+      "code": "136805",
+      "name": "HP 61XL 墨水組合 - 黑 X 1 + 彩色組 X 1",
+      "price": "$2,659",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hef/150739036536862.jpg"
     },
     {
       "code": "160278-B",
@@ -7339,14 +7339,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2a/hd4/416282384138270.jpg"
     },
     {
-      "code": "158552",
-      "name": "Nespresso 膠囊咖啡機 CitiZ 含30顆咖啡膠囊",
-      "price": "$5,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h9b/466199016767518.jpg"
-    },
-    {
       "code": "157742",
       "name": "歐樂B 兒童牙刷刷頭 8入",
       "price": "$1,399",
@@ -9217,14 +9209,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/products/h09/h27/8826295844894.jpg"
-    },
-    {
-      "code": "107871",
-      "name": "席伊麗 護背系列金星標準雙人床墊 152公分 X 190公分",
-      "price": "$22,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/hd9/81302954147870.jpg"
     },
     {
       "code": "103267",
@@ -11203,14 +11187,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h55/h27/469716647510046.jpg"
     },
     {
-      "code": "153098",
-      "name": "Anda Seat 皮革電競椅 橘",
-      "price": "$6,997",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hba/367883399004190.jpg"
-    },
-    {
       "code": "153097",
       "name": "Anda Seat 皮革電競椅 栗色",
       "price": "$8,999",
@@ -12337,14 +12313,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc0/hfe/97058655469598.jpg"
-    },
-    {
-      "code": "107874",
-      "name": "席伊麗 護背系列火星雙人加大床墊 183公分 X 190公分",
-      "price": "$21,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/h45/81302954016798.jpg"
     },
     {
       "code": "1017418",
@@ -17643,6 +17611,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4b/h70/102901171421214.jpg"
     },
     {
+      "code": "158552",
+      "name": "Nespresso 膠囊咖啡機 CitiZ 含30顆咖啡膠囊",
+      "price": "$5,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h9b/466199016767518.jpg"
+    },
+    {
       "code": "117769",
       "name": "Vinvautz 電子溫控單溫酒櫃 12瓶 VZ12ABT",
       "price": "$8,999",
@@ -17707,6 +17683,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/hbe/13809253351454.jpg"
     },
     {
+      "code": "107871",
+      "name": "席伊麗 護背系列金星標準雙人床墊 152公分 X 190公分",
+      "price": "$22,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/hd9/81302954147870.jpg"
+    },
+    {
       "code": "161079",
       "name": "VASAGLE 工業風二層收納 L型電腦桌",
       "price": "$2,899",
@@ -17747,6 +17731,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h64/362804889059358.jpg"
     },
     {
+      "code": "153098",
+      "name": "Anda Seat 皮革電競椅 橘",
+      "price": "$6,997",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h90/hba/367883399004190.jpg"
+    },
+    {
       "code": "152782",
       "name": "Bentley Designs Indus Rustic 橡木 & 胡椒色 置物櫃 159公分",
       "price": "$11,997",
@@ -17761,6 +17753,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h0b/298052155473950.jpg"
+    },
+    {
+      "code": "107874",
+      "name": "席伊麗 護背系列火星雙人加大床墊 183公分 X 190公分",
+      "price": "$21,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3b/h45/81302954016798.jpg"
     },
     {
       "code": "666549",
@@ -22241,14 +22241,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/h8e/52549367332894.jpg"
-    },
-    {
-      "code": "62371",
-      "name": "Giovanni 茶樹洗髮精 1公升",
-      "price": "$475",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h40/432345311608862.jpg"
     },
     {
       "code": "156469",
@@ -28659,6 +28651,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/hee/382254177648670.jpg"
     },
     {
+      "code": "62371",
+      "name": "Giovanni 茶樹洗髮精 1公升",
+      "price": "$475",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h40/432345311608862.jpg"
+    },
+    {
       "code": "581177",
       "name": "Yamamoto Kanpoh 山本漢方 日本大麥若葉粉末 + 奇亞籽 144公克(4公克 X 36包)",
       "price": "$339",
@@ -29033,14 +29033,6 @@
       "original_price": "$419",
       "discount": "$80",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h96/116669213376542.jpg"
-    },
-    {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$255",
-      "original_price": "$315",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
     },
     {
       "code": "558588",
@@ -31041,14 +31033,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/hdd/397823972900894.jpg"
-    },
-    {
-      "code": "157706",
-      "name": "大成 冷凍蜜汁去骨清雞腿與十三香清雞胸 5公斤",
-      "price": "$1,469",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hf7/402145330528286.jpg"
     },
     {
       "code": "143277",
@@ -33379,14 +33363,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h82/h52/361110762815518.jpg"
     },
     {
-      "code": "888688",
-      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "price": "$369",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
-    },
-    {
       "code": "51290",
       "name": "亨氏 蕃茄醬 3.23公斤",
       "price": "$215",
@@ -34059,14 +34035,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/hcb/168536182259742.jpg"
     },
     {
-      "code": "161589",
-      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
-    },
-    {
       "code": "152041",
       "name": "王麵河粉 杯裝河粉 分享組 61公克 X 12入",
       "price": "$289",
@@ -34185,14 +34153,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/he2/220200418312222.jpg"
-    },
-    {
-      "code": "159017",
-      "name": "大成 山賊燒去骨清雞腿與十三香雞翅 5公斤",
-      "price": "$1,429",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h70/418236627451934.jpg"
     },
     {
       "code": "155716",
@@ -34465,14 +34425,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h53/135180606636062.jpg"
-    },
-    {
-      "code": "888668",
-      "name": "翠果子 古早味手工黑芝麻糕 480公克",
-      "price": "$329",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
     },
     {
       "code": "880456",
@@ -36459,14 +36411,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h41/415897493667870.jpg"
     },
     {
-      "code": "211681",
-      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "price": "$1,189",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
-    },
-    {
       "code": "167643",
       "name": "New Choice 摩卡咖啡脆捲 1公斤 X 4盒",
       "price": "$1,099",
@@ -37113,14 +37057,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hcc/79975139213342.webp"
-    },
-    {
-      "code": "121593",
-      "name": "翠果子 綜合米果 600公克 X 150箱",
-      "price": "$41,249",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "529638",
@@ -38171,6 +38107,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$255",
+      "original_price": "$315",
+      "discount": "$60",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
+    },
+    {
       "code": "138763",
       "name": "冷凍比目魚切片 1.15公斤",
       "price": "$639",
@@ -38355,6 +38299,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbb/hf9/101049248088094.jpg"
     },
     {
+      "code": "157706",
+      "name": "大成 冷凍蜜汁去骨清雞腿與十三香清雞胸 5公斤",
+      "price": "$1,469",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hf7/402145330528286.jpg"
+    },
+    {
       "code": "161342",
       "name": "Nescafe Excella 雀巢無糖黑咖啡 900毫升 X 12 入",
       "price": "$599",
@@ -38451,6 +38403,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h8a/329850516570142.jpg"
     },
     {
+      "code": "888688",
+      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "price": "$369",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
+    },
+    {
       "code": "665558",
       "name": "義美 QQ糖巧克球 851公克",
       "price": "$419",
@@ -38483,6 +38443,22 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h62/329177245450270.jpg"
     },
     {
+      "code": "161589",
+      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
+      "price": "$379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
+    },
+    {
+      "code": "159017",
+      "name": "大成 山賊燒去骨清雞腿與十三香雞翅 5公斤",
+      "price": "$1,429",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h70/418236627451934.jpg"
+    },
+    {
       "code": "101557",
       "name": "益齒達 潔淨無糖口香糖 薄荷口味 92.4公克 X 4入",
       "price": "$389",
@@ -38497,6 +38473,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hb5/61939549700126.jpg"
+    },
+    {
+      "code": "888668",
+      "name": "翠果子 古早味手工黑芝麻糕 480公克",
+      "price": "$329",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
     },
     {
       "code": "960660",
@@ -38555,6 +38539,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/h5b/403085693354014.jpg"
     },
     {
+      "code": "211681",
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$1,189",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
+    },
+    {
       "code": "152532",
       "name": "台畜 冷藏豬肉香腸 1公斤 X 2入",
       "price": "$969",
@@ -38569,6 +38561,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/h22/415897366233118.jpg"
+    },
+    {
+      "code": "121593",
+      "name": "翠果子 綜合米果 600公克 X 150箱",
+      "price": "$41,249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "152538",
