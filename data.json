@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/7/12 上午1:05:36",
+  "updated_at": "2026/7/12 上午4:59:48",
   "count": 9141,
   "items": [
     {
@@ -6513,14 +6513,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/hd5/223144342290462.jpg"
-    },
-    {
-      "code": "142479",
-      "name": "惠而浦 17公斤/10公斤滾筒洗脫烘衣機 8TWFC6820LC",
-      "price": "$40,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h6f/188147689553950.jpg"
     },
     {
       "code": "138048",
@@ -17579,6 +17571,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h5d/438072165269534.jpg"
     },
     {
+      "code": "142479",
+      "name": "惠而浦 17公斤/10公斤滾筒洗脫烘衣機 8TWFC6820LC",
+      "price": "$40,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hcf/h6f/188147689553950.jpg"
+    },
+    {
       "code": "136638",
       "name": "美膳雅 Precision Master Pro 6.2公升 12段桌上型攪拌機 CSM-130RPCTW",
       "price": "$6,799",
@@ -21513,14 +21513,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hee/h5c/168371765608478.jpg"
-    },
-    {
-      "code": "144826",
-      "name": "牛乳石鹼 植物性無添加沐浴乳 500毫升",
-      "price": "$249",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/ha2/222915962437662.jpg"
     },
     {
       "code": "144210",
@@ -28611,6 +28603,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd3/h86/328848171171870.jpg"
     },
     {
+      "code": "144826",
+      "name": "牛乳石鹼 植物性無添加沐浴乳 500毫升",
+      "price": "$249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/ha2/222915962437662.jpg"
+    },
+    {
       "code": "133093",
       "name": "牛乳石鹼 蘆薈精華沐浴乳 1200毫升",
       "price": "$455",
@@ -29033,6 +29033,14 @@
       "original_price": "$419",
       "discount": "$80",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h96/116669213376542.jpg"
+    },
+    {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$255",
+      "original_price": "$315",
+      "discount": "$60",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
     },
     {
       "code": "558588",
@@ -33347,6 +33355,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h82/h52/361110762815518.jpg"
     },
     {
+      "code": "888688",
+      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "price": "$369",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
+    },
+    {
       "code": "51290",
       "name": "亨氏 蕃茄醬 3.23公斤",
       "price": "$215",
@@ -34019,6 +34035,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0f/hcb/168536182259742.jpg"
     },
     {
+      "code": "161589",
+      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
+      "price": "$379",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
+    },
+    {
       "code": "152041",
       "name": "王麵河粉 杯裝河粉 分享組 61公克 X 12入",
       "price": "$289",
@@ -34411,20 +34435,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h53/135180606636062.jpg"
     },
     {
+      "code": "888668",
+      "name": "翠果子 古早味手工黑芝麻糕 480公克",
+      "price": "$329",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
+    },
+    {
       "code": "880456",
       "name": "Garofalo 義大利麵 500公克 X 8入",
       "price": "$429",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/h06/16578656829470.jpg"
-    },
-    {
-      "code": "542475",
-      "name": "野村煎豆 美樂圓餅 玉米濃湯風味 70公克 X 10包",
-      "price": "$339",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/h07/450045561471006.jpg"
     },
     {
       "code": "168850",
@@ -36395,6 +36419,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h41/415897493667870.jpg"
     },
     {
+      "code": "211681",
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$1,189",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
+    },
+    {
       "code": "167643",
       "name": "New Choice 摩卡咖啡脆捲 1公斤 X 4盒",
       "price": "$1,099",
@@ -37041,6 +37073,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hcc/79975139213342.webp"
+    },
+    {
+      "code": "121593",
+      "name": "翠果子 綜合米果 600公克 X 150箱",
+      "price": "$41,249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "529638",
@@ -38091,14 +38131,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$255",
-      "original_price": "$315",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
-    },
-    {
       "code": "138763",
       "name": "冷凍比目魚切片 1.15公斤",
       "price": "$639",
@@ -38403,14 +38435,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha2/h8a/329850516570142.jpg"
     },
     {
-      "code": "888688",
-      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "price": "$369",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
-    },
-    {
       "code": "665558",
       "name": "義美 QQ糖巧克球 851公克",
       "price": "$419",
@@ -38443,14 +38467,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h62/329177245450270.jpg"
     },
     {
-      "code": "161589",
-      "name": "翠菓子 台灣夜市經典三重奏 10包/400公克",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h2e/473820150071326.jpg"
-    },
-    {
       "code": "159017",
       "name": "大成 山賊燒去骨清雞腿與十三香雞翅 5公斤",
       "price": "$1,429",
@@ -38475,12 +38491,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hb5/61939549700126.jpg"
     },
     {
-      "code": "888668",
-      "name": "翠果子 古早味手工黑芝麻糕 480公克",
-      "price": "$329",
+      "code": "542475",
+      "name": "野村煎豆 美樂圓餅 玉米濃湯風味 70公克 X 10包",
+      "price": "$339",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h74/h07/450045561471006.jpg"
     },
     {
       "code": "960660",
@@ -38539,14 +38555,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/h5b/403085693354014.jpg"
     },
     {
-      "code": "211681",
-      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "price": "$1,189",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
-    },
-    {
       "code": "152532",
       "name": "台畜 冷藏豬肉香腸 1公斤 X 2入",
       "price": "$969",
@@ -38561,14 +38569,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/h22/415897366233118.jpg"
-    },
-    {
-      "code": "121593",
-      "name": "翠果子 綜合米果 600公克 X 150箱",
-      "price": "$41,249",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "152538",
@@ -50203,14 +50203,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc5/haf/140154733199390.jpg"
     },
     {
-      "code": "137224",
-      "name": "KYOCERA 強力型吹吸式掃葉機 RESV-1500",
-      "price": "$4,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hba/hc0/118957238943774.jpg"
-    },
-    {
       "code": "136395",
       "name": "M2R 1/2罩安全帽 騎乘機車用防護頭盔 M-506 XL",
       "price": "$669",
@@ -58193,6 +58185,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h55/hd9/292506409795614.jpg"
+    },
+    {
+      "code": "137224",
+      "name": "KYOCERA 強力型吹吸式掃葉機 RESV-1500",
+      "price": "$4,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hba/hc0/118957238943774.jpg"
     },
     {
       "code": "92358",
