@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/8/2 下午2:49:36",
+  "updated_at": "2026/8/2 下午6:09:31",
   "count": 9316,
   "items": [
     {
@@ -217,14 +217,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h76/361110314942494.jpg"
-    },
-    {
-      "code": "107558",
-      "name": "Brother TN-1000 碳粉匣 3入",
-      "price": "$2,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb3/379074183692318.jpg"
     },
     {
       "code": "159896",
@@ -3475,6 +3467,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h54/hf2/448868356030494.jpg"
     },
     {
+      "code": "107558",
+      "name": "Brother TN-1000 碳粉匣 3入",
+      "price": "$2,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb3/379074183692318.jpg"
+    },
+    {
       "code": "161366",
       "name": "Soundcore Liberty 4 Pro 降噪真無線藍牙耳機",
       "price": "$3,069",
@@ -5331,14 +5331,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h33/h2a/332442350092318.jpg"
     },
     {
-      "code": "138020",
-      "name": "國際牌 610公升四門冰箱 NR-D61CGS-N",
-      "price": "$38,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/hfb/121680123068446.jpg"
-    },
-    {
       "code": "1264733",
       "name": "Lustroware 冷水壺 2.1公升 X 2件組",
       "price": "$569",
@@ -5729,14 +5721,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2c/h08/11657824469022.jpg"
-    },
-    {
-      "code": "110258",
-      "name": "收藏家 電子防潮箱 CT-95",
-      "price": "$4,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h73/16243885539358.jpg"
     },
     {
       "code": "8522309",
@@ -6819,14 +6803,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h64/h2d/255087515697182.jpg"
     },
     {
-      "code": "140851",
-      "name": "DOCTORAIR 冷熱舒壓按摩槍 REG03TW",
-      "price": "$3,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/he3/171156139409438.jpg"
-    },
-    {
       "code": "139914",
       "name": "象印 壓力IH炊飯電子鍋 NW-HXF10",
       "price": "$9,999",
@@ -7889,14 +7865,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/ha7/386020263591966.jpg"
-    },
-    {
-      "code": "155617",
-      "name": "飛利浦 寵物抗敏空氣清淨機 AC3681/81",
-      "price": "$12,139",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h64/418236464300062.jpg"
     },
     {
       "code": "155266",
@@ -17563,12 +17531,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h52/h0f/278946243411998.jpg"
     },
     {
+      "code": "138020",
+      "name": "國際牌 610公升四門冰箱 NR-D61CGS-N",
+      "price": "$38,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/hfb/121680123068446.jpg"
+    },
+    {
       "code": "437160",
       "name": "Bentley Designs Maeto 沙發邊桌",
       "price": "$2,199",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h34/hb5/244160035651614.jpg"
+    },
+    {
+      "code": "110258",
+      "name": "收藏家 電子防潮箱 CT-95",
+      "price": "$4,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h73/16243885539358.jpg"
     },
     {
       "code": "159591",
@@ -17643,6 +17627,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he1/h37/244418545418270.jpg"
     },
     {
+      "code": "140851",
+      "name": "DOCTORAIR 冷熱舒壓按摩槍 REG03TW",
+      "price": "$3,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/he3/171156139409438.jpg"
+    },
+    {
       "code": "1782766",
       "name": "Bayside 置物櫃 183公分",
       "price": "$14,999",
@@ -17697,6 +17689,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h59/452750214463518.jpg"
+    },
+    {
+      "code": "155617",
+      "name": "飛利浦 寵物抗敏空氣清淨機 AC3681/81",
+      "price": "$12,139",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h64/418236464300062.jpg"
     },
     {
       "code": "154791",
@@ -21401,14 +21401,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he4/hdb/386020565843998.jpg"
-    },
-    {
-      "code": "567872",
-      "name": "The Golden 大麥若葉粉末 3公克 X 176包",
-      "price": "$949",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hf6/27131083128862.jpg"
     },
     {
       "code": "252860",
@@ -29267,6 +29259,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h22/ha5/64586487627806.jpg"
     },
     {
+      "code": "567872",
+      "name": "The Golden 大麥若葉粉末 3公克 X 176包",
+      "price": "$949",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hf6/27131083128862.jpg"
+    },
+    {
       "code": "152824",
       "name": "Myprotein 一水肌酸粉 原味 1公斤",
       "price": "$1,199",
@@ -29425,14 +29425,6 @@
       "original_price": "$549",
       "discount": "$114",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/hd3/221944205606942.jpg"
-    },
-    {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$255",
-      "original_price": "$315",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
     },
     {
       "code": "64012",
@@ -30489,14 +30481,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h48/432046590689310.jpg"
-    },
-    {
-      "code": "666249",
-      "name": "丹尼船長 高蛋白洋芋片 炙烤蒜香玫瑰鹽味 50公克 X 8入",
-      "price": "$389",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/hb3/485751463772190.jpg"
     },
     {
       "code": "582057",
@@ -33689,14 +33673,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h85/h30/118693329141790.jpg"
-    },
-    {
-      "code": "339638",
-      "name": "三上食楽 燃太郎 辣湯拉麵 187公克 X 6袋",
-      "price": "$297",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h41/415897493667870.jpg"
     },
     {
       "code": "337333",
@@ -38851,6 +38827,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$255",
+      "original_price": "$315",
+      "discount": "$60",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
+    },
+    {
       "code": "224757",
       "name": "克寧 銀養高鈣全效奶粉 呵護配方 1.9公斤",
       "price": "$655",
@@ -38953,6 +38937,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/h27/368494874329118.jpg"
+    },
+    {
+      "code": "666249",
+      "name": "丹尼船長 高蛋白洋芋片 炙烤蒜香玫瑰鹽味 50公克 X 8入",
+      "price": "$389",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/hb3/485751463772190.jpg"
     },
     {
       "code": "56076",
@@ -39097,6 +39089,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h15/379790881357854.jpg"
+    },
+    {
+      "code": "339638",
+      "name": "三上食楽 燃太郎 辣湯拉麵 187公克 X 6袋",
+      "price": "$297",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h41/415897493667870.jpg"
     },
     {
       "code": "134901",
@@ -52731,14 +52731,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hdb/325943356063774.jpg"
     },
     {
-      "code": "155417",
-      "name": "馬牌 245/45 R20 103V EXC XC7 CS SIL 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/hcf/368528941383710.jpg"
-    },
-    {
       "code": "155398",
       "name": "馬牌 245/40 R19 98Y XL FR MC7 輪胎",
       "price": "點入確認價格",
@@ -59355,6 +59347,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h72/h8e/487916135514142.jpg"
     },
     {
+      "code": "155417",
+      "name": "馬牌 245/45 R20 103V EXC XC7 CS SIL 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/hcf/368528941383710.jpg"
+    },
+    {
       "code": "155394",
       "name": "馬牌 255/45 R19 104Y XL FR MC7 輪胎",
       "price": "點入確認價格",
@@ -65451,14 +65451,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h03/16890689060894.jpg"
     },
     {
-      "code": "221648",
-      "name": "倍淨 2.0 豆腐貓砂 綠茶 5公升 X 6入",
-      "price": "$689",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h21/489268627275806.jpg"
-    },
-    {
       "code": "221647",
       "name": "倍淨 2.0 豆腐貓砂 原味 5公升 X 6入",
       "price": "$689",
@@ -67121,6 +67113,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h8c/422091110842398.jpg"
+    },
+    {
+      "code": "221648",
+      "name": "倍淨 2.0 豆腐貓砂 綠茶 5公升 X 6入",
+      "price": "$689",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h21/489268627275806.jpg"
     },
     {
       "code": "2125811",
