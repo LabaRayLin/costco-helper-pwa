@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026/8/14 下午8:58:20",
-  "count": 9462,
+  "updated_at": "2026/8/15 上午1:00:46",
+  "count": 9454,
   "items": [
     {
       "code": "154268",
@@ -25,14 +25,6 @@
       "original_price": "$5,899",
       "discount": "$870",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hf0/413421490372638.jpg"
-    },
-    {
-      "code": "159985",
-      "name": "DJI Osmo 360 套裝組 雙電池+自拍棒+收納包",
-      "price": "$12,119",
-      "original_price": "$14,119",
-      "discount": "$2,000",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h16/h98/466558750687262.jpg"
     },
     {
       "code": "134557",
@@ -203,6 +195,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h52/439032174346270.jpg"
     },
     {
+      "code": "161367",
+      "name": "Soundcore AeroClip 開放式藍牙耳夾耳機",
+      "price": "$2,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h8b/471216417898526.jpg"
+    },
+    {
       "code": "158597",
       "name": "犀牛盾 iPhone 17系列 Clear (MagSafe兼容) 抗黃化透明防摔手機殼 + 9H 抗藍光鋼化玻璃保護貼",
       "price": "$1,539",
@@ -281,6 +281,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h49/h42/366001577721886.jpg"
+    },
+    {
+      "code": "159985",
+      "name": "DJI Osmo 360 套裝組 雙電池+自拍棒+收納包",
+      "price": "$14,119",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h16/h98/466558750687262.jpg"
     },
     {
       "code": "159896",
@@ -1081,14 +1089,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h60/467458872967198.jpg"
-    },
-    {
-      "code": "161266",
-      "name": "MMOMENT 64GB MicroSDXC U3 V30 A1 記憶卡 2入組",
-      "price": "$869",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h15/466558813470750.jpg"
     },
     {
       "code": "160454",
@@ -1905,14 +1905,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/h79/297207008296990.jpg"
-    },
-    {
-      "code": "149551-B",
-      "name": "Apple iMac 24吋 搭配 M4 晶片 10核心 CPU 10核心 GPU 512GB SSD",
-      "price": "$60,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hca/438478507245598.jpg"
     },
     {
       "code": "147803",
@@ -3043,6 +3035,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h12/he1/382222900887582.jpg"
     },
     {
+      "code": "155490",
+      "name": "iClever BTH21 炫光無線兒童耳機",
+      "price": "$1,129",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h68/382511506259998.jpg"
+    },
+    {
       "code": "155418",
       "name": "MAGEASY Facet 全方位支架透明背蓋保護套 (筆槽款) 適用於 2022 iPad 10.9吋 A14 & 2025 iPad 11吋 A16",
       "price": "$1,079",
@@ -3587,14 +3587,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h57/h20/274498309455902.jpg"
     },
     {
-      "code": "161367",
-      "name": "Soundcore AeroClip 開放式藍牙耳夾耳機",
-      "price": "$2,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd0/h8b/471216417898526.jpg"
-    },
-    {
       "code": "158005-B",
       "name": "Apple iPhone 17 256GB",
       "price": "$28,335",
@@ -3675,6 +3667,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h60/he5/139017801203742.jpg"
     },
     {
+      "code": "161266",
+      "name": "MMOMENT 64GB MicroSDXC U3 V30 A1 記憶卡 2入組",
+      "price": "$869",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he4/h15/466558813470750.jpg"
+    },
+    {
       "code": "158049-B",
       "name": "Apple iPhone Air 512GB",
       "price": "$41,099",
@@ -3745,6 +3745,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h63/ha0/434451530874910.jpg"
+    },
+    {
+      "code": "149551-B",
+      "name": "Apple iMac 24吋 搭配 M4 晶片 10核心 CPU 10核心 GPU 512GB SSD",
+      "price": "$60,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/hca/438478507245598.jpg"
     },
     {
       "code": "160417-B",
@@ -3875,14 +3883,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h2f/449275673706526.jpg"
     },
     {
-      "code": "159654",
-      "name": "樂歌 人體工學 電腦螢幕支架 D7H/DLB511L",
-      "price": "$2,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/hdc/449275387805726.jpg"
-    },
-    {
       "code": "159392",
       "name": "Kodak Charmera 柯達迷你數位相機鑰匙圈盲盒",
       "price": "$1,499",
@@ -3993,14 +3993,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/hfc/274498300018718.jpg"
-    },
-    {
-      "code": "139284",
-      "name": "綠聯 七合一多功能USB-C集線器 4K 60Hz版 60515",
-      "price": "$1,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h54/h03/137772679430174.jpg"
     },
     {
       "code": "134558",
@@ -4195,14 +4187,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h73/h1a/438072215830558.jpg"
     },
     {
-      "code": "125656-B",
-      "name": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分",
-      "price": "$499",
-      "original_price": "$639",
-      "discount": "$140",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h89/hf8/17394159026206.jpg"
-    },
-    {
       "code": "114562",
       "name": "CASA 雙人四季透氣乳膠床墊 152公分 X 190公分 X 5公分",
       "price": "$3,839",
@@ -4329,14 +4313,6 @@
       "original_price": "$899",
       "discount": "$180",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h42/h3b/454001776459806.jpg"
-    },
-    {
-      "code": "150461",
-      "name": "Boutique Living 400織萊賽爾床包 6件組 雙人加大尺寸",
-      "price": "$1,919",
-      "original_price": "$2,399",
-      "discount": "$480",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/h22/471660180537374.jpg"
     },
     {
       "code": "258611",
@@ -4507,14 +4483,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/he3/455116806750238.jpg"
     },
     {
-      "code": "150925",
-      "name": "Don Home 萊賽爾雙人兩用被套6件組 格韻",
-      "price": "$2,079",
-      "original_price": "$2,599",
-      "discount": "$520",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h6c/327562421043230.jpg"
-    },
-    {
       "code": "159383",
       "name": "Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 春粉",
       "price": "$799",
@@ -4673,14 +4641,6 @@
       "original_price": "$47,999",
       "discount": "$10,000",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1e/ha9/485751088349214.jpg"
-    },
-    {
-      "code": "114499",
-      "name": "幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分",
-      "price": "$615",
-      "original_price": "$769",
-      "discount": "$154",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/h05/47771978596382.jpg"
     },
     {
       "code": "672533",
@@ -5649,14 +5609,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h16/h0e/454002269290526.jpg"
-    },
-    {
-      "code": "157491",
-      "name": "歐樂B iO Gentle 微震科技充電式電動牙刷 2握柄+8刷頭",
-      "price": "$4,089",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc4/hb2/466198998417438.jpg"
     },
     {
       "code": "156943",
@@ -7113,14 +7065,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/h74/332442480246814.jpg"
-    },
-    {
-      "code": "148079",
-      "name": "KOIZUMI 極潤雙倍負離子毛麟修護吹風機 KHD-G120-PE",
-      "price": "$1,759",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h83/278946149892126.jpg"
     },
     {
       "code": "146557",
@@ -9011,14 +8955,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h27/h58/350741233631262.jpg"
     },
     {
-      "code": "153109",
-      "name": "Anda Seat 網布電競椅 彩灰",
-      "price": "$4,997",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/h1c/367883445272606.jpg"
-    },
-    {
       "code": "152931",
       "name": "伊萊克斯 極適家居600無線吸塵器 EFP61712",
       "price": "$7,399",
@@ -9065,14 +9001,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h24/312616234942494.jpg"
-    },
-    {
-      "code": "150983",
-      "name": "Panasonic 10.5公斤溫水滾筒洗衣機 NA-V105NW-W + 10公斤 熱泵除濕式乾衣機 NH-100RP-W",
-      "price": "$47,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h40/hca/312616235073566.jpg"
     },
     {
       "code": "149658",
@@ -10337,14 +10265,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h07/hef/257071212527646.jpg"
-    },
-    {
-      "code": "145725-B",
-      "name": "A.O. 史密斯 RO逆滲透淨熱一體機 第一道-複合式濾芯",
-      "price": "$2,119",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/h5b/255946411966494.jpg"
     },
     {
       "code": "145617",
@@ -13035,6 +12955,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h92/48225194672158.jpg"
     },
     {
+      "code": "638219",
+      "name": "EZ'n 食物烹調專用紙 30公分 X 75 公尺 X 2入",
+      "price": "$429",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h5b/170277704335390.jpg"
+    },
+    {
       "code": "636341",
       "name": "Finlandia 1800 餐桌椅七件組",
       "price": "$24,999",
@@ -13331,14 +13259,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h21/ha7/449275419656222.jpg"
     },
     {
-      "code": "1861774",
-      "name": "Thomasville 布面三人座沙發",
-      "price": "$16,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/h6f/345530321469470.jpg"
-    },
-    {
       "code": "1861704",
       "name": "Thomasville 布面模塊沙發六件組",
       "price": "$31,999",
@@ -13417,6 +13337,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h84/h80/491324471345182.jpg"
+    },
+    {
+      "code": "162384",
+      "name": "飛利浦 木質黑膠藍牙唱盤 The Tina TAV9000",
+      "price": "$21,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h46/h56/491324370092062.jpg"
     },
     {
       "code": "162334",
@@ -13685,7 +13613,7 @@
     {
       "code": "161275",
       "name": "Samsung Bespoke AI 智慧電子衣櫥 DF18CB8600WRTW",
-      "price": "$39,999",
+      "price": "$34,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/hf6/471660395167774.jpg"
@@ -14553,6 +14481,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h1e/401756000026654.jpg"
+    },
+    {
+      "code": "157213",
+      "name": "海爾 218公升 一級能效 雙門節能變頻冰箱 HRF-238FTA",
+      "price": "$11,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3c/h80/418236469280798.jpg"
     },
     {
       "code": "157136",
@@ -17939,6 +17875,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h81/h57/466199061331998.jpg"
     },
     {
+      "code": "125656-B",
+      "name": "CASA 經典優質三角靠墊 60公分 X 50公分 X 30公分",
+      "price": "$499",
+      "original_price": "$639",
+      "discount": "$140",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h89/hf8/17394159026206.jpg"
+    },
+    {
       "code": "159382",
       "name": "Caliphil 美國棉單人床包枕套三件組 107公分 X 190公分 森綠",
       "price": "$799",
@@ -17955,12 +17899,28 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6e/h73/333377584693278.jpg"
     },
     {
+      "code": "150461",
+      "name": "Boutique Living 400織萊賽爾床包 6件組 雙人加大尺寸",
+      "price": "$1,919",
+      "original_price": "$2,399",
+      "discount": "$480",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h62/h22/471660180537374.jpg"
+    },
+    {
       "code": "151428",
       "name": "Anda Seat 皮革電競椅 黑",
       "price": "$3,649",
       "original_price": "$4,599",
       "discount": "$950",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h0b/344500464615454.jpg"
+    },
+    {
+      "code": "150925",
+      "name": "Don Home 萊賽爾雙人兩用被套6件組 格韻",
+      "price": "$2,079",
+      "original_price": "$2,599",
+      "discount": "$520",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h24/h6c/327562421043230.jpg"
     },
     {
       "code": "147515",
@@ -18011,6 +17971,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/hca/295028600668190.jpg"
     },
     {
+      "code": "114499",
+      "name": "幻知曲 單人天然舒柔防水保潔墊 2件組 107公分 X 190公分 X 38公分",
+      "price": "$615",
+      "original_price": "$769",
+      "discount": "$154",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/h05/47771978596382.jpg"
+    },
+    {
       "code": "147510",
       "name": "MIT卡通兒童睡墊枕被組 三麗鷗大耳狗 奶油捲捲 藍",
       "price": "$719",
@@ -18033,6 +18001,14 @@
       "original_price": "$899",
       "discount": "$180",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h11/296816273948702.jpg"
+    },
+    {
+      "code": "157491",
+      "name": "歐樂B iO Gentle 微震科技充電式電動牙刷 2握柄+8刷頭",
+      "price": "$4,089",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc4/hb2/466198998417438.jpg"
     },
     {
       "code": "138020",
@@ -18091,6 +18067,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hed/220200317255710.jpg"
     },
     {
+      "code": "148079",
+      "name": "KOIZUMI 極潤雙倍負離子毛麟修護吹風機 KHD-G120-PE",
+      "price": "$1,759",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h83/278946149892126.jpg"
+    },
+    {
       "code": "146322",
       "name": "飛利浦 Sonicare 兒童充電式音波電動牙刷組 HX3603/03",
       "price": "$2,049",
@@ -18131,12 +18115,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h91/h82/471660197576734.jpg"
     },
     {
-      "code": "153509",
-      "name": "LG 65吋 OLED AI 4K 智慧顯示器 OLED65B5PTA",
-      "price": "$49,999",
+      "code": "153109",
+      "name": "Anda Seat 網布電競椅 彩灰",
+      "price": "$4,997",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he2/h42/438072165498910.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/h1c/367883445272606.jpg"
+    },
+    {
+      "code": "150983",
+      "name": "Panasonic 10.5公斤溫水滾筒洗衣機 NA-V105NW-W + 10公斤 熱泵除濕式乾衣機 NH-100RP-W",
+      "price": "$47,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h40/hca/312616235073566.jpg"
     },
     {
       "code": "155763",
@@ -18147,12 +18139,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8f/h9a/383052759728158.jpg"
     },
     {
-      "code": "143007",
-      "name": "Samsung 812公升四門冰箱 RF29BB82008BTW",
-      "price": "$49,999",
+      "code": "145725-B",
+      "name": "A.O. 史密斯 RO逆滲透淨熱一體機 第一道-複合式濾芯",
+      "price": "$2,119",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7a/hed/191494170804254.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb9/h5b/255946411966494.jpg"
     },
     {
       "code": "131161",
@@ -18211,12 +18203,12 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/h36/187326798692382.jpg"
     },
     {
-      "code": "638219",
-      "name": "EZ'n 食物烹調專用紙 30公分 X 75 公尺 X 2入",
-      "price": "$429",
+      "code": "1861774",
+      "name": "Thomasville 布面三人座沙發",
+      "price": "$16,899",
       "original_price": null,
       "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h5b/170277704335390.jpg"
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h4d/h6f/345530321469470.jpg"
     },
     {
       "code": "161869",
@@ -19065,6 +19057,14 @@
       "original_price": "$2,949",
       "discount": "$600",
       "img": "https://www.costco.com.tw/medias/sys_master/products/h10/hf9/8825999589406.jpg"
+    },
+    {
+      "code": "106816",
+      "name": "Trinity 五層多功能大型置物架 黑色",
+      "price": "$2,729",
+      "original_price": "$3,429",
+      "discount": "$700",
+      "img": "https://www.costco.com.tw/medias/sys_master/products/h7b/h5e/8825997819934.jpg"
     },
     {
       "code": "1900509",
@@ -20081,6 +20081,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd4/h55/118957239468062.jpg"
+    },
+    {
+      "code": "151464-B",
+      "name": "FLEX TAPE 飛速強固修補膠帶 8吋 單捲",
+      "price": "$999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfe/h76/329177254756382.jpg"
     },
     {
       "code": "148407",
@@ -21147,14 +21155,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/h81/245391149465630.jpg"
     },
     {
-      "code": "106816",
-      "name": "Trinity 五層多功能大型置物架 黑色",
-      "price": "$2,729",
-      "original_price": "$3,429",
-      "discount": "$700",
-      "img": "https://www.costco.com.tw/medias/sys_master/products/h7b/h5e/8825997819934.jpg"
-    },
-    {
       "code": "142896",
       "name": "IRIS OHYAMA 抽屜式收納盒 37公升 X 3入 MBC-LD",
       "price": "$1,599",
@@ -21169,14 +21169,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4e/h63/10562785771550.jpg"
-    },
-    {
-      "code": "151464-B",
-      "name": "FLEX TAPE 飛速強固修補膠帶 8吋 單捲",
-      "price": "$999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfe/h76/329177254756382.jpg"
     },
     {
       "code": "994798",
@@ -21289,22 +21281,6 @@
       "original_price": "$1,899",
       "discount": "$375",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h58/h89/383295736315934.jpg"
-    },
-    {
-      "code": "155690",
-      "name": "Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入",
-      "price": "$619",
-      "original_price": "$779",
-      "discount": "$160",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h38/h7c/384001258946590.jpg"
-    },
-    {
-      "code": "155689",
-      "name": "Alepia Marseille 液態馬賽皂 檸檬 1000毫升 X 2入",
-      "price": "$619",
-      "original_price": "$779",
-      "discount": "$160",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h14/hb5/384001258684446.jpg"
     },
     {
       "code": "199500",
@@ -22841,14 +22817,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h46/397422695874590.jpg"
-    },
-    {
-      "code": "141279",
-      "name": "樂維根 優蛋白隨身包 無加糖組合 40公克 X 60入 (杏仁/芝麻/豆漿)",
-      "price": "$1,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf0/h7a/417417006841886.jpg"
     },
     {
       "code": "139916",
@@ -25313,14 +25281,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha9/hd8/396189719724062.jpg"
-    },
-    {
-      "code": "155638",
-      "name": "Tryall 分離豌豆植物蛋白 烏龍奶茶風味 2.5公斤",
-      "price": "$1,279",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h8e/397422606516254.jpg"
     },
     {
       "code": "152997",
@@ -28851,6 +28811,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/hb1/187953582276638.jpg"
     },
     {
+      "code": "255683",
+      "name": "NARD 頭皮深層淨化洗髮精 500毫升 X 2入",
+      "price": "$459",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h91/h0f/492247843700766.jpg"
+    },
+    {
       "code": "255682",
       "name": "NARD 草本強健髮根洗髮精 500毫升 X 2入",
       "price": "$459",
@@ -29483,6 +29451,22 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h40/432345311608862.jpg"
     },
     {
+      "code": "155690",
+      "name": "Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入",
+      "price": "$619",
+      "original_price": "$779",
+      "discount": "$160",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h38/h7c/384001258946590.jpg"
+    },
+    {
+      "code": "155689",
+      "name": "Alepia Marseille 液態馬賽皂 檸檬 1000毫升 X 2入",
+      "price": "$619",
+      "original_price": "$779",
+      "discount": "$160",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h14/hb5/384001258684446.jpg"
+    },
+    {
       "code": "151637",
       "name": "亞培 安素 Plus Advance 均衡營養升級即飲 EX 配方 添加 CaHMB 220毫升 X 24瓶",
       "price": "$2,499",
@@ -29513,6 +29497,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h6d/434451474612254.jpg"
+    },
+    {
+      "code": "141279",
+      "name": "樂維根 優蛋白隨身包 無加糖組合 40公克 X 60入 (杏仁/芝麻/豆漿)",
+      "price": "$1,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf0/h7a/417417006841886.jpg"
     },
     {
       "code": "146157",
@@ -29593,6 +29585,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h02/h79/63704105025566.jpg"
+    },
+    {
+      "code": "155638",
+      "name": "Tryall 分離豌豆植物蛋白 烏龍奶茶風味 2.5公斤",
+      "price": "$1,279",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h8e/397422606516254.jpg"
     },
     {
       "code": "231553",
@@ -29979,14 +29979,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/he0/311441851285534.jpg"
     },
     {
-      "code": "1498699",
-      "name": "Nu-Pure 泉水 250毫升 X 40瓶",
-      "price": "$275",
-      "original_price": "$315",
-      "discount": "$40",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/h03/369280609714206.jpg"
-    },
-    {
       "code": "526453",
       "name": "奧利奧 香草口味夾心餅乾 105公克 X 21入",
       "price": "$439",
@@ -30089,14 +30081,6 @@
       "original_price": "$399",
       "discount": "$160",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2f/hda/325606304907294.jpg"
-    },
-    {
-      "code": "160594",
-      "name": "王品 青花驕特釀酸梅汁 1500毫升 X 6入",
-      "price": "$459",
-      "original_price": "$559",
-      "discount": "$100",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h60/452750397112350.jpg"
     },
     {
       "code": "915777",
@@ -30827,6 +30811,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h98/h74/31395526180894.jpg"
     },
     {
+      "code": "1498699",
+      "name": "Nu-Pure 泉水 250毫升 X 40瓶",
+      "price": "$315",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/h03/369280609714206.jpg"
+    },
+    {
       "code": "1212069",
       "name": "Kokiri 哇象海苔捲原味 5公克 X 22袋",
       "price": "$379",
@@ -30849,6 +30841,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/heb/h51/223676730769438.jpg"
+    },
+    {
+      "code": "1498677",
+      "name": "Nu-Pure 氣泡水 500毫升 X 30瓶",
+      "price": "$419",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/h60/240878246035486.jpg"
     },
     {
       "code": "112958",
@@ -31197,7 +31197,7 @@
     {
       "code": "56879",
       "name": "西雅圖 即品拿鐵 21公克 X 100入",
-      "price": "$699",
+      "price": "$779",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h77/h84/167692471173150.jpg"
@@ -31537,6 +31537,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hae/h5e/11106092777502.jpg"
+    },
+    {
+      "code": "160594",
+      "name": "王品 青花驕特釀酸梅汁 1500毫升 X 6入",
+      "price": "$559",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h60/452750397112350.jpg"
     },
     {
       "code": "119169",
@@ -33005,7 +33013,7 @@
     {
       "code": "430804",
       "name": "金寶 新英倫蛤蜊濃湯 1.36公斤 X 2入",
-      "price": "$375",
+      "price": "$399",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he3/h93/156752513761310.jpg"
@@ -35117,7 +35125,7 @@
     {
       "code": "150636",
       "name": "雀巢 西西里風檸檬咖啡 15公克 X 40入",
-      "price": "$489",
+      "price": "$469",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h86/h35/414650590593054.jpg"
@@ -36349,7 +36357,7 @@
     {
       "code": "880451",
       "name": "Garofalo 筆尖形義大利麵 500公克 X 6入",
-      "price": "$379",
+      "price": "$369",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hf3/11953661116446.jpg"
@@ -36409,6 +36417,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7f/h17/80298186768414.webp"
+    },
+    {
+      "code": "2331629",
+      "name": "BASSÉ 巴西堅果 680公克",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/hdd/397823972900894.jpg"
     },
     {
       "code": "161522",
@@ -38523,6 +38539,22 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf3/ha4/364547112697886.jpg"
     },
     {
+      "code": "162576",
+      "name": "味好美 經典煙燻BBQ醬 1.3公斤",
+      "price": "$319",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he2/h8f/491698059083806.jpg"
+    },
+    {
+      "code": "162450",
+      "name": "園果園味 綜合果乾禮盒 645公克",
+      "price": "$419",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h21/h1d/491324379070494.jpg"
+    },
+    {
       "code": "162164",
       "name": "布列德 藍莓乳酪軟歐 6入",
       "price": "點入確認價格",
@@ -38621,7 +38653,7 @@
     {
       "code": "156879",
       "name": "西雅圖 即品拿鐵 21公克 X 100入 X 120組",
-      "price": "$83,699",
+      "price": "$90,879",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd7/h5d/139741436608542.jpg"
@@ -38633,6 +38665,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h81/hfd/139741435232286.jpg"
+    },
+    {
+      "code": "155744",
+      "name": "大田海洋 十三香辣鱈魚寬片 250公克 X 3包",
+      "price": "$329",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hd2/h57/386411412455454.jpg"
     },
     {
       "code": "154399",
@@ -38995,22 +39035,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
     },
     {
-      "code": "1498677",
-      "name": "Nu-Pure 氣泡水 500毫升 X 30瓶",
-      "price": "$349",
-      "original_price": "$419",
-      "discount": "$70",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb3/h60/240878246035486.jpg"
-    },
-    {
-      "code": "135621",
-      "name": "格力高 杏仁果飲 原味 196毫升 X 12瓶",
-      "price": "$349",
-      "original_price": "$429",
-      "discount": "$80",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h5d/206032508977182.jpg"
-    },
-    {
       "code": "144788",
       "name": "農心 海苔味杯麵 65公克 X 12入",
       "price": "$299",
@@ -39089,6 +39113,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h35/hab/65992237088798.jpg"
+    },
+    {
+      "code": "135621",
+      "name": "格力高 杏仁果飲 原味 196毫升 X 12瓶",
+      "price": "$349",
+      "original_price": "$429",
+      "discount": "$80",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h5d/206032508977182.jpg"
     },
     {
       "code": "109326",
@@ -39243,14 +39275,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h50/hde/174614641901598.jpg"
     },
     {
-      "code": "314725",
-      "name": "玉美 雙色水果玉米 220克 X 10入",
-      "price": "$549",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h32/hac/66470246055966.jpg"
-    },
-    {
       "code": "133328",
       "name": "空運日本和歌山縣水蜜桃禮盒 1.8公斤 (6-7入)",
       "price": "$1,899",
@@ -39273,14 +39297,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/he0/98597686902814.jpg"
-    },
-    {
-      "code": "2331629",
-      "name": "BASSÉ 巴西堅果 680公克",
-      "price": "$599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb7/hdd/397823972900894.jpg"
     },
     {
       "code": "161949",
@@ -39765,9 +39781,9 @@
     {
       "code": "217975",
       "name": "Adidas 女短襪六入組",
-      "price": "$379",
-      "original_price": null,
-      "discount": null,
+      "price": "$299",
+      "original_price": "$379",
+      "discount": "$80",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h47/h1d/419358418305054.jpg"
     },
     {
@@ -41891,14 +41907,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7e/hfc/386019904618526.jpg"
     },
     {
-      "code": "141052",
-      "name": "Puma 男平口內褲五入組 L號",
-      "price": "$599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h1b/350548253605918.jpg"
-    },
-    {
       "code": "141050",
       "name": "Puma 男平口內褲五入組 S號",
       "price": "$599",
@@ -42299,14 +42307,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5d/h60/467794354634782.jpg"
     },
     {
-      "code": "260397",
-      "name": "COACH 太陽眼鏡 0HC8395U 581274 粉色",
-      "price": "$2,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h1f/438035520094238.jpg"
-    },
-    {
       "code": "260309",
       "name": "Juicy Couture 太陽眼鏡 JU 637/G/S VGZ9O 藍色",
       "price": "$2,399",
@@ -42561,6 +42561,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdc/h91/228120215617566.jpg"
+    },
+    {
+      "code": "155830-B",
+      "name": "Eminent Xander 20吋 可擴充拉鍊行李箱",
+      "price": "$3,889",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha1/h56/151586376450078.jpg"
     },
     {
       "code": "155724",
@@ -43523,12 +43531,44 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb1/hdf/483940834934814.jpg"
     },
     {
+      "code": "2010448",
+      "name": "DKNY Jeans 女短袖上衣",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/h77/492430114652190.jpg"
+    },
+    {
+      "code": "1956764",
+      "name": "Nautica 女長袖睡衣套組",
+      "price": "$1,245",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h51/487711207817246.jpg"
+    },
+    {
       "code": "1956458",
       "name": "Unionbay 兒童彈性長褲",
       "price": "$519",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h98/hfb/438876325445662.jpg"
+    },
+    {
+      "code": "1956385",
+      "name": "Calvin Klein 女無鋼圈內衣兩件組",
+      "price": "$999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hfc/h36/492571171422238.jpg"
+    },
+    {
+      "code": "1956383",
+      "name": "Weatherproof Vintage 女開襟衫",
+      "price": "$739",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/ha9/488032604684318.jpg"
     },
     {
       "code": "1956373",
@@ -43721,6 +43761,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hed/hb1/484306879709214.jpg"
+    },
+    {
+      "code": "160176",
+      "name": "台灣Logo全開拉鍊式夾克外套",
+      "price": "$1,049",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h98/hda/487711013044254.jpg"
     },
     {
       "code": "159783",
@@ -44451,6 +44499,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hba/h4d/84088454709278.jpg"
     },
     {
+      "code": "1344736",
+      "name": "Tory Burch 女涼鞋",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1f/ha8/501514794008606.jpg"
+    },
+    {
       "code": "133928",
       "name": "Frederique Constant Slimline Power Reserve Manufacture系列 男錶 FC-723WR3S6",
       "price": "$83,399",
@@ -44611,6 +44667,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha0/h9d/483940915347486.jpg"
     },
     {
+      "code": "141052",
+      "name": "Puma 男平口內褲五入組 L號",
+      "price": "$599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h9a/h1b/350548253605918.jpg"
+    },
+    {
       "code": "260399",
       "name": "COACH 太眼眼鏡 0HC8423U 58902C 綠色",
       "price": "$2,599",
@@ -44619,28 +44683,20 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbb/ha3/438035520847902.jpg"
     },
     {
+      "code": "260397",
+      "name": "COACH 太陽眼鏡 0HC8395U 581274 粉色",
+      "price": "$2,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h1f/438035520094238.jpg"
+    },
+    {
       "code": "1572964",
       "name": "Hamilton 男錶 H13431553 - 1572964",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbc/h7c/486580055867422.jpg"
-    },
-    {
-      "code": "155830-B",
-      "name": "Eminent Xander 20吋 可擴充拉鍊行李箱",
-      "price": "$3,889",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha1/h56/151586376450078.jpg"
-    },
-    {
-      "code": "1956387",
-      "name": "Scotch & Soda 女圓領短袖上衣",
-      "price": "$419",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h33/421141215510558.jpg"
     },
     {
       "code": "8527267-BLU",
@@ -44673,6 +44729,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h93/h5b/364420534272030.jpg"
+    },
+    {
+      "code": "1961251",
+      "name": "Skechers 男運動鞋",
+      "price": "$1,359",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hed/ha9/466558878154782.jpg"
     },
     {
       "code": "1594180",
@@ -44729,14 +44793,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hae/33958123274270.jpg"
-    },
-    {
-      "code": "153271",
-      "name": "PAMP 可口可樂 黃金條塊 999.9純金 5公克",
-      "price": "$26,389",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h6a/487710238081054.jpg"
     },
     {
       "code": "156595",
@@ -48475,6 +48531,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/hdf/10520065474590.jpg"
     },
     {
+      "code": "153271",
+      "name": "PAMP 可口可樂 黃金條塊 999.9純金 5公克",
+      "price": "$26,389",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h6a/487710238081054.jpg"
+    },
+    {
       "code": "159850",
       "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
       "price": "$24,649",
@@ -48721,14 +48785,6 @@
       "original_price": "$1,549",
       "discount": "$310",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h92/hba/487711265226782.jpg"
-    },
-    {
-      "code": "1807116",
-      "name": "Duro 32吋木炭烤肉爐",
-      "price": "$8,699",
-      "original_price": "$10,899",
-      "discount": "$2,200",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h1a/346355961298974.jpg"
     },
     {
       "code": "151179",
@@ -51353,14 +51409,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/h27/262758119079966.jpg"
-    },
-    {
-      "code": "144930",
-      "name": "Waymax X9 電動滑板車",
-      "price": "$18,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/hd6/243588312039454.jpg"
     },
     {
       "code": "144927",
@@ -56059,14 +56107,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h09/h4b/487910023528478.jpg"
     },
     {
-      "code": "151831",
-      "name": "米其林 245/60 R18 105V Primacy SUV + 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
       "code": "151830",
       "name": "米其林 245/45 R17 99Y Extra Load Pilot Sport 4 S 輪胎",
       "price": "點入確認價格",
@@ -60547,14 +60587,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf8/hd3/17021592698910.jpg"
     },
     {
-      "code": "1134165",
-      "name": "Dr.RIN 無煙球形炭 5公斤 X 90入",
-      "price": "$23,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/hf3/490097817190430.jpg"
-    },
-    {
       "code": "112976",
       "name": "米其林 205/55 R16 94W PS4 輪胎",
       "price": "點入確認價格",
@@ -60651,6 +60683,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h39/hac/433249382694942.jpg"
     },
     {
+      "code": "1807116",
+      "name": "Duro 32吋木炭烤肉爐",
+      "price": "$8,699",
+      "original_price": "$10,899",
+      "discount": "$2,200",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h1a/346355961298974.jpg"
+    },
+    {
       "code": "140830",
       "name": "KOVEA 雙人鍋具組 KSK-SOLO2",
       "price": "$695",
@@ -60697,14 +60737,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc6/h20/437687072751646.jpg"
-    },
-    {
-      "code": "153882",
-      "name": "普利司通 195/65 R15 91H EP150 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/34195789840414.jpg"
     },
     {
       "code": "147937",
@@ -60833,6 +60865,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha8/hdd/224528604364830.jpg"
+    },
+    {
+      "code": "144930",
+      "name": "Waymax X9 電動滑板車",
+      "price": "$18,199",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h22/hd6/243588312039454.jpg"
     },
     {
       "code": "163317",
@@ -62171,24 +62211,8 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4c/h14/34195825885214.jpg"
     },
     {
-      "code": "147897",
-      "name": "米其林 215/50 R18 92V PRIMACY SUV + 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
       "code": "147896",
       "name": "米其林 225/55 R19 99V PRIMACY SUV + 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "147894",
-      "name": "米其林 255/50 R20 109V EXTRA LOAD PRIMACY SUV + 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -62269,14 +62293,6 @@
     {
       "code": "147829",
       "name": "米其林 235/55 R18 104V EXTRA LOAD LATITUDE SPORT 3 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2d/h84/487916152389662.jpg"
-    },
-    {
-      "code": "147821",
-      "name": "米其林 255/50 R19 107W EXTRA LOAD LATITUDE SPORT 3 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -62451,40 +62467,8 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h06/487910064979998.jpg"
     },
     {
-      "code": "147274",
-      "name": "米其林 235/40 R19 96Y PSEV 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h06/487910064979998.jpg"
-    },
-    {
       "code": "147270",
       "name": "米其林 255/40 R21 102Y PSEV 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h06/487910064979998.jpg"
-    },
-    {
-      "code": "147268",
-      "name": "米其林 265/40 R21 105Y PSEV 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h06/487910064979998.jpg"
-    },
-    {
-      "code": "147263",
-      "name": "米其林 235/50 R20 104Y PSEV 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h06/487910064979998.jpg"
-    },
-    {
-      "code": "147255",
-      "name": "米其林 255/45 R19 104W PSEV 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -62619,32 +62603,8 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h71/224528607182878.jpg"
     },
     {
-      "code": "141891",
-      "name": "米其林 235/60 R18 103W ePrimacy 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h0d/491576808243230.jpg"
-    },
-    {
-      "code": "141889",
-      "name": "米其林 235/45 R18 98W Extraload ePrimacy 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h0d/491576808243230.jpg"
-    },
-    {
       "code": "141887",
       "name": "米其林 225/60 R18 104V Extra Load Eprimacy 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h0d/491576808243230.jpg"
-    },
-    {
-      "code": "141886",
-      "name": "米其林 225/50 R18 99W Extraload ePrimacy 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -62675,14 +62635,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h68/h3c/34195791511582.jpg"
     },
     {
-      "code": "138743",
-      "name": "米其林 235/60 R17 102V Primacy SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
       "code": "138406",
       "name": "馬牌 245/45 R18 100Y PC6 輪胎",
       "price": "點入確認價格",
@@ -62697,70 +62649,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8d/h2a/17183028707358.jpg"
-    },
-    {
-      "code": "136583",
-      "name": "米其林 265/70 16吋 112H Primacy SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136582",
-      "name": "米其林 265/60 18吋 110H Primacy SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136563",
-      "name": "米其林 235/65 18吋 106H Primacy SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136561",
-      "name": "米其林 245/70 16吋 111H Primacy SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136539",
-      "name": "米其林 235/55 R20 102V SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136538",
-      "name": "米其林 235/65 R17 108V SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd6/hfe/102901184987166.jpg"
-    },
-    {
-      "code": "136533",
-      "name": "米其林 215/70 R16 100H SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h31/hbe/487910015500318.jpg"
-    },
-    {
-      "code": "136528",
-      "name": "米其林 225/60 R18 100H SUV+ 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hd6/hfe/102901184987166.jpg"
     },
     {
       "code": "135314",
@@ -62915,22 +62803,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hdf/34195790823454.jpg"
     },
     {
-      "code": "125554",
-      "name": "普利司通 205/55 16吋 EP150 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h96/ha2/34195789840414.jpg"
-    },
-    {
-      "code": "125163",
-      "name": "米其林 215/50 18吋 92W Primacy 3 ST AO 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb2/he2/487912506097694.jpg"
-    },
-    {
       "code": "124670",
       "name": "米其林 275/45 21吋 PILOT SPORT 4 SUV 輪胎",
       "price": "點入確認價格",
@@ -63043,6 +62915,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h31/h74/487900253650974.jpg"
     },
     {
+      "code": "1134165",
+      "name": "Dr.RIN 無煙球形炭 5公斤 X 90入",
+      "price": "$23,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h43/hf3/490097817190430.jpg"
+    },
+    {
       "code": "112974",
       "name": "米其林 235/45 R17 97Y PS4 輪胎",
       "price": "點入確認價格",
@@ -63057,14 +62937,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h31/h74/487900253650974.jpg"
-    },
-    {
-      "code": "1768085",
-      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
-      "price": "$609",
-      "original_price": "$669",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h0d/260838171934750.jpg"
     },
     {
       "code": "1677453",
@@ -63187,6 +63059,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hde/hb6/228120350031902.jpg"
     },
     {
+      "code": "1768085",
+      "name": "科克蘭 兩層隨意撕特級廚房紙巾 160張 X 12捲",
+      "price": "$669",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/h0d/260838171934750.jpg"
+    },
+    {
       "code": "1713045",
       "name": "科克蘭 捲筒衛生紙 425張 X 30捲",
       "price": "$539",
@@ -63221,7 +63101,7 @@
     {
       "code": "1652990",
       "name": "科克蘭濕式衛生紙 64張 X 10包",
-      "price": "$519",
+      "price": "$529",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h73/ha8/223144512815134.jpg"
@@ -63620,7 +63500,7 @@
     },
     {
       "code": "60574",
-      "name": "Seeds 惜時 雞肉里肌長片 1公斤",
+      "name": "Seeds 惜時 雞肉里肌長片 250公克 X 4入",
       "price": "$939",
       "original_price": null,
       "discount": null,
@@ -66715,6 +66595,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h79/62863312748574.jpg"
     },
     {
+      "code": "556003",
+      "name": "法拉夏 馬賽皂洗碗精 500毫升 X 3入",
+      "price": "$725",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h88/he5/501515261345822.jpg"
+    },
+    {
       "code": "46629",
       "name": "Maisto 1:18 收藏模型車",
       "price": "$649",
@@ -66739,12 +66627,68 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h4a/h8c/422091110842398.jpg"
     },
     {
+      "code": "256006",
+      "name": "法拉夏 地板清潔劑 1公升 X 2入",
+      "price": "$725",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h15/h74/501515181064222.jpg"
+    },
+    {
+      "code": "256004",
+      "name": "法拉夏 去汙馬賽皂 300公克 X 4入",
+      "price": "$899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h72/h10/501515180736542.jpg"
+    },
+    {
+      "code": "256002",
+      "name": "法拉夏 多用途清潔噴霧 500毫升 X 2入",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h94/h52/501515180539934.jpg"
+    },
+    {
+      "code": "256001",
+      "name": "法拉夏 多用途黑皂液 1公升 X 2入",
+      "price": "$1,029",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc3/hd6/501515180081182.jpg"
+    },
+    {
       "code": "2529177",
       "name": "Scoop Away 超凝結貓砂 4.76公斤 X 4入 X 52箱",
       "price": "$35,999",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h69/h54/240878322843678.jpg"
+    },
+    {
+      "code": "241093",
+      "name": "法拉夏 除垢清潔噴霧 500毫升 X 2入",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hea/h83/501515176706078.jpg"
+    },
+    {
+      "code": "238833",
+      "name": "法拉夏 薰衣草黑皂液 1公升 X 2入",
+      "price": "$1,029",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/h42/501515177656350.jpg"
+    },
+    {
+      "code": "238832",
+      "name": "法拉夏 馬賽皂濃縮洗衣精 2公升 / 40蓋次",
+      "price": "$879",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/h05/501515177263134.jpg"
     },
     {
       "code": "210700",
@@ -68283,14 +68227,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/hfc/345757630398494.jpg"
     },
     {
-      "code": "162377",
-      "name": "LEGO Star Wars 系列 賈霸飛船 75397 / 18歲以上",
-      "price": "$9,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/hd2/485340868313118.jpg"
-    },
-    {
       "code": "135436",
       "name": "中英台點讀百科:1200個單字 + 100句會話 + 20首歌謠 - FOOD超人",
       "price": "$1,049",
@@ -69001,6 +68937,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h66/h94/368495164948510.jpg"
+    },
+    {
+      "code": "146045",
+      "name": "智利紅葡萄酒 750毫升",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h66/hc7/501514802659358.jpg"
     },
     {
       "code": "146031",
@@ -74601,14 +74545,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h44/h00/468223509299230.jpg"
-    },
-    {
-      "code": "125978",
-      "name": "石安牧場 冷藏杏仁豆腐 8入",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hfd/h76/115072910327838.jpg"
     },
     {
       "code": "124322",
