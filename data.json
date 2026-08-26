@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/8/27 上午1:04:40",
+  "updated_at": "2026/8/27 上午6:55:08",
   "count": 9445,
   "items": [
     {
@@ -1601,14 +1601,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/haf/h44/467458644377630.jpg"
-    },
-    {
-      "code": "158484",
-      "name": "TP-Link Tapo D210 智慧門鈴",
-      "price": "$1,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
     },
     {
       "code": "157831",
@@ -3699,6 +3691,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h11/hee/453636608360478.jpg"
     },
     {
+      "code": "158484",
+      "name": "TP-Link Tapo D210 智慧門鈴",
+      "price": "$1,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hc1/448868349050910.jpg"
+    },
+    {
       "code": "149546-B",
       "name": "Apple iMac 24吋 搭配 M4 晶片 8核心 CPU 8核心 GPU 256GB SSD",
       "price": "$46,699",
@@ -4937,14 +4937,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h56/he2/490097854414878.jpg"
-    },
-    {
-      "code": "1324688",
-      "name": "Over & Back 彩繪花紋馬克杯 414毫升 X 6件組",
-      "price": "$457",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h10/h44/433249361264670.jpg"
     },
     {
       "code": "128761",
@@ -17915,6 +17907,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hdc/348867519119390.jpg"
     },
     {
+      "code": "1324688",
+      "name": "Over & Back 彩繪花紋馬克杯 414毫升 X 6件組",
+      "price": "$457",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h10/h44/433249361264670.jpg"
+    },
+    {
       "code": "157491",
       "name": "歐樂B iO Gentle 微震科技充電式電動牙刷 2握柄+8刷頭",
       "price": "$4,089",
@@ -29995,6 +29995,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h9f/368770706243614.jpg"
     },
     {
+      "code": "888668",
+      "name": "翠果子 古早味手工黑芝麻糕 480公克",
+      "price": "$269",
+      "original_price": "$329",
+      "discount": "$60",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
+    },
+    {
       "code": "111424",
       "name": "嘉紛娜 100% 橙香多酚蔬果汁 250毫升 X 24入",
       "price": "$459",
@@ -30249,6 +30257,14 @@
       "original_price": "$615",
       "discount": "$130",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbe/h99/325606391480350.jpg"
+    },
+    {
+      "code": "211681",
+      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
+      "price": "$949",
+      "original_price": "$1,189",
+      "discount": "$240",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
     },
     {
       "code": "960667",
@@ -31675,6 +31691,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h25/h61/66470168330270.jpg"
     },
     {
+      "code": "111681",
+      "name": "翠果子 綜合米果 20公克 X 30入",
+      "price": "$315",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
+    },
+    {
       "code": "204989",
       "name": "桂格 即沖即食大燕麥片隨身包 37.5公克 X 44入",
       "price": "$569",
@@ -32049,6 +32073,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd8/hdb/81084509454366.jpg"
+    },
+    {
+      "code": "888688",
+      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
+      "price": "$369",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
     },
     {
       "code": "336249",
@@ -32881,6 +32913,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf6/hca/86784922124318.jpg"
+    },
+    {
+      "code": "298723",
+      "name": "Binggrae 哈密瓜牛奶 保久調味乳 200毫升 X 24入",
+      "price": "$699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb9/386020563910686.jpg"
     },
     {
       "code": "2308244",
@@ -39075,6 +39115,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd3/hfc/138405421154334.jpg"
     },
     {
+      "code": "121593",
+      "name": "翠果子 綜合米果 600公克 X 150箱",
+      "price": "$41,249",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
+    },
+    {
       "code": "121206",
       "name": "BigFoot 薄荷岩鹽檸檬糖 900公克",
       "price": "點入確認價格",
@@ -39147,14 +39195,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
-      "code": "888668",
-      "name": "翠果子 古早味手工黑芝麻糕 480公克",
-      "price": "$269",
-      "original_price": "$329",
-      "discount": "$60",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h7c/h92/298414615429150.jpg"
-    },
-    {
       "code": "3985077",
       "name": "紐西蘭有機富士蘋果 8.5公斤/ 50入",
       "price": "$1,349",
@@ -39185,14 +39225,6 @@
       "original_price": "$419",
       "discount": "$74",
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd1/hdc/346620853026846.jpg"
-    },
-    {
-      "code": "211681",
-      "name": "翠果子 綜合米果 20公克 X 30包 X 4盒",
-      "price": "$949",
-      "original_price": "$1,189",
-      "discount": "$240",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h82/hd8/168536160337950.jpg"
     },
     {
       "code": "253753",
@@ -39283,14 +39315,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h64/heb/190409356804126.jpg"
     },
     {
-      "code": "111681",
-      "name": "翠果子 綜合米果 20公克 X 30入",
-      "price": "$315",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hac/h0a/34118065487902.jpg"
-    },
-    {
       "code": "666249",
       "name": "丹尼船長 高蛋白洋芋片 炙烤蒜香玫瑰鹽味 50公克 X 8入",
       "price": "$389",
@@ -39307,14 +39331,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h38/hc3/204600127488030.jpg"
     },
     {
-      "code": "888688",
-      "name": "翠果子 杏仁海苔天婦羅點心包 500公克",
-      "price": "$369",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h3f/hb6/202360358699038.jpg"
-    },
-    {
       "code": "146645",
       "name": "福太郎 北海道蝦味煎餅 2片 X 16包 共 256公克",
       "price": "$439",
@@ -39329,14 +39345,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/hc6/455116840763422.jpg"
-    },
-    {
-      "code": "298723",
-      "name": "Binggrae 哈密瓜牛奶 保久調味乳 200毫升 X 24入",
-      "price": "$699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hb9/386020563910686.jpg"
     },
     {
       "code": "979885",
@@ -39753,14 +39761,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he0/hb8/401755498184734.jpg"
-    },
-    {
-      "code": "121593",
-      "name": "翠果子 綜合米果 600公克 X 150箱",
-      "price": "$41,249",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/hd4/27140125229086.jpg"
     },
     {
       "code": "1111893",
@@ -45099,6 +45099,46 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hae/33958123274270.jpg"
     },
     {
+      "code": "156594",
+      "name": "音速小子 35週年 999.9 純金條塊 0.5公克",
+      "price": "$3,899",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/h7f/455933280780318.jpg"
+    },
+    {
+      "code": "153271",
+      "name": "PAMP 可口可樂 黃金條塊 999.9純金 5公克",
+      "price": "$26,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h6a/487710238081054.jpg"
+    },
+    {
+      "code": "146047",
+      "name": "PAMP 財富女神黃金條塊 999.9純金 20公克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/hb6/238306456928286.jpg"
+    },
+    {
+      "code": "155641",
+      "name": "PAMP 財富女神 黃金條塊 999.9純金 5公克",
+      "price": "$26,399",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h78/379641020088350.jpg"
+    },
+    {
+      "code": "146044",
+      "name": "PAMP 財富女神黃金條塊 999.9純金 10公克",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h71/238306457190430.jpg"
+    },
+    {
       "code": "2040101",
       "name": "2.0克拉 14K白K金 圓形鑽石手環 VS2/G",
       "price": "$83,999",
@@ -46819,6 +46859,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h15/hc8/396189793452062.jpg"
     },
     {
+      "code": "159850",
+      "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
+      "price": "$26,599",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/heb/490097849368606.jpg"
+    },
+    {
       "code": "1592429",
       "name": "0.66克拉 18K白K金 圓形鑽石耳環 VS2/I - 1592429",
       "price": "$41,799",
@@ -47249,6 +47297,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h72/h5e/79615065489438.jpg"
+    },
+    {
+      "code": "155600",
+      "name": "PAMP 財富女神 黃金條塊 999.9純金 2.5公克",
+      "price": "$13,399",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/haa/379641020022814.jpg"
     },
     {
       "code": "155529",
@@ -48723,46 +48779,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/hdf/10520065474590.jpg"
     },
     {
-      "code": "156594",
-      "name": "音速小子 35週年 999.9 純金條塊 0.5公克",
-      "price": "$3,899",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h63/h7f/455933280780318.jpg"
-    },
-    {
-      "code": "153271",
-      "name": "PAMP 可口可樂 黃金條塊 999.9純金 5公克",
-      "price": "$26,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h6a/487710238081054.jpg"
-    },
-    {
-      "code": "146047",
-      "name": "PAMP 財富女神黃金條塊 999.9純金 20公克",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/ha4/hb6/238306456928286.jpg"
-    },
-    {
-      "code": "155641",
-      "name": "PAMP 財富女神 黃金條塊 999.9純金 5公克",
-      "price": "$26,399",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h78/379641020088350.jpg"
-    },
-    {
-      "code": "146044",
-      "name": "PAMP 財富女神黃金條塊 999.9純金 10公克",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h71/238306457190430.jpg"
-    },
-    {
       "code": "146085",
       "name": "24K黃金耳環 42厘",
       "price": "$8,519",
@@ -48873,22 +48889,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/he6/98731410063390.jpg"
-    },
-    {
-      "code": "159850",
-      "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
-      "price": "$26,599",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/heb/490097849368606.jpg"
-    },
-    {
-      "code": "155600",
-      "name": "PAMP 財富女神 黃金條塊 999.9純金 2.5公克",
-      "price": "$13,399",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/haa/379641020022814.jpg"
     },
     {
       "code": "155515",
