@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/9/5 下午7:48:38",
+  "updated_at": "2026/9/5 下午10:28:52",
   "count": 9545,
   "items": [
     {
@@ -281,14 +281,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha9/h28/420739619913758.jpg"
-    },
-    {
-      "code": "154938",
-      "name": "三星 32吋 FHD FollowMe 移動式智慧聯網螢幕組 S32FM501EC-FOLLOWME",
-      "price": "$9,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hcf/368770490204190.jpg"
     },
     {
       "code": "147653",
@@ -633,14 +625,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/h8c/295028947288094.jpg"
-    },
-    {
-      "code": "149558",
-      "name": "Apple 巧控板 (USB‑C) 白色多點觸控表面",
-      "price": "$3,585",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h5b/297207003316254.jpg"
     },
     {
       "code": "143001",
@@ -3515,6 +3499,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf7/hc8/431395437215774.jpg"
     },
     {
+      "code": "154938",
+      "name": "三星 32吋 FHD FollowMe 移動式智慧聯網螢幕組 S32FM501EC-FOLLOWME",
+      "price": "$9,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hee/hcf/368770490204190.jpg"
+    },
+    {
       "code": "150078",
       "name": "Apple Pencil Pro",
       "price": "$4,185",
@@ -3561,6 +3553,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h62/hec/439234187722782.jpg"
+    },
+    {
+      "code": "149558",
+      "name": "Apple 巧控板 (USB‑C) 白色多點觸控表面",
+      "price": "$3,585",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/h5b/297207003316254.jpg"
     },
     {
       "code": "161888",
@@ -4027,14 +4027,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h59/h48/483939908354078.jpg"
     },
     {
-      "code": "1987669",
-      "name": "True Innovations 辦公椅",
-      "price": "$2,299",
-      "original_price": "$2,899",
-      "discount": "$600",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/h8f/488919001956382.jpg"
-    },
-    {
       "code": "1909218",
       "name": "Town & Country 長型抗汙地墊 50公分 X 99公分",
       "price": "$339",
@@ -4089,6 +4081,14 @@
       "original_price": "$6,599",
       "discount": "$1,400",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h81/hc0/344500475428894.jpg"
+    },
+    {
+      "code": "145619",
+      "name": "LG 21公斤 AI DD 蒸氣滾筒 蒸洗脫洗衣機 WD-S21VB",
+      "price": "$30,599",
+      "original_price": "$35,999",
+      "discount": "$5,400",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h9c/239741827678238.jpg"
     },
     {
       "code": "649366",
@@ -5611,14 +5611,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0d/h9c/438072178868254.jpg"
     },
     {
-      "code": "138032",
-      "name": "伊萊克斯 32公升 極致美味700 獨立式雙溫控氣炸旋風烤箱 EOT3215XFG",
-      "price": "$4,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h94/h7c/118957256212510.jpg"
-    },
-    {
       "code": "136135",
       "name": "Don Home 萊賽爾素色雙人床包枕套三件組 152公分 X 190公分",
       "price": "$1,169",
@@ -6505,6 +6497,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h18/438072166023198.jpg"
+    },
+    {
+      "code": "153511",
+      "name": "LG 55吋 NanoCell 一奈米 AI 4K 智慧顯示器 55NANO80ATA",
+      "price": "$16,199",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/hce/438072165335070.jpg"
     },
     {
       "code": "152584",
@@ -18235,6 +18235,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h04/hc6/450418091687966.jpg"
     },
     {
+      "code": "1987669",
+      "name": "True Innovations 辦公椅",
+      "price": "$2,299",
+      "original_price": "$2,899",
+      "discount": "$600",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/h8f/488919001956382.jpg"
+    },
+    {
       "code": "158959",
       "name": "Don Home 萊賽爾沁涼被 150公分 X 200公分 同頻",
       "price": "$875",
@@ -18257,14 +18265,6 @@
       "original_price": "$1,569",
       "discount": "$800",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h06/454001923719198.jpg"
-    },
-    {
-      "code": "145619",
-      "name": "LG 21公斤 AI DD 蒸氣滾筒 蒸洗脫洗衣機 WD-S21VB",
-      "price": "$30,599",
-      "original_price": "$35,999",
-      "discount": "$5,400",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h9c/239741827678238.jpg"
     },
     {
       "code": "129020",
@@ -18379,6 +18379,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbc/hfd/293903483306014.jpg"
     },
     {
+      "code": "138032",
+      "name": "伊萊克斯 32公升 極致美味700 獨立式雙溫控氣炸旋風烤箱 EOT3215XFG",
+      "price": "$4,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h94/h7c/118957256212510.jpg"
+    },
+    {
       "code": "122934",
       "name": "艾美特 16公升負離子除濕機 MD2J27C",
       "price": "$8,999",
@@ -18433,14 +18441,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/h21/151071926386718.jpg"
-    },
-    {
-      "code": "153511",
-      "name": "LG 55吋 NanoCell 一奈米 AI 4K 智慧顯示器 55NANO80ATA",
-      "price": "$16,199",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h57/hce/438072165335070.jpg"
     },
     {
       "code": "133200",
@@ -19873,14 +19873,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h00/326879514001438.jpg"
-    },
-    {
-      "code": "160391",
-      "name": "IRIS OHYAMA 透明扣式收納箱 45公升 X 3入",
-      "price": "$999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/ha0/453636594204702.jpg"
     },
     {
       "code": "156636",
@@ -21451,6 +21443,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hea/h01/16126463705118.jpg"
     },
     {
+      "code": "160391",
+      "name": "IRIS OHYAMA 透明扣式收納箱 45公升 X 3入",
+      "price": "$999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5a/ha0/453636594204702.jpg"
+    },
+    {
       "code": "155136-B",
       "name": "IRIS OHYAMA 萬能摺疊層架 5層 #KRSR-5",
       "price": "$3,699",
@@ -22017,14 +22017,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h36/hf3/328848173531166.jpg"
-    },
-    {
-      "code": "187808",
-      "name": "TheraBreath 凱斯博士 漱口水 溫和薄荷 1公升 X 2入組",
-      "price": "$775",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/hc5/378303714590750.jpg"
     },
     {
       "code": "139253",
@@ -23083,14 +23075,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9e/h62/438875647770654.jpg"
     },
     {
-      "code": "118328",
-      "name": "善存 維他命C甜嚼錠 500毫克 120錠 (60錠 X 2瓶)",
-      "price": "$419",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h51/397422147436574.jpg"
-    },
-    {
       "code": "115780",
       "name": "Otrivin 歐治鼻 海水鼻用噴霧器 50毫升",
       "price": "$235",
@@ -23657,14 +23641,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h16/hf9/397422619000862.jpg"
-    },
-    {
-      "code": "155539",
-      "name": "森永in果凍 (提神) 180公克 X 18入",
-      "price": "$539",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h95/380917960409118.jpg"
     },
     {
       "code": "153159",
@@ -27771,14 +27747,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h45/hca/469716652228638.jpg"
     },
     {
-      "code": "156144",
-      "name": "嬌生 美體主張香氛保濕乳 百合花梨香 500毫升 X 3入",
-      "price": "$499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h43/432345223790622.jpg"
-    },
-    {
       "code": "156085",
       "name": "米森 膠原搖搖 檸檬黑咖啡 7公克 X 30包",
       "price": "$999",
@@ -29827,6 +29795,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h48/h96/156051802914846.jpg"
     },
     {
+      "code": "187808",
+      "name": "TheraBreath 凱斯博士 漱口水 溫和薄荷 1公升 X 2入組",
+      "price": "$775",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h76/hc5/378303714590750.jpg"
+    },
+    {
       "code": "155690",
       "name": "Alepia Marseille 液態馬賽皂 馬鞭草 1000毫升 X 2入",
       "price": "$785",
@@ -29963,6 +29939,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb0/h58/417417010839582.jpg"
     },
     {
+      "code": "155539",
+      "name": "森永in果凍 (提神) 180公克 X 18入",
+      "price": "$539",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hce/h95/380917960409118.jpg"
+    },
+    {
       "code": "151621",
       "name": "紅牛 聰勁濃縮乳清蛋白 無加糖咖啡拿鐵風味 2.27公斤",
       "price": "$2,059",
@@ -30041,6 +30025,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hc7/hc6/487711087001630.jpg"
+    },
+    {
+      "code": "156144",
+      "name": "嬌生 美體主張香氛保濕乳 百合花梨香 500毫升 X 3入",
+      "price": "$499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h97/h43/432345223790622.jpg"
     },
     {
       "code": "155685",
@@ -30153,6 +30145,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h11/h7f/349174985719838.jpg"
+    },
+    {
+      "code": "118328",
+      "name": "善存 維他命C甜嚼錠 500毫克 120錠 (60錠 X 2瓶)",
+      "price": "$419",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h13/h51/397422147436574.jpg"
     },
     {
       "code": "97313",
@@ -34553,14 +34553,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h57/hf2/119755040030750.jpg"
-    },
-    {
-      "code": "134901",
-      "name": "玉美 有機無花果 600公克",
-      "price": "$669",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/hb8/138871485595678.jpg"
     },
     {
       "code": "126427",
@@ -39713,6 +39705,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6e/h2c/315744204226590.jpg"
+    },
+    {
+      "code": "134901",
+      "name": "玉美 有機無花果 600公克",
+      "price": "$669",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/hb8/138871485595678.jpg"
     },
     {
       "code": "403007",
@@ -45603,22 +45603,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h01/hae/33958123274270.jpg"
     },
     {
-      "code": "159850",
-      "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
-      "price": "$25,699",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/heb/490097849368606.jpg"
-    },
-    {
-      "code": "155641",
-      "name": "PAMP 財富女神 黃金條塊 999.9純金 5公克",
-      "price": "$25,499",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h78/379641020088350.jpg"
-    },
-    {
       "code": "155600",
       "name": "PAMP 財富女神 黃金條塊 999.9純金 2.5公克",
       "price": "$12,989",
@@ -49307,6 +49291,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha3/hdf/10520065474590.jpg"
     },
     {
+      "code": "159850",
+      "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
+      "price": "$25,699",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/heb/490097849368606.jpg"
+    },
+    {
       "code": "156597",
       "name": "PAMP 馬年彌月 黃金條塊 999.9純金 5公克",
       "price": "$25,799",
@@ -49321,6 +49313,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he7/h71/238306457190430.jpg"
+    },
+    {
+      "code": "155641",
+      "name": "PAMP 財富女神 黃金條塊 999.9純金 5公克",
+      "price": "$25,499",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h78/379641020088350.jpg"
     },
     {
       "code": "156598",
@@ -49569,14 +49569,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h74/h7c/149676462604318.jpg"
-    },
-    {
-      "code": "142039",
-      "name": "安控 通用洩壓裝置瓦斯罐 MCRV-203 250公克 X 48入",
-      "price": "$1,395",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/h45/191494076366878.jpg"
     },
     {
       "code": "160929-B",
@@ -53595,14 +53587,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/he0/450045417193502.jpg"
     },
     {
-      "code": "161209",
-      "name": "普利司通 215/45 R18 93Y POTENZA RE005 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/he0/450045417193502.jpg"
-    },
-    {
       "code": "161208",
       "name": "普利司通 215/40 R18 89Y POTENZA RE005 輪胎",
       "price": "點入確認價格",
@@ -53621,14 +53605,6 @@
     {
       "code": "161206",
       "name": "普利司通 245/40 R17 95Y POTENZA RE005 輪胎",
-      "price": "點入確認價格",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/he0/450045417193502.jpg"
-    },
-    {
-      "code": "161204",
-      "name": "普利司通 225/50 R17 98Y POTENZA RE005 輪胎",
       "price": "點入確認價格",
       "original_price": null,
       "discount": null,
@@ -60787,6 +60763,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/h64/69177222332446.jpg"
     },
     {
+      "code": "142039",
+      "name": "安控 通用洩壓裝置瓦斯罐 MCRV-203 250公克 X 48入",
+      "price": "$1,395",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/h45/191494076366878.jpg"
+    },
+    {
       "code": "154690",
       "name": "米其林 215/55 R17 94V Extra Load Primacy 5 輪胎",
       "price": "點入確認價格",
@@ -61305,6 +61289,22 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h03/h8c/455933970350110.jpg"
+    },
+    {
+      "code": "161209",
+      "name": "普利司通 215/45 R18 93Y POTENZA RE005 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/he0/450045417193502.jpg"
+    },
+    {
+      "code": "161204",
+      "name": "普利司通 225/50 R17 98Y POTENZA RE005 輪胎",
+      "price": "點入確認價格",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5e/he0/450045417193502.jpg"
     },
     {
       "code": "160444",
@@ -63689,14 +63689,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1b/h5a/487900249358366.jpg"
-    },
-    {
-      "code": "218559",
-      "name": "橘子工坊 除臭酵素洗衣精 4公升 X 2入",
-      "price": "$859",
-      "original_price": "$1,099",
-      "discount": "$240",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h2f/260838177275934.jpg"
     },
     {
       "code": "417455",
@@ -68873,6 +68865,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h96/30356695023646.jpg"
+    },
+    {
+      "code": "218559",
+      "name": "橘子工坊 除臭酵素洗衣精 4公升 X 2入",
+      "price": "$859",
+      "original_price": "$1,099",
+      "discount": "$240",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h2f/260838177275934.jpg"
     },
     {
       "code": "1707952",
