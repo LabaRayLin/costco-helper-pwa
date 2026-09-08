@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/9/8 下午11:52:32",
+  "updated_at": "2026/9/9 上午3:27:25",
   "count": 9539,
   "items": [
     {
@@ -2635,14 +2635,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h70/hb4/432046439268382.jpg"
     },
     {
-      "code": "158010-B",
-      "name": "Apple iPhone 17 512GB",
-      "price": "$35,399",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h7c/382222959312926.jpg"
-    },
-    {
       "code": "157831",
       "name": "Swann 4K 半球型 IP攝影機",
       "price": "$3,999",
@@ -3777,6 +3769,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/he3/he9/449275620982814.jpg"
+    },
+    {
+      "code": "158010-B",
+      "name": "Apple iPhone 17 512GB",
+      "price": "$35,399",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h28/h7c/382222959312926.jpg"
     },
     {
       "code": "158005-B",
@@ -5581,7 +5581,7 @@
     {
       "code": "8526388",
       "name": "三禾 鑄鐵平煎鍋 28公分",
-      "price": "$1,029",
+      "price": "$1,019",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1a/h47/501515266129950.jpg"
@@ -13427,14 +13427,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hdd/hdf/455933760208926.jpg"
     },
     {
-      "code": "161073",
-      "name": "VASAGLE 工業風二抽升降茶几",
-      "price": "$4,299",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/hf9/455933745758238.jpg"
-    },
-    {
       "code": "161067",
       "name": "YW 柏林橡木實木伸縮餐桌椅 5件組",
       "price": "$28,999",
@@ -18437,7 +18429,7 @@
     {
       "code": "1861988",
       "name": "DPS Insight 電競椅 深藍黑",
-      "price": "$4,389",
+      "price": "$4,599",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6f/h3b/384789243363358.jpg"
@@ -18521,6 +18513,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha7/h7b/455933755129886.jpg"
+    },
+    {
+      "code": "161073",
+      "name": "VASAGLE 工業風二抽升降茶几",
+      "price": "$4,299",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h64/hf9/455933745758238.jpg"
     },
     {
       "code": "159642",
@@ -19493,7 +19493,7 @@
     {
       "code": "106817",
       "name": "Trinity 六層多功能置物架 黑色",
-      "price": "$2,949",
+      "price": "$2,699",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/products/h10/hf9/8825999589406.jpg"
@@ -19717,7 +19717,7 @@
     {
       "code": "488963",
       "name": "Trinity 五層室外置物架",
-      "price": "$3,149",
+      "price": "$2,699",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/ha8/64586577444894.jpg"
@@ -30141,9 +30141,9 @@
     {
       "code": "1498699",
       "name": "Nu-Pure 泉水 250毫升 X 40瓶",
-      "price": "$275",
-      "original_price": "$315",
-      "discount": "$40",
+      "price": "$315",
+      "original_price": null,
+      "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/h03/369280609714206.jpg"
     },
     {
@@ -31945,14 +31945,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf4/h7f/255946961846302.jpg"
-    },
-    {
-      "code": "219930",
-      "name": "高坑 高粱原味牛肉乾 + 高粱辣味牛肉乾 300公克 X 2入",
-      "price": "$629",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h0b/153904729358366.jpg"
     },
     {
       "code": "167117",
@@ -39515,6 +39507,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6d/h03/473819875803166.jpg"
     },
     {
+      "code": "219930",
+      "name": "高坑 高粱原味牛肉乾 + 高粱辣味牛肉乾 300公克 X 2入",
+      "price": "$629",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8e/h0b/153904729358366.jpg"
+    },
+    {
       "code": "205303",
       "name": "哈瑞寶 金熊Q軟糖 1公斤",
       "price": "$469",
@@ -42341,9 +42341,9 @@
     {
       "code": "154988",
       "name": "Adidas 男經典Logo短袖上衣",
-      "price": "$649",
-      "original_price": null,
-      "discount": null,
+      "price": "$529",
+      "original_price": "$649",
+      "discount": "$120",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h48/h13/484306799624222.jpg"
     },
     {
@@ -43137,14 +43137,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hd3/h10/472591904800798.jpg"
-    },
-    {
-      "code": "1961240",
-      "name": "Skechers 女運動鞋",
-      "price": "$1,259",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h3e/473820155641886.jpg"
     },
     {
       "code": "1956429",
@@ -45347,6 +45339,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0e/h87/418530819309598.jpg"
     },
     {
+      "code": "1961240",
+      "name": "Skechers 女運動鞋",
+      "price": "$1,259",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h5b/h3e/473820155641886.jpg"
+    },
+    {
       "code": "1846502",
       "name": "The North Face 男短袖T恤",
       "price": "點入確認價格",
@@ -45429,7 +45429,7 @@
     {
       "code": "163768",
       "name": "PAMP Fender 吉他75週年紀念黃金吉他撥片幣 999.9純金 5公克",
-      "price": "$27,999",
+      "price": "$27,899",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h55/h74/503356538814494.jpg"
@@ -49221,7 +49221,7 @@
     {
       "code": "159850",
       "name": "PAMP 幸運鳳凰 黃金條塊 999.9純金 5公克",
-      "price": "$25,699",
+      "price": "$25,499",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h5c/heb/490097849368606.jpg"
@@ -49229,7 +49229,7 @@
     {
       "code": "155641",
       "name": "PAMP 財富女神 黃金條塊 999.9純金 5公克",
-      "price": "$25,499",
+      "price": "$25,279",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h26/h78/379641020088350.jpg"
@@ -49237,7 +49237,7 @@
     {
       "code": "155600",
       "name": "PAMP 財富女神 黃金條塊 999.9純金 2.5公克",
-      "price": "$12,989",
+      "price": "$12,879",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h2b/haa/379641020022814.jpg"
@@ -49261,7 +49261,7 @@
     {
       "code": "163877",
       "name": "PAMP 美國白頭鷹 黃金條塊 999.9純金 5公克",
-      "price": "$25,599",
+      "price": "$25,329",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hca/h90/504582787399710.jpg"
@@ -49269,7 +49269,7 @@
     {
       "code": "156598",
       "name": "PAMP 馬年彌月 黃金條塊 999.9純金 1盎司",
-      "price": "$148,119",
+      "price": "$148,069",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h56/h02/400499442253854.jpg"
@@ -49445,7 +49445,7 @@
     {
       "code": "133839",
       "name": "科克蘭 超細纖維擦拭布藍色 36入",
-      "price": "$489",
+      "price": "$545",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb5/h24/84259973529630.jpg"
@@ -49485,7 +49485,7 @@
     {
       "code": "135007",
       "name": "科克蘭 超細纖維擦拭布藍色 36入 X 9組",
-      "price": "$4,395",
+      "price": "$4,599",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h8b/hcd/84260007477278.jpg"
@@ -49509,7 +49509,7 @@
     {
       "code": "713160",
       "name": "科克蘭 超細纖維擦拭布 36入",
-      "price": "$489",
+      "price": "$545",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h20/h64/69177222332446.jpg"
@@ -60509,7 +60509,7 @@
     {
       "code": "122608",
       "name": "科克蘭 超細纖維擦拭布36入 X 9組",
-      "price": "$4,395",
+      "price": "$4,599",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h10/ha8/69065263710238.jpg"
@@ -65845,7 +65845,7 @@
     {
       "code": "172984",
       "name": "Sunlemon 動物絨毛玩偶 / 6歲以上",
-      "price": "$357",
+      "price": "$257",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h79/421141120581662.jpg"
