@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/9/18 下午11:41:52",
+  "updated_at": "2026/9/19 上午3:06:06",
   "count": 9565,
   "items": [
     {
@@ -665,14 +665,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h7d/h19/470130422186014.jpg"
-    },
-    {
-      "code": "160397-B",
-      "name": "Apple MacBook Neo 13吋 搭配 A18 Pro晶片 6核心CPU 5核心GPU 8GB 512GB SSD",
-      "price": "$24,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h6c/453636604100638.jpg"
     },
     {
       "code": "159901",
@@ -2555,14 +2547,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6a/h3f/506669136085022.jpg"
     },
     {
-      "code": "169009",
-      "name": "Apple Watch Series 12 (GPS) 42公釐 深古銅色鋁金屬錶殼 深古銅色米蘭式錶環",
-      "price": "$14,799",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h61/h57/506669133070366.jpg"
-    },
-    {
       "code": "169001-B",
       "name": "Apple Watch Series 12 (GPS) 42公釐 鋁金屬錶殼含錶帶",
       "price": "$13,399",
@@ -3699,6 +3683,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf2/h4a/69782798467102.jpg"
     },
     {
+      "code": "160397-B",
+      "name": "Apple MacBook Neo 13吋 搭配 A18 Pro晶片 6核心CPU 5核心GPU 8GB 512GB SSD",
+      "price": "$24,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h60/h6c/453636604100638.jpg"
+    },
+    {
       "code": "160290-B",
       "name": "Apple MacBook Air 15吋 搭配 M5晶片 10核心CPU 10核心GPU 16GB 512GB SSD",
       "price": "$47,599",
@@ -3833,6 +3825,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h65/h73/506669142867998.jpg"
+    },
+    {
+      "code": "169009",
+      "name": "Apple Watch Series 12 (GPS) 42公釐 深古銅色鋁金屬錶殼 深古銅色米蘭式錶環",
+      "price": "$14,799",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h61/h57/506669133070366.jpg"
     },
     {
       "code": "164120-B",
@@ -4437,7 +4437,7 @@
     {
       "code": "114556",
       "name": "Alphamic 加厚鋁箔紙 30公分 X 75公尺 X 2入",
-      "price": "$519",
+      "price": "$559",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h76/h12/11953503010846.jpg"
@@ -21443,14 +21443,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h02/hcb/203141575082014.jpg"
     },
     {
-      "code": "567872",
-      "name": "The Golden 大麥若葉粉末 3公克 X 176包",
-      "price": "$749",
-      "original_price": "$949",
-      "discount": "$200",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hf6/27131083128862.jpg"
-    },
-    {
       "code": "998437",
       "name": "Youth Light 優識立新複方金盞花萃取葉黃素 130粒",
       "price": "$799",
@@ -29683,6 +29675,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h08/he3/327562318479390.jpg"
     },
     {
+      "code": "567872",
+      "name": "The Golden 大麥若葉粉末 3公克 X 176包",
+      "price": "$749",
+      "original_price": "$949",
+      "discount": "$200",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h2e/hf6/27131083128862.jpg"
+    },
+    {
       "code": "240666",
       "name": "Sports Research Omega-3 濃縮魚油 1250mg 150粒",
       "price": "$1,109",
@@ -30003,14 +30003,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h76/hd0/35053466288158.jpg"
     },
     {
-      "code": "463663",
-      "name": "冷凍薄鹽白腹鯖魚片 800公克",
-      "price": "$425",
-      "original_price": "$525",
-      "discount": "$100",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h21/449275469266974.jpg"
-    },
-    {
       "code": "398704",
       "name": "立頓 茗閒情台灣茶 活綠茶三角茶包 2.5公克 X 120入",
       "price": "$319",
@@ -30105,14 +30097,6 @@
       "original_price": "$699",
       "discount": "$150",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hae/79615101796382.jpg"
-    },
-    {
-      "code": "1834",
-      "name": "台畜肉鬆 1公斤",
-      "price": "$315",
-      "original_price": "$389",
-      "discount": "$74",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h96/32150067871774.jpg"
     },
     {
       "code": "153283",
@@ -30837,7 +30821,7 @@
     {
       "code": "596444",
       "name": "科克蘭 蔓越莓綜合果汁 2.83公升 X 2入",
-      "price": "$459",
+      "price": "$297",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h67/hf3/65992444149790.jpg"
@@ -31121,6 +31105,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/hbd/h85/13026334801950.jpg"
+    },
+    {
+      "code": "1834",
+      "name": "台畜肉鬆 1公斤",
+      "price": "$389",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hf5/h96/32150067871774.jpg"
     },
     {
       "code": "216971",
@@ -31517,7 +31509,7 @@
     {
       "code": "78080",
       "name": "喜年來 原味蛋捲 72公克 X 20入",
-      "price": "$415",
+      "price": "$459",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h9d/h7d/70175758680094.jpg"
@@ -31565,7 +31557,7 @@
     {
       "code": "136767",
       "name": "富里 富麗有機白米 1.5公斤 X 3入",
-      "price": "$489",
+      "price": "$499",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6b/hb9/119755031576606.jpg"
@@ -32117,9 +32109,9 @@
     {
       "code": "159839",
       "name": "神戶風月堂 甜點交響曲禮盒 297.9公克",
-      "price": "$629",
-      "original_price": null,
-      "discount": null,
+      "price": "$509",
+      "original_price": "$629",
+      "discount": "$120",
       "img": "https://www.costco.com.tw/medias/sys_master/images/ha1/hc9/483940549656606.jpg"
     },
     {
@@ -32173,9 +32165,9 @@
     {
       "code": "449717",
       "name": "硬咖啡 濾掛咖啡禮盒組 10公克 X 30入",
-      "price": "$469",
-      "original_price": null,
-      "discount": null,
+      "price": "$379",
+      "original_price": "$469",
+      "discount": "$90",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h96/h7b/491698202411038.jpg"
     },
     {
@@ -32513,14 +32505,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h6e/h2c/315744204226590.jpg"
-    },
-    {
-      "code": "147388",
-      "name": "喜年來 芝麻蛋捲 好事禮盒 1440公克",
-      "price": "$459",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd4/273678058782750.jpg"
     },
     {
       "code": "105918",
@@ -33125,9 +33109,9 @@
     {
       "code": "162449",
       "name": "王德傳 原葉研磨濾掛茶禮盒30包入",
-      "price": "$719",
-      "original_price": null,
-      "discount": null,
+      "price": "$579",
+      "original_price": "$719",
+      "discount": "$140",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h89/h7f/502266182893598.jpg"
     },
     {
@@ -34781,7 +34765,7 @@
     {
       "code": "110972",
       "name": "五木 直條寬捲麵 700公克 X 3入",
-      "price": "$235",
+      "price": "$249",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h75/hb1/31837912072222.jpg"
@@ -37243,6 +37227,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h06/h92/203702730850334.jpg"
     },
     {
+      "code": "125506",
+      "name": "卜蜂 冷凍無骨香酥雞 2.4公斤",
+      "price": "$589",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h1b/50024740388894.jpg"
+    },
+    {
       "code": "1153216",
       "name": "亞細亞田園 冷凍蔓越莓1.5公斤 X 6包",
       "price": "$1,749",
@@ -37469,7 +37461,7 @@
     {
       "code": "333345",
       "name": "玉美 產銷履歷櫛瓜5公斤",
-      "price": "$929",
+      "price": "$1,099",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h23/h44/273930990551070.jpg"
@@ -39523,6 +39515,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h0a/hff/11953422696478.jpg"
     },
     {
+      "code": "463663",
+      "name": "冷凍薄鹽白腹鯖魚片 800公克",
+      "price": "$425",
+      "original_price": "$525",
+      "discount": "$100",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hec/h21/449275469266974.jpg"
+    },
+    {
       "code": "1168940",
       "name": "健達 繽紛樂 43公克 X 15入",
       "price": "$369",
@@ -39643,6 +39643,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/he0/hb8/401755498184734.jpg"
     },
     {
+      "code": "147388",
+      "name": "喜年來 芝麻蛋捲 好事禮盒 1440公克",
+      "price": "$459",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hc1/hd4/273678058782750.jpg"
+    },
+    {
       "code": "68068",
       "name": "紅龍 冷凍雞肉捲 220公克 X 6入",
       "price": "$399",
@@ -39737,14 +39745,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h24/hdb/80298187915294.webp"
-    },
-    {
-      "code": "125506",
-      "name": "卜蜂 冷凍無骨香酥雞 2.4公斤",
-      "price": "$589",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h1b/50024740388894.jpg"
     },
     {
       "code": "676422",
@@ -45789,7 +45789,7 @@
     {
       "code": "156597",
       "name": "PAMP 馬年彌月 黃金條塊 999.9純金 5公克",
-      "price": "$24,839",
+      "price": "$24,889",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h1d/hac/400499440975902.jpg"
