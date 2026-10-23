@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026/10/24 上午12:24:07",
+  "updated_at": "2026/10/24 上午4:09:36",
   "count": 9652,
   "items": [
     {
@@ -6169,14 +6169,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h99/h1a/398741524709406.jpg"
-    },
-    {
-      "code": "153535",
-      "name": "TCL 85吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 85C6K",
-      "price": "$49,999",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/he2/438072178278430.jpg"
     },
     {
       "code": "153290",
@@ -18723,6 +18715,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hfa/hd8/453636540137502.jpg"
     },
     {
+      "code": "153535",
+      "name": "TCL 85吋 4K Mini LED Google TV 量子智能液晶顯示器 不含視訊盒 85C6K",
+      "price": "$49,999",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h85/he2/438072178278430.jpg"
+    },
+    {
       "code": "152542",
       "name": "麗聲鐘 靜音掛鐘 #CMG601NR02",
       "price": "$1,199",
@@ -19121,14 +19121,6 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h05/h9a/12447874973726.jpg"
-    },
-    {
-      "code": "160822",
-      "name": "Speedo 女連身及膝泳裝",
-      "price": "$1,199",
-      "original_price": "$1,499",
-      "discount": "$300",
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h5a/471660322357278.jpg"
     },
     {
       "code": "1872206",
@@ -19537,6 +19529,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h67/h3e/11917961658398.jpg"
+    },
+    {
+      "code": "160822",
+      "name": "Speedo 女連身及膝泳裝",
+      "price": "$1,199",
+      "original_price": "$1,499",
+      "discount": "$300",
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h87/h5a/471660322357278.jpg"
     },
     {
       "code": "160823",
@@ -22069,7 +22069,7 @@
     {
       "code": "325143",
       "name": "科克蘭 維生素 D3 350 IU 600錠",
-      "price": "$279",
+      "price": "$299",
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/haa/hac/362805045493790.jpg"
@@ -37115,6 +37115,14 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h90/31835977875486.jpg"
     },
     {
+      "code": "125506",
+      "name": "卜蜂 冷凍無骨香酥雞 2.4公斤",
+      "price": "$589",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h1b/50024740388894.jpg"
+    },
+    {
       "code": "123872",
       "name": "Saongwon 冷凍韓式蔬菜煎餅 100公克 X 10入",
       "price": "$379",
@@ -37757,9 +37765,9 @@
     {
       "code": "162542",
       "name": "維力 素飄香麻辣風味麵 105公克 X 9入",
-      "price": "$279",
-      "original_price": null,
-      "discount": null,
+      "price": "$229",
+      "original_price": "$279",
+      "discount": "$50",
       "img": "https://www.costco.com.tw/medias/sys_master/images/h34/hcd/504582157074462.jpg"
     },
     {
@@ -39771,14 +39779,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/h90/h63/382511783346206.jpg"
     },
     {
-      "code": "1852615",
-      "name": "哈利波特 魔法沖泡粉杯組",
-      "price": "$419",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/hac/520192218923038.jpg"
-    },
-    {
       "code": "179922",
       "name": "豐力富紐西蘭頂級純濃奶粉 2.6公斤 X 150組",
       "price": "$115,499",
@@ -40715,14 +40715,6 @@
       "img": "https://www.costco.com.tw/medias/sys_master/images/hf1/h03/369280609714206.jpg"
     },
     {
-      "code": "125506",
-      "name": "卜蜂 冷凍無骨香酥雞 2.4公斤",
-      "price": "$589",
-      "original_price": null,
-      "discount": null,
-      "img": "https://www.costco.com.tw/medias/sys_master/images/hb8/h1b/50024740388894.jpg"
-    },
-    {
       "code": "1786475",
       "name": "Rodeo Joe's 冷凍綜合炸物組 1.14公斤",
       "price": "$197",
@@ -40881,6 +40873,14 @@
       "original_price": null,
       "discount": null,
       "img": "https://www.costco.com.tw/medias/sys_master/images/h43/h7d/415044033216542.jpg"
+    },
+    {
+      "code": "1852615",
+      "name": "哈利波特 魔法沖泡粉杯組",
+      "price": "$419",
+      "original_price": null,
+      "discount": null,
+      "img": "https://www.costco.com.tw/medias/sys_master/images/h8c/hac/520192218923038.jpg"
     },
     {
       "code": "163102",
